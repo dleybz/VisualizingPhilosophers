@@ -1,0 +1,6 @@
+SELECT *
+WHERE {
+?Person a <http://dbpedia.org/ontology/Comedian> .
+?Person <http://dbpedia.org/ontology/influenced> ?influenced.
+?Person <http://dbpedia.org/ontology/birthDate> ?birthDate.
+}

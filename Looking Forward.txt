@@ -1,0 +1,8 @@
+Problems to solve:
+Weight nodesize, not just fontsize
+Figure out better formula for converting weight to fontsize (currently just multiplying weight by 32)
+Weight purely influenced people accordingly (make them smallest)
+Figure out why persons with parenthesis in their names are being designated with 0 weight
+Figure out how to visualize the larger (philosophers) dataset
+Weight arrows according to the average of the two nodes ??
+Colour-code ??s
