@@ -1,8 +1,15 @@
 Problems to solve:
-Weight nodesize, not just fontsize
+Weight nodesize, not just fontsize [[fixedsize=false should make node size dependent on font size]]
 Figure out better formula for converting weight to fontsize (currently just multiplying weight by 32)
-Weight purely influenced people accordingly (make them smallest)
-Figure out why persons with parenthesis in their names are being designated with 0 weight
-Figure out how to visualize the larger (philosophers) dataset
-Weight arrows according to the average of the two nodes ??
-Colour-code ??s
+Figure out how to visualize the larger (philosophers) dataset [[use single powerful computer]]
+#Weight arrows according to the average of the two nodes ??
+Colourcode ??
+
+splines=polyline
+nodesep=.01
+fixedsize=false
+
+Just change weight to a function of page length
+
+Create new dataframe, add row iff row$influenced %in% row$name
+
