@@ -1,0 +1,2392 @@
+digraph timeline { 
+ ranksep=1; splines=polyline; nodesep=.01; fixedsize=false; size = "1000,200";
+
+ { 
+node [shape=plaintext, fontsize=16];
+ -624 -> -620 -> -610 -> -551 -> -535 -> -515 -> -490 -> -487 -> -470 -> -460 -> -435 -> -408 -> -360 -> -341 -> -334 -> -316 -> -214 -> -185 -> -110 -> -106 -> -70 -> -65 -> -43 -> 5 -> 55 -> 120 -> 160 -> 204 -> 234 -> 245 -> 480 -> 801 -> 804 -> 815 -> 994 -> 1017 -> 1033 -> 1079 -> 1095 -> 1126 -> 1137 -> 1141 -> 1166 -> 1260 -> 1266 -> 1287 -> 1320 -> 1355 -> 1401 -> 1406 -> 1415 -> 1463 -> 1466 -> 1467 -> 1468 -> 1469 -> 1474 -> 1486 -> 1498 -> 1511 -> 1530 -> 1533 -> 1547 -> 1548 -> 1550 -> 1551 -> 1552 -> 1561 -> 1571 -> 1572 -> 1583 -> 1584 -> 1592 -> 1605 -> 1609 -> 1621 -> 1623 -> 1627 -> 1629 -> 1632 -> 1634 -> 1638 -> 1639 -> 1646 -> 1647 -> 1659 -> 1660 -> 1663 -> 1668 -> 1670 -> 1679 -> 1685 -> 1689 -> 1694 -> 1698 -> 1701 -> 1705 -> 1707 -> 1710 -> 1711 -> 1712 -> 1713 -> 1714 -> 1717 -> 1721 -> 1722 -> 1723 -> 1724 -> 1726 -> 1727 -> 1728 -> 1729 -> 1730 -> 1731 -> 1736 -> 1737 -> 1740 -> 1743 -> 1744 -> 1748 -> 1749 -> 1751 -> 1753 -> 1754 -> 1756 -> 1757 -> 1758 -> 1759 -> 1760 -> 1762 -> 1763 -> 1766 -> 1767 -> 1768 -> 1769 -> 1770 -> 1772 -> 1773 -> 1775 -> 1776 -> 1777 -> 1778 -> 1781 -> 1783 -> 1787 -> 1788 -> 1789 -> 1790 -> 1791 -> 1792 -> 1793 -> 1794 -> 1797 -> 1798 -> 1799 -> 1801 -> 1802 -> 1803 -> 1804 -> 1805 -> 1806 -> 1807 -> 1808 -> 1809 -> 1810 -> 1811 -> 1812 -> 1814 -> 1815 -> 1816 -> 1817 -> 1818 -> 1819 -> 1820 -> 1821 -> 1822 -> 1823 -> 1824 -> 1825 -> 1826 -> 1828 -> 1830 -> 1831 -> 1832 -> 1833 -> 1834 -> 1835 -> 1836 -> 1837 -> 1838 -> 1839 -> 1840 -> 1841 -> 1842 -> 1843 -> 1844 -> 1845 -> 1846 -> 1847 -> 1848 -> 1849 -> 1850 -> 1851 -> 1852 -> 1853 -> 1854 -> 1855 -> 1856 -> 1857 -> 1858 -> 1859 -> 1861 -> 1862 -> 1863 -> 1864 -> 1865 -> 1866 -> 1867 -> 1868 -> 1869 -> 1870 -> 1871 -> 1872 -> 1873 -> 1874 -> 1875 -> 1876 -> 1877 -> 1878 -> 1879 -> 1880 -> 1881 -> 1882 -> 1883 -> 1884 -> 1885 -> 1886 -> 1887 -> 1888 -> 1889 -> 1890 -> 1891 -> 1892 -> 1893 -> 1894 -> 1895 -> 1896 -> 1897 -> 1898 -> 1899 -> 1900 -> 1901 -> 1902 -> 1903 -> 1904 -> 1905 -> 1906 -> 1907 -> 1908 -> 1909 -> 1910 -> 1911 -> 1912 -> 1913 -> 1914 -> 1915 -> 1916 -> 1917 -> 1918 -> 1919 -> 1920 -> 1921 -> 1922 -> 1923 -> 1924 -> 1925 -> 1926 -> 1927 -> 1928 -> 1929 -> 1930 -> 1931 -> 1932 -> 1933 -> 1934 -> 1935 -> 1936 -> 1937 -> 1938 -> 1939 -> 1940 -> 1941 -> 1942 -> 1944 -> 1945 -> 1946 -> 1947 -> 1948 -> 1949 -> 1950 -> 1951 -> 1952 -> 1954 -> 1955 -> 1957 -> 1958 -> 1959 -> 1961 -> 1962 -> 1964 -> 1966 -> 1967 -> 1969 -> 1970 -> 1971 -> 1972 -> 1973 -> 1978 -> 1979 -> 1980 -> 2006 ;
+ 
+}
+
+ node [shape=plaintext, fontsize=1.77777777777778];{
+"Thales"; "Aesop"; "Democritus"; "Aristippus"; "Speusippus"; "Arcesilaus"; "Carneades"; "Panaetius"; "Horace"; "Ovid"; "Leucippus"; "Epictetus"; "Porphyry  philosopher "; "Iamblichus"; "Boethius"; "Al-Kindi"; "Bayazid Bastami"; "Dawud al-Zahiri"; "Cheng Yi  philosopher "; "Peter Abelard"; "Avempace"; "Nizami Ganjavi"; "Abu al-Abbas al-Nabati"; "Meister Eckhart"; "John Wycliffe"; "Gemistus Pletho"; "Filippo Lippi"; "John Argyropoulos"; "Gil Vicente"; "John Colet"; "Ludovico Ariosto"; "Andrea del Sarto"; "Maarten van Heemskerck"; "Giorgio Vasari"; "John Napier"; "William Camden"; "Richard Hakluyt"; "Mulla Sadra"; "Ben Jonson"; "Thomas Browne"; "Henry Vaughan"; "Robert Boyle"; "Antoine Ranc"; "James Gregory  mathematician "; "Gabriel Wagner"; "Luca Carlevarijs"; "Thomas Blackwell  scholar "; "Georges-Louis Leclerc, Comte de Buffon"; "Alexander Gottlieb Baumgarten"; "Tobias Smollett"; "Christopher Smart"; "Mir Taqi Mir"; "Immanuel Kant"; "Moses Mendelssohn"; "Hong Dae-yong"; "Johannes Nikolaus Tetens"; "Ghulam Ali Dihlawi"; "Jeremy Bentham"; "Adam Weishaupt"; "Johann Baptist von Lampi the Elder"; "Benjamin Thompson"; "Joseph de Maistre"; "Christian Jakob Kraus"; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "Antonio Isopi"; "Franz Joseph Gall"; "William Cobbett"; "Alexander von Humboldt"; "Georg Wilhelm Friedrich Hegel"; "James Mill"; "Carl Friedrich Gauss"; "Humphry Davy"; "William Hazlitt"; "William Sturgeon"; "Thomas Hodgskin"; "Konstantin Batyushkov"; "Friedrich List"; "Mohammad Ibrahim Zauq"; "George Green"; "William Whewell"; "Ghalib"; "Owen Chase"; "Karl Georg Christian von Staudt"; "Antoine Augustin Cournot"; "Robert Walter Weir"; "Jules Dupuit"; "Carl von Rokitansky"; "Ernst von Bibra"; "Charles Coleman  English painter "; "Lysander Spooner"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "Edward Blyth"; "Henri Victor Regnault"; "Vissarion Belinsky"; "William Makepeace Thackeray"; "Charles Bray"; "Charles Grafton Page"; "Julius von Mayer"; "Mikhail Lermontov"; "Charles Bernard Renouvier"; "Martins Pena"; "William Cubley"; "Angelo Genocchi"; "Thomas Mayne Reid"; "Giuseppe Rovani"; "John Ruskin"; "William John Macquorn Rankine"; "Hermann von Helmholtz"; "Rudolf Virchow"; "August Schleicher"; "Heinrich Schliemann"; "John Evans  archaeologist "; "Kuno Fischer"; "Augustus Le Plongeon"; "Friedrich Albert Lange"; "George Meredith"; "Camille Pissarro"; "Alexei Savrasov"; "Nikolai Leskov"; "Daagh Dehlvi"; "Wilhelm Wundt"; "Ivan Shishkin"; "Robert G. Ingersoll"; "James Abbott McNeill Whistler"; "Alexander Potebnja"; "Nikolay Dobrolyubov"; "Ivan Kramskoi"; "Machado de Assis"; "August Kundt"; "August Leskien"; "George Sylvester Morris"; "Johann Dieter Wassmann"; "Mykhailo Drahomanov"; "Alfred Marshall"; "Georg Friedrich Knapp"; "Antero de Quental"; "Gleb Uspensky"; "Antonio Labriola"; "Ilya Repin"; "Friedrich Nietzsche"; "Paul Verlaine"; "Jacint Verdaguer"; "Theodor Hertzka"; "Rudolf Christoph Eucken"; "Wilhelm Windelband"; "Rufus Fairchild Zogbaum"; "William Morris Davis"; "Hermann Ebbinghaus"; "Martinus Beijerinck"; "Hans Vaihinger"; "Ion Luca Caragiale"; "Vladimir Solovyov  philosopher "; "Howard Pyle"; "Adolfo Hohenstein"; "Benjamin Tucker"; "Sergei Winogradsky"; "Henri-Edmond Cross"; "Eugen Bleuler"; "Karl Pearson"; "Charles Scott Sherrington"; "Vladimir Bekhterev"; "Alice Pike Barney"; "Shibli Nomani"; "Alfred Binet"; "Giuseppe Peano"; "Gaetano Mosca"; "Albrecht Penck"; "Frank William Taussig"; "Henri Bergson"; "John Dewey"; "Henry Head"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Joseph Southall"; "Gustav Klimt"; "Carl Eytel"; "John R. Commons"; "Georges Palante"; "Werner Sombart"; "Antoni Lange"; "Charles Spearman"; "W. I. Thomas"; "Constantine P. Cavafy"; "George Santayana"; "Thomas Walker Arnold"; "Max Weber"; "Franz Oppenheimer"; "Richard Adolf Zsigmondy"; "George Bridgman"; "M. P. Shiel"; "Ernest William Brown"; "Lev Shestov"; "Benedetto Croce"; "Jacques Huber"; "Camilo Pessanha"; "Ladislaus Bortkiewicz"; "Henri Matisse"; "Rudolf Otto"; "Roscoe Pound"; "Nikolay Lossky"; "Edward Gordon Craig"; "Bertrand Russell"; "Avram Steuerman-Rodion"; "G. E. Moore"; "Antonie Pannekoek"; "Ford Madox Ford"; "Henri Barbusse"; "Nikolai Berdyaev"; "J. C. Leyendecker"; "Ernst Cassirer"; "Lucy Maud Montgomery"; "Wesley Clair Mitchell"; "Giovanni Gentile"; "Emil Lask"; "F. L. Griggs"; "Allyn Abbott Young"; "Ivan Cankar"; "Isadora Duncan"; "Maximilian Voloshin"; "W. D. Ross"; "Lise Meitner"; "Marcello Dudovich"; "Muhammad Sirajuddin Naqshbandi"; "Edward Everett Dale"; "Otto Hahn"; "Oswald Spengler"; "Friedrich Meggendorfer"; "Hans Hofmann"; "Alice Dayrell Caldeira Brant"; "Henryk Grossman"; "Ion Minulescu"; "Emanuel Hahn"; "Florence Wyle"; "Jacques Maritain"; "Grigol Robakidze"; "Nicolai Hartmann"; "Virginia Woolf"; "Charles Sheeler"; "Gertrude Barrows Bennett"; "Fern Coppedge"; "Otto Rank"; "Yevgeny Zamyatin"; "Alexandre Mercereau"; "Victor Forsythe"; "Velimir Khlebnikov"; "Dino Campana"; "Luigi Amoroso"; "Edwin Ray Guthrie"; "Chester Barnard"; "Benjamin Anderson"; "Franz Rosenzweig"; "Emil Isac"; "Georgia O'Keeffe"; "C. D. Broad"; "Walther Penck"; "Amjad Hyderabadi"; "Will Hay"; "Carl Schmitt"; "Giuseppe Ungaretti"; "Martin Heidegger"; "Siegfried Kracauer"; "Cissy van Marxveldt"; "Jacob L. Moreno"; "Man Ray"; "Mark Tobey"; "Paul Strand"; "Groucho Marx"; "Maung Maung Gyi  painter "; "Kurt Lewin"; "France Bevk"; "Stanton Macdonald-Wright"; "Ba Zaw"; "Clarence Edwin Ayres"; "Danilo Lokar"; "Bruno Schulz"; "Walter Benjamin"; "Vladimir Mayakovsky"; "Leslie Comrie"; "Henry Murray"; "Ragnar Frisch"; "Helmuth Kulenkampff"; "Eugenio Montale"; "Lev Vygotsky"; "Benjamin Lee Whorf"; "Georges Bataille"; "Charles Hartshorne"; "Louise Bogan"; "Qalandar Baba Auliya"; "Erich Maria Remarque"; "Harry Crosby"; "Joachim Wach"; "Saya Saung"; "John McLaughlin  artist "; "Friedrich Hayek"; "Adolf Ellegard Jensen"; "Edwin Way Teale"; "Allen Tate"; "Wang Li  linguist "; "Ludwig von Bertalanffy"; "Ernest Nagel"; "Ngwe Gaing"; "Simon Kuznets"; "Henri Lefebvre"; "Francis Criss"; "Peter van de Kamp"; "Karl Popper"; "Fritz Machlup"; "Alexander Luria"; "Stevie Smith"; "Talcott Parsons"; "William Ross Ashby"; "Joan Robinson"; "Ba Thet"; "Joseph Campbell"; "Witold Gombrowicz"; "Oskar R. Lange"; "Edvard Kocbek"; "Bill Brandt"; "Richard Kahn, Baron Kahn"; "Albert W. Tucker"; "Eugenia Berlin"; "F. A. Harper"; "Werner Fenchel"; "Emmanuel Levinas"; "Hannah Arendt"; "Samuel Beckett"; "Henny Youngman"; "David Smith  sculptor "; "Jim Thompson  writer "; "Daphne du Maurier"; "James Meade"; "Edgar Lustgarten"; "Maurice Blanchot"; "Ferguson Rodger"; "John Kenneth Galbraith"; "Simone de Beauvoir"; "Nicholas Kaldor"; "Simone Weil"; "Paul A. Baran"; "A. J. Ayer"; "Ursula Nordstrom"; "Paul Sweezy"; "Kin Maung"; "Phil Silvers"; "William Golding"; "Maurice Allais"; "George Stigler"; "Trygve Haavelmo"; "Brian O'Nolan"; "David Park  painter "; "Northrop Frye"; "Jackson Pollock"; "Ba Kyi"; "Benjamin Walker  author "; "R. A. Lafferty"; "Julia de Burgos"; "Irwin Corey"; "William Vickrey"; "Frances Senska"; "Armen Alchian"; "Leigh Brackett"; "Meary James Thurairajah Tambimuttu"; "Roland Barthes"; "Ross Macdonald"; "Georg Henrik von Wright"; "Peter Geach"; "Alfonso A. Ossorio"; "Richard Hofstadter"; "Maya Deren"; "Jocelyn Herbert"; "Robert Bloch"; "Donald Davidson  philosopher "; "Manny Farber"; "Arthur C. Clarke"; "Fereydoon Motamed"; "Eric Hobsbawm"; "James Tobin"; "Theodore Sturgeon"; "James Duesenberry"; "Louis Althusser"; "James M. Buchanan"; "P. F. Strawson"; "Daniel Bell"; "Philippa Foot"; "John Figueroa"; "Charles Bukowski"; "Seymour Benzer"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Milan Komar"; "Richard Cyert"; "Kingsley Amis"; "Imre Lakatos"; "William Baumol"; "Richard Timberlake"; "Hans Sennholz"; "H. C. Westermann"; "Jacob Mincer"; "Maria Luisa Spaziani"; "Italo Calvino"; "Paul Feyerabend"; "James Baldwin"; "David Landes"; "Anthony Caro"; "William H. Gass"; "Flannery O'Connor"; "Brian Aldiss"; "William Styron"; "Frantz Fanon"; "Elmore Leonard"; "Johnny Carson"; "Anne McCaffrey"; "Poul Anderson"; "Richard Matheson"; "Wynne Godley"; "Michel Foucault"; "Neal Cassady"; "Dieter Henrich"; "Charlie Callas"; "Goh Sin Tub"; "Burton Dreben"; "Chad Oliver"; "Wally Hedrick"; "Ibn-e-Safi"; "Maurice Sendak"; "Hubert Selby, Jr."; "Jean Baudrillard"; "George Parshall"; "Ian Roderick Macneil"; "John Montague  poet "; "Dane Zajc"; "Dominik Smole"; "Harold Pinter"; "Gary Snyder"; "Harold Bloom"; "Michel Serres"; "Zvi Griliches"; "Anthony Downs"; "Mario Szenessy"; "Toni Morrison"; "William Goldman"; "Thomas Bernhard"; "Rajneesh"; "Robert Coover"; "Sylvia Plath"; "Nicholas Wolterstorff"; "Robert B. Parker"; "Veno Taufer"; "Flip Wilson"; "Jerzy Grotowski"; "Grady Nutt"; "Paul Cohen  mathematician "; "Pierre Clastres"; "Alasdair Gray"; "Richard Swinburne"; "Clive Granger"; "Michael Walzer"; "Edward Said"; "Abbie Hoffman"; "Gianni Vattimo"; "Alain Badiou"; "Raymond Carver"; "Joyce Carol Oates"; "Seamus Heaney"; "Martin Feldstein"; "Michael Moorcock"; "Robert Rowthorn"; "George Akerlof"; "Hagen Kleinert"; "David Lewis  philosopher "; "Paul Mooney  comedian "; "Bas van Fraassen"; "Robert F. Engle"; "Robert Klein"; "Mazhar Kaleem"; "Joy Williams  American writer "; "Bernard Cornwell"; "Yadin Dudai"; "Wlad Godzich"; "M. John Harrison"; "Reg Hartt"; "Jerry A. Hausman"; "Gillian Rose"; "Salman Rushdie"; "Lydia Davis"; "Ann Beattie"; "Hal Varian"; "Dan Simmons"; "George R. R. Martin"; "William Gibson"; "Robert B. Pippin"; "Samuel Hui"; "Kyoko Mizuki"; "R. Radhakrishnan"; "Michael Kwan"; "Jay Leno"; "Eve Kosofsky Sedgwick"; "Bob Black"; "Don Lavoie"; "John Milbank"; "Marc Lavoie"; "Rowan Atkinson"; "James M. Poterba"; "Vic Reeves"; "Muhammad Iqbal Choudhary"; "Abhijit Banerjee"; "David Leavitt"; "Jon Stewart"; "Eddie Izzard"; "Pauline Marcelle"; "Michael Kremer"; "Bret Easton Ellis"; "Harry Hill"; "Ji Suk-jin"; "Ted Chiang"; "Idris Azad"; "Alessandro Piperno"; "Jeong Hyeong-don"; "Bryce Hudson"; }
+node [shape=plaintext, fontsize=3.55555555555555];{
+"Anaximander"; "Confucius"; "Empedocles"; "Gorgias"; "Philodemus"; "Johannes Scotus Eriugena"; "Ibn Hazm"; "Zhou Dunyi"; "Averroes"; "William of Ockham"; "Giovanni Pico della Mirandola"; "Juan del Encina"; "Jean Bodin"; "Miguel de Cervantes"; "John Donne"; "John Pory"; "Robert Moray"; "Christiaan Huygens"; "Jean Racine"; "Daniel Defoe"; "Bernard Mandeville"; "Samuel Richardson"; "Henry Fielding"; "Baron d'Holbach"; "James Hutton"; "Johann Heinrich Lambert"; "James Macpherson"; "Johann Gottfried Herder"; "George Crabbe"; "William Godwin"; "Maine de Biran"; "Thomas Robert Malthus"; "Jean-Baptiste Say"; "Ugo Foscolo"; "Sir William Hamilton, 9th Baronet"; "John Austin  legal philosopher "; "Alphonse de Lamartine"; "Charles Babbage"; "Percy Bysshe Shelley"; "Charles Lyell"; "Adam Mickiewicz"; "Josiah Warren"; "Almeida Garrett"; "Adalbert Stifter"; "Henrik Wergeland"; "Charles Darwin"; "Mikhail Bakunin"; "Gustave de Molinari"; "Gustave Courbet"; "Karl Knies"; "Thomas Henry Huxley"; "Adolf Bastian"; "Joseph Dietzgen"; "Thomas Hill Green"; "Gustav von Schmoller"; "Gabriel Tarde"; "Richard Avenarius"; "Adolf Mayer"; "Carl Stumpf"; "Auguste Forel"; "August Strindberg"; "Alexius Meinong"; "Richard T. Ely"; "Samuel Alexander"; "Pierre Janet"; "Robert Talbot Kelly"; "George Herbert Mead"; "Charles Cooley"; "F. C. S. Schiller"; "George Gurdjieff"; "J. M. E. McTaggart"; "Paul Otlet"; "William McDougall  psychologist "; "John Millington Synge"; "Edwin Holt"; "Robert Frost"; "Max Scheler"; "Carl Jung"; "Eva Henrietta Hamilton"; "Otto Gross"; "Martin Buber"; "Othmar Spann"; "Wallace Stevens"; "Tudor Arghezi"; "Otto Weininger"; "Morris Raphael Cohen"; "Giovanni Papini"; "Hans Kelsen"; "Melanie Klein"; "Joseph Schumpeter"; "A. Merritt"; "Mateiu Caragiale"; "Olaf Stapledon"; "Alvin Hansen"; "Robinson Jeffers"; "Scipio Slataper"; "Thomas Hart Benton  painter "; "Jan Matulka"; "Zora Neale Hurston"; "Jacob Viner"; "Muhammad Husayn Tabataba'i"; "John Anderson  philosopher "; "James Thurber"; "Mark Van Doren"; "Harold Hotelling"; "Jean Piaget"; "Norbert Elias"; "C. S. Forester"; "Richard McKeon"; "Anton Vodnik"; "Laura Riding"; "Stanley William Hayter"; "Lon L. Fuller"; "Frank P. Ramsey"; "Joseph Cornell"; "Alexander Gerschenkron"; "C. H. Waddington"; "T. H. White"; "R. S. Mugali"; "L. Sprague de Camp"; "Richard Wright  author "; "Theodore Roethke"; "William Keepers Maxwell, Jr."; "Abraham Maslow"; "Wallace Stegner"; "Tjalling Koopmans"; "Paul Goodman"; "J. L. Austin"; "Lawrence Durrell"; "Josef Steindl"; "Boris Pahor"; "Alfred Bester"; "Dylan Thomas"; "William Phillips  economist "; "John Berryman"; "Robert Aickman"; "John D. MacDonald"; "Shirley Jackson"; "Robert Lowell"; "Franco Modigliani"; "R. M. Hare"; "Rodney Dangerfield"; "Jack Kerouac"; "Jacob Taubes"; "Norman Mailer"; "Gangadhar V. Chittal"; "Denis Sargan"; "Gilbert Simondon"; "Jean Laplanche"; "Kostas Axelos"; "Lloyd Alexander"; "Ivan Illich"; "Ken Dodd"; "Nicholas Rescher"; "Hubert Dreyfus"; "Ted Hughes"; "Luce Irigaray"; "Richard Rorty"; "Alvin Plantinga"; "Don DeLillo"; "Andre Dubus"; "Sundar V. Nadkarni"; "John D. Caputo"; "Kyriakos Charalambides"; "Samuel R. Delany"; "Billy Connolly"; "David Forbes Hendry"; "Larry David"; "George Lam"; "Humayun Azad"; "Garry Shandling"; "Carl Shapiro"; "Frank Skinner"; "Jonathan Dordick"; "Jerry Sadowitz"; "John Luke Gallup"; "Rose Tang"; "Jeong Jun-ha"; "Yoo Jae-suk"; "Giada Trebeschi"; }
+node [shape=plaintext, fontsize=17.7777777777778];{
+"Heraclitus"; "Plotinus"; "John Locke"; "Giambattista Vico"; "Charles Fourier"; "Edmund Husserl"; "Robert E. Howard"; }
+node [shape=plaintext, fontsize=10.6666666666667];{
+"Parmenides"; "Sextus Empiricus"; "Maimonides"; "William Petty"; "Wilhelm Dilthey"; "Carl Menger"; "Gottlob Frege"; "Wilhelmina Weber Furlong"; "Ludwig von Mises"; "Nelson Goodman"; "Robert A. Heinlein"; }
+node [shape=plaintext, fontsize=7.1111111111111];{
+"Protagoras"; "Zeno of Citium"; "Virgil"; "Nicholas of Cusa"; "John Selden"; "Thomas Street"; "Christian Wolff  philosopher "; "David Hartley  philosopher "; "Edmund Burke"; "Johann Gottlieb Fichte"; "Wilhelm von Humboldt"; "Friedrich Schleiermacher"; "Friedrich Wilhelm Joseph Schelling"; "Johann Friedrich Herbart"; "Stendhal"; "Giacomo Leopardi"; "Gustav Fechner"; "Friedrich Adolf Trendelenburg"; "Ralph Waldo Emerson"; "Alexis de Tocqueville"; "George Eliot"; "Herbert Spencer"; "Franz Brentano"; "Henry George"; "Thomas Hardy"; "Jens Peter Jacobsen"; "Arthur Rimbaud"; "H. Rider Haggard"; "Thorstein Veblen"; "Knut Hamsun"; "Heinrich Rickert"; "Rudyard Kipling"; "Irving Fisher"; "Gertrude Stein"; "Rainer Maria Rilke"; "Dragotin Kette"; "Kurt Goldstein"; "William Carlos Williams"; "Urmuz"; "D. H. Lawrence"; "Raymond Chandler"; "Fernando Pessoa"; "Henry Hazlitt"; "Moms Mabley"; "Roman Jakobson"; "Ba Nyan"; "Owen Barfield"; "Hans Jonas"; "Georges Canguilhem"; "Gregory Bateson"; "Willard Van Orman Quine"; "George Dantzig"; "Saul Bellow"; "J. D. Salinger"; "Cornelius Castoriadis"; "S. R. Ekkundi"; "Gilles Deleuze"; "Don Rickles"; "Mort Sahl"; "Bob Newhart"; "J. G. Ballard"; }
+node [shape=plaintext, fontsize=5.33333333333334];{
+"Zeno of Elea"; "Socrates"; "Duns Scotus"; "Giordano Bruno"; "Henry Briggs  mathematician "; "Pierre Gassendi"; "Francis Hutcheson  philosopher "; "Pierre Louis Maupertuis"; "Anne-Robert-Jacques Turgot, Baron de Laune"; "Karl Leonhard Reinhold"; "Robert Burns"; "Novalis"; "Bernard Bolzano"; "Antoni Malczewski"; "Victor Hugo"; "Nikolai Gogol"; "Alexander Herzen"; "Jules Lequier"; "George Washington Harris"; "George Boole"; "Henry David Thoreau"; "Ivan Turgenev"; "Herman Melville"; "George MacDonald"; "Christoph von Sigwart"; "Winslow Homer"; "Ernst Mach"; "Karl Robert Eduard von Hartmann"; "Philip Wicksteed"; "Guy de Maupassant"; "Friedrich von Wieser"; "Josiah Royce"; "Frank Fetter"; "Leo Frobenius"; "Sherwood Anderson"; "Josip Murn"; "Karl Jaspers"; "Clarence Irving Lewis"; "Niels Bohr"; "Frank Knight"; "Liviu Rebreanu"; "Kurt Koffka"; "John D. Graham"; "Robert Benchley"; "Rudolf Carnap"; "Nikolai Kondratiev"; "Max Horkheimer"; "Herbert Marcuse"; "Hart Crane"; "Henry Calvert Simons"; "Jacques Lacan"; "George Orwell"; "H. L. A. Hart"; "Marshall McLuhan"; "Elizabeth Bishop"; "Jacques Ellul"; "Wilfrid Sellars"; "Delmore Schwartz"; "Richard Evans Schultes"; "Kenneth Arrow"; "Jonathan Winters"; "Stanley Cavell"; "Noam Chomsky"; "John Muth"; "Charles Taylor  philosopher "; "David Brenner"; "Roger Zelazny"; "David Letterman"; "Park Myeong-su"; "Zhang Deli"; "Wang Dongma"; "Liu Dao"; }
+node [shape=plaintext, fontsize=8.8888888888889];{
+"Pyrrho"; "Writings of Marcus Tullius Cicero"; "Lucian"; "Michel de Montaigne"; "Pierre Bayle"; "Laurence Sterne"; "Johann Joachim Winckelmann"; "Johann Georg Hamann"; "Thomas Paine"; "Marquis de Sade"; "Friedrich Heinrich Jacobi"; "Claude Henri de Rouvroy, comte de Saint-Simon"; "Auguste Comte"; "Ludwig Feuerbach"; "Bruno Bauer"; "Pierre-Joseph Proudhon"; "Leconte de Lisle"; "William Stanley Jevons"; "Henry Sidgwick"; "John Bates Clark"; "Robert Louis Stevenson"; "Edward Plunkett, 18th Baron of Dunsany"; "Piero Sraffa"; "Vladimir Nabokov"; "Alfred Tarski"; "Stanley G. Weinbaum"; "Jack Paar"; "William Gaddis"; "Hilary Putnam"; "Luigi Pasinetti"; "Robert Lucas, Jr."; }
+node [shape=plaintext, fontsize=19.5555555555556];{
+"Epicurus"; "Alexander Pushkin"; "William James"; }
+node [shape=plaintext, fontsize=14.2222222222222];{
+"Hugo Grotius"; "Jules Verne"; "African Spir"; "Vilfredo Pareto"; "Rudolf Steiner"; "William Faulkner"; "Gilbert Ryle"; "Jack Vance"; }
+node [shape=plaintext, fontsize=32];{
+"Baruch Spinoza"; "Gottfried Wilhelm Leibniz"; "Damaris Cudworth Masham"; "Jean-Jacques Rousseau"; "Johann Wolfgang von Goethe"; }
+node [shape=plaintext, fontsize=12.4444444444444];{
+"Nicolas Malebranche"; "Montesquieu"; "Thomas Reid"; "Lord Byron"; "Hermann Lotze"; "Joel Chandler Harris"; "G. K. Chesterton"; "Edgar Rice Burroughs"; "Gaston Bachelard"; "Ludwig Wittgenstein"; "Jean-Paul Sartre"; "William S. Burroughs"; "Richard Yates  novelist "; "Richard Pryor"; }
+node [shape=plaintext, fontsize=16];{
+"George Berkeley"; "Max Stirner"; "Gustave Flaubert"; "Ferdinand de Saussure"; "Lenny Bruce"; "Predrag Finci"; }
+node [shape=plaintext, fontsize=24.8888888888889];{
+"David Hume"; }
+node [shape=plaintext, fontsize=23.1111111111111];{
+"John Stuart Mill"; }
+node [shape=plaintext, fontsize=28.4444444444444];{
+"Alfred North Whitehead"; }
+node [shape=plaintext, fontsize=21.3333333333333];{
+"Thomas Furlong  artist "; }
+ 
+ node [shape=plaintext, fontsize= 1.77777777777778 ]; 
+  { rank = same; -624; "Thales"; }
+ { rank = same; -620; "Aesop"; }
+ { rank = same; -610; "Anaximander"; }
+ { rank = same; -551; "Confucius"; }
+ { rank = same; -535; "Heraclitus"; }
+ { rank = same; -515; "Parmenides"; }
+ { rank = same; -490; "Empedocles"; "Protagoras"; "Zeno of Elea"; }
+ { rank = same; -487; "Gorgias"; }
+ { rank = same; -470; "Socrates"; }
+ { rank = same; -460; "Democritus"; }
+ { rank = same; -435; "Aristippus"; }
+ { rank = same; -408; "Speusippus"; }
+ { rank = same; -360; "Pyrrho"; }
+ { rank = same; -341; "Epicurus"; }
+ { rank = same; -334; "Zeno of Citium"; }
+ { rank = same; -316; "Arcesilaus"; }
+ { rank = same; -214; "Carneades"; }
+ { rank = same; -185; "Panaetius"; }
+ { rank = same; -110; "Philodemus"; }
+ { rank = same; -106; "Writings of Marcus Tullius Cicero"; }
+ { rank = same; -70; "Virgil"; }
+ { rank = same; -65; "Horace"; }
+ { rank = same; -43; "Ovid"; }
+ { rank = same; 5; "Leucippus"; }
+ { rank = same; 55; "Epictetus"; }
+ { rank = same; 120; "Lucian"; }
+ { rank = same; 160; "Sextus Empiricus"; }
+ { rank = same; 204; "Plotinus"; }
+ { rank = same; 234; "Porphyry  philosopher "; }
+ { rank = same; 245; "Iamblichus"; }
+ { rank = same; 480; "Boethius"; }
+ { rank = same; 801; "Al-Kindi"; }
+ { rank = same; 804; "Bayazid Bastami"; }
+ { rank = same; 815; "Johannes Scotus Eriugena"; "Dawud al-Zahiri"; }
+ { rank = same; 994; "Ibn Hazm"; }
+ { rank = same; 1017; "Zhou Dunyi"; }
+ { rank = same; 1033; "Cheng Yi  philosopher "; }
+ { rank = same; 1079; "Peter Abelard"; }
+ { rank = same; 1095; "Avempace"; }
+ { rank = same; 1126; "Averroes"; }
+ { rank = same; 1137; "Maimonides"; }
+ { rank = same; 1141; "Nizami Ganjavi"; }
+ { rank = same; 1166; "Abu al-Abbas al-Nabati"; }
+ { rank = same; 1260; "Meister Eckhart"; }
+ { rank = same; 1266; "Duns Scotus"; }
+ { rank = same; 1287; "William of Ockham"; }
+ { rank = same; 1320; "John Wycliffe"; }
+ { rank = same; 1355; "Gemistus Pletho"; }
+ { rank = same; 1401; "Nicholas of Cusa"; }
+ { rank = same; 1406; "Filippo Lippi"; }
+ { rank = same; 1415; "John Argyropoulos"; }
+ { rank = same; 1463; "Giovanni Pico della Mirandola"; }
+ { rank = same; 1466; "Gil Vicente"; }
+ { rank = same; 1467; "John Colet"; }
+ { rank = same; 1468; "Juan del Encina"; }
+ { rank = same; 1469; "Juan del Encina"; }
+ { rank = same; 1474; "Ludovico Ariosto"; }
+ { rank = same; 1486; "Andrea del Sarto"; }
+ { rank = same; 1498; "Maarten van Heemskerck"; }
+ { rank = same; 1511; "Giorgio Vasari"; }
+ { rank = same; 1530; "Jean Bodin"; }
+ { rank = same; 1533; "Michel de Montaigne"; }
+ { rank = same; 1547; "Miguel de Cervantes"; }
+ { rank = same; 1548; "Giordano Bruno"; }
+ { rank = same; 1550; "John Napier"; }
+ { rank = same; 1551; "William Camden"; }
+ { rank = same; 1552; "Richard Hakluyt"; }
+ { rank = same; 1561; "Henry Briggs  mathematician "; }
+ { rank = same; 1571; "Mulla Sadra"; }
+ { rank = same; 1572; "John Donne"; "John Pory"; "Ben Jonson"; }
+ { rank = same; 1583; "Hugo Grotius"; }
+ { rank = same; 1584; "John Selden"; }
+ { rank = same; 1592; "Pierre Gassendi"; }
+ { rank = same; 1605; "Thomas Browne"; }
+ { rank = same; 1609; "Robert Moray"; }
+ { rank = same; 1621; "Henry Vaughan"; "Thomas Street"; }
+ { rank = same; 1623; "William Petty"; }
+ { rank = same; 1627; "Robert Boyle"; }
+ { rank = same; 1629; "Christiaan Huygens"; }
+ { rank = same; 1632; "Baruch Spinoza"; "John Locke"; }
+ { rank = same; 1634; "Antoine Ranc"; }
+ { rank = same; 1638; "Nicolas Malebranche"; "James Gregory  mathematician "; }
+ { rank = same; 1639; "Jean Racine"; }
+ { rank = same; 1646; "Gottfried Wilhelm Leibniz"; }
+ { rank = same; 1647; "Pierre Bayle"; }
+ { rank = same; 1659; "Damaris Cudworth Masham"; }
+ { rank = same; 1660; "Gabriel Wagner"; "Daniel Defoe"; }
+ { rank = same; 1663; "Luca Carlevarijs"; }
+ { rank = same; 1668; "Giambattista Vico"; }
+ { rank = same; 1670; "Bernard Mandeville"; }
+ { rank = same; 1679; "Christian Wolff  philosopher "; }
+ { rank = same; 1685; "George Berkeley"; }
+ { rank = same; 1689; "Montesquieu"; "Samuel Richardson"; }
+ { rank = same; 1694; "Francis Hutcheson  philosopher "; }
+ { rank = same; 1698; "Pierre Louis Maupertuis"; }
+ { rank = same; 1701; "Thomas Blackwell  scholar "; }
+ { rank = same; 1705; "David Hartley  philosopher "; }
+ { rank = same; 1707; "Georges-Louis Leclerc, Comte de Buffon"; "Henry Fielding"; }
+ { rank = same; 1710; "Thomas Reid"; }
+ { rank = same; 1711; "David Hume"; }
+ { rank = same; 1712; "Jean-Jacques Rousseau"; }
+ { rank = same; 1713; "Laurence Sterne"; }
+ { rank = same; 1714; "Alexander Gottlieb Baumgarten"; }
+ { rank = same; 1717; "Johann Joachim Winckelmann"; }
+ { rank = same; 1721; "Tobias Smollett"; }
+ { rank = same; 1722; "Christopher Smart"; }
+ { rank = same; 1723; "Mir Taqi Mir"; "Baron d'Holbach"; }
+ { rank = same; 1724; "Immanuel Kant"; }
+ { rank = same; 1726; "James Hutton"; }
+ { rank = same; 1727; "Anne-Robert-Jacques Turgot, Baron de Laune"; }
+ { rank = same; 1728; "Johann Heinrich Lambert"; }
+ { rank = same; 1729; "Moses Mendelssohn"; "Edmund Burke"; }
+ { rank = same; 1730; "Johann Georg Hamann"; }
+ { rank = same; 1731; "Hong Dae-yong"; }
+ { rank = same; 1736; "Johannes Nikolaus Tetens"; "James Macpherson"; }
+ { rank = same; 1737; "Thomas Paine"; }
+ { rank = same; 1740; "Marquis de Sade"; }
+ { rank = same; 1743; "Ghulam Ali Dihlawi"; "Friedrich Heinrich Jacobi"; }
+ { rank = same; 1744; "Johann Gottfried Herder"; }
+ { rank = same; 1748; "Jeremy Bentham"; "Adam Weishaupt"; }
+ { rank = same; 1749; "Johann Wolfgang von Goethe"; }
+ { rank = same; 1751; "Johann Baptist von Lampi the Elder"; }
+ { rank = same; 1753; "Benjamin Thompson"; "Joseph de Maistre"; "Christian Jakob Kraus"; }
+ { rank = same; 1754; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "George Crabbe"; }
+ { rank = same; 1756; "William Godwin"; }
+ { rank = same; 1757; "Karl Leonhard Reinhold"; }
+ { rank = same; 1758; "Antonio Isopi"; "Franz Joseph Gall"; }
+ { rank = same; 1759; "Robert Burns"; }
+ { rank = same; 1760; "Claude Henri de Rouvroy, comte de Saint-Simon"; }
+ { rank = same; 1762; "Johann Gottlieb Fichte"; }
+ { rank = same; 1763; "William Cobbett"; }
+ { rank = same; 1766; "Maine de Biran"; "Thomas Robert Malthus"; }
+ { rank = same; 1767; "Jean-Baptiste Say"; "Wilhelm von Humboldt"; }
+ { rank = same; 1768; "Friedrich Schleiermacher"; }
+ { rank = same; 1769; "Alexander von Humboldt"; }
+ { rank = same; 1770; "Georg Wilhelm Friedrich Hegel"; }
+ { rank = same; 1772; "Novalis"; "Charles Fourier"; }
+ { rank = same; 1773; "James Mill"; }
+ { rank = same; 1775; "Friedrich Wilhelm Joseph Schelling"; }
+ { rank = same; 1776; "Johann Friedrich Herbart"; }
+ { rank = same; 1777; "Carl Friedrich Gauss"; }
+ { rank = same; 1778; "Ugo Foscolo"; "Humphry Davy"; "William Hazlitt"; }
+ { rank = same; 1781; "Bernard Bolzano"; }
+ { rank = same; 1783; "William Sturgeon"; "Stendhal"; }
+ { rank = same; 1787; "Thomas Hodgskin"; "Konstantin Batyushkov"; }
+ { rank = same; 1788; "Lord Byron"; "Sir William Hamilton, 9th Baronet"; }
+ { rank = same; 1789; "Friedrich List"; "Mohammad Ibrahim Zauq"; }
+ { rank = same; 1790; "John Austin  legal philosopher "; "Alphonse de Lamartine"; }
+ { rank = same; 1791; "Charles Babbage"; }
+ { rank = same; 1792; "Percy Bysshe Shelley"; }
+ { rank = same; 1793; "George Green"; "Antoni Malczewski"; }
+ { rank = same; 1794; "William Whewell"; }
+ { rank = same; 1797; "Charles Lyell"; "Ghalib"; "Owen Chase"; }
+ { rank = same; 1798; "Adam Mickiewicz"; "Giacomo Leopardi"; "Auguste Comte"; "Josiah Warren"; "Karl Georg Christian von Staudt"; }
+ { rank = same; 1799; "Alexander Pushkin"; "Almeida Garrett"; }
+ { rank = same; 1801; "Gustav Fechner"; "Antoine Augustin Cournot"; }
+ { rank = same; 1802; "Friedrich Adolf Trendelenburg"; "Victor Hugo"; }
+ { rank = same; 1803; "Robert Walter Weir"; "Ralph Waldo Emerson"; }
+ { rank = same; 1804; "Ludwig Feuerbach"; "Jules Dupuit"; "Carl von Rokitansky"; }
+ { rank = same; 1805; "Adalbert Stifter"; "Alexis de Tocqueville"; }
+ { rank = same; 1806; "Ernst von Bibra"; "Max Stirner"; "John Stuart Mill"; }
+ { rank = same; 1807; "Charles Coleman  English painter "; }
+ { rank = same; 1808; "Henrik Wergeland"; "Lysander Spooner"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; }
+ { rank = same; 1809; "Bruno Bauer"; "Pierre-Joseph Proudhon"; "Charles Darwin"; "Nikolai Gogol"; }
+ { rank = same; 1810; "Edward Blyth"; "Henri Victor Regnault"; }
+ { rank = same; 1811; "Vissarion Belinsky"; "William Makepeace Thackeray"; "Charles Bray"; }
+ { rank = same; 1812; "Alexander Herzen"; "Charles Grafton Page"; }
+ { rank = same; 1814; "Mikhail Bakunin"; "Jules Lequier"; "Julius von Mayer"; "Mikhail Lermontov"; "George Washington Harris"; }
+ { rank = same; 1815; "Charles Bernard Renouvier"; "George Boole"; "Martins Pena"; }
+ { rank = same; 1816; "William Cubley"; }
+ { rank = same; 1817; "Angelo Genocchi"; "Hermann Lotze"; "Henry David Thoreau"; }
+ { rank = same; 1818; "Leconte de Lisle"; "Thomas Mayne Reid"; "Giuseppe Rovani"; "Ivan Turgenev"; }
+ { rank = same; 1819; "Gustave de Molinari"; "Gustave Courbet"; "George Eliot"; "Herman Melville"; "John Ruskin"; }
+ { rank = same; 1820; "William John Macquorn Rankine"; "Herbert Spencer"; }
+ { rank = same; 1821; "Hermann von Helmholtz"; "Rudolf Virchow"; "Karl Knies"; "August Schleicher"; "Gustave Flaubert"; }
+ { rank = same; 1822; "Heinrich Schliemann"; }
+ { rank = same; 1823; "John Evans  archaeologist "; }
+ { rank = same; 1824; "George MacDonald"; "Kuno Fischer"; }
+ { rank = same; 1825; "Augustus Le Plongeon"; "Thomas Henry Huxley"; }
+ { rank = same; 1826; "Adolf Bastian"; }
+ { rank = same; 1828; "Friedrich Albert Lange"; "Joseph Dietzgen"; "George Meredith"; "Jules Verne"; }
+ { rank = same; 1830; "Camille Pissarro"; "Christoph von Sigwart"; "Alexei Savrasov"; }
+ { rank = same; 1831; "Nikolai Leskov"; "Daagh Dehlvi"; }
+ { rank = same; 1832; "Wilhelm Wundt"; "Ivan Shishkin"; }
+ { rank = same; 1833; "Wilhelm Dilthey"; "Robert G. Ingersoll"; }
+ { rank = same; 1834; "James Abbott McNeill Whistler"; }
+ { rank = same; 1835; "William Stanley Jevons"; "Alexander Potebnja"; }
+ { rank = same; 1836; "Winslow Homer"; "Thomas Hill Green"; "Nikolay Dobrolyubov"; }
+ { rank = same; 1837; "African Spir"; "Ivan Kramskoi"; }
+ { rank = same; 1838; "Ernst Mach"; "Franz Brentano"; "Gustav von Schmoller"; "Henry Sidgwick"; }
+ { rank = same; 1839; "Machado de Assis"; "August Kundt"; "Henry George"; }
+ { rank = same; 1840; "Carl Menger"; "August Leskien"; "Thomas Hardy"; "George Sylvester Morris"; }
+ { rank = same; 1841; "Johann Dieter Wassmann"; "Mykhailo Drahomanov"; }
+ { rank = same; 1842; "Alfred Marshall"; "Karl Robert Eduard von Hartmann"; "Georg Friedrich Knapp"; "Antero de Quental"; "William James"; }
+ { rank = same; 1843; "Gleb Uspensky"; "Gabriel Tarde"; "Richard Avenarius"; "Adolf Mayer"; "Antonio Labriola"; }
+ { rank = same; 1844; "Philip Wicksteed"; "Ilya Repin"; "Friedrich Nietzsche"; "Paul Verlaine"; }
+ { rank = same; 1845; "Jacint Verdaguer"; "Theodor Hertzka"; }
+ { rank = same; 1846; "Rudolf Christoph Eucken"; }
+ { rank = same; 1847; "John Bates Clark"; "Jens Peter Jacobsen"; }
+ { rank = same; 1848; "Gottlob Frege"; "Wilhelm Windelband"; "Vilfredo Pareto"; "Carl Stumpf"; "Auguste Forel"; "Joel Chandler Harris"; }
+ { rank = same; 1849; "Rufus Fairchild Zogbaum"; "August Strindberg"; }
+ { rank = same; 1850; "William Morris Davis"; "Hermann Ebbinghaus"; "Guy de Maupassant"; "Robert Louis Stevenson"; }
+ { rank = same; 1851; "Martinus Beijerinck"; "Friedrich von Wieser"; }
+ { rank = same; 1852; "Hans Vaihinger"; "Ion Luca Caragiale"; }
+ { rank = same; 1853; "Alexius Meinong"; "Vladimir Solovyov  philosopher "; "Howard Pyle"; }
+ { rank = same; 1854; "Adolfo Hohenstein"; "Arthur Rimbaud"; "Benjamin Tucker"; "Richard T. Ely"; }
+ { rank = same; 1855; "Josiah Royce"; }
+ { rank = same; 1856; "Sergei Winogradsky"; "Henri-Edmond Cross"; "H. Rider Haggard"; }
+ { rank = same; 1857; "Eugen Bleuler"; "Karl Pearson"; "Charles Scott Sherrington"; "Vladimir Bekhterev"; "Alice Pike Barney"; "Shibli Nomani"; "Alfred Binet"; "Thorstein Veblen"; "Ferdinand de Saussure"; }
+ { rank = same; 1858; "Giuseppe Peano"; "Gaetano Mosca"; "Albrecht Penck"; }
+ { rank = same; 1859; "Edmund Husserl"; "Frank William Taussig"; "Samuel Alexander"; "Pierre Janet"; "Henri Bergson"; "John Dewey"; "Knut Hamsun"; }
+ { rank = same; 1861; "Robert Talbot Kelly"; "Rudolf Steiner"; "Henry Head"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Joseph Southall"; "Alfred North Whitehead"; }
+ { rank = same; 1862; "Gustav Klimt"; "Carl Eytel"; "John R. Commons"; "Georges Palante"; }
+ { rank = same; 1863; "George Herbert Mead"; "Werner Sombart"; "Antoni Lange"; "Charles Spearman"; "Heinrich Rickert"; "W. I. Thomas"; "Constantine P. Cavafy"; "Frank Fetter"; "George Santayana"; }
+ { rank = same; 1864; "Thomas Walker Arnold"; "Max Weber"; "Charles Cooley"; "F. C. S. Schiller"; "Franz Oppenheimer"; }
+ { rank = same; 1865; "Richard Adolf Zsigmondy"; "George Bridgman"; "M. P. Shiel"; "Rudyard Kipling"; }
+ { rank = same; 1866; "George Gurdjieff"; "Ernest William Brown"; "J. M. E. McTaggart"; "Lev Shestov"; "Benedetto Croce"; }
+ { rank = same; 1867; "Jacques Huber"; "Irving Fisher"; "Camilo Pessanha"; }
+ { rank = same; 1868; "Ladislaus Bortkiewicz"; "Paul Otlet"; }
+ { rank = same; 1869; "Henri Matisse"; "Rudolf Otto"; }
+ { rank = same; 1870; "Roscoe Pound"; "Nikolay Lossky"; }
+ { rank = same; 1871; "William McDougall  psychologist "; "John Millington Synge"; }
+ { rank = same; 1872; "Edward Gordon Craig"; "Bertrand Russell"; "Avram Steuerman-Rodion"; }
+ { rank = same; 1873; "G. E. Moore"; "Antonie Pannekoek"; "Edwin Holt"; "Leo Frobenius"; "Ford Madox Ford"; "Henri Barbusse"; }
+ { rank = same; 1874; "Nikolai Berdyaev"; "J. C. Leyendecker"; "Ernst Cassirer"; "G. K. Chesterton"; "Gertrude Stein"; "Lucy Maud Montgomery"; "Robert Frost"; "Max Scheler"; "Wesley Clair Mitchell"; }
+ { rank = same; 1875; "Giovanni Gentile"; "Carl Jung"; "Emil Lask"; "Edgar Rice Burroughs"; "Rainer Maria Rilke"; }
+ { rank = same; 1876; "F. L. Griggs"; "Allyn Abbott Young"; "Eva Henrietta Hamilton"; "Sherwood Anderson"; "Ivan Cankar"; "Dragotin Kette"; }
+ { rank = same; 1877; "Isadora Duncan"; "Maximilian Voloshin"; "W. D. Ross"; "Otto Gross"; }
+ { rank = same; 1878; "Edward Plunkett, 18th Baron of Dunsany"; "Lise Meitner"; "Kurt Goldstein"; "Martin Buber"; "Othmar Spann"; "Wilhelmina Weber Furlong"; "Marcello Dudovich"; }
+ { rank = same; 1879; "Muhammad Sirajuddin Naqshbandi"; "Wallace Stevens"; "Edward Everett Dale"; "Otto Hahn"; "Josip Murn"; }
+ { rank = same; 1880; "Oswald Spengler"; "Tudor Arghezi"; "Friedrich Meggendorfer"; "Otto Weininger"; "Hans Hofmann"; "Alice Dayrell Caldeira Brant"; "Morris Raphael Cohen"; }
+ { rank = same; 1881; "Giovanni Papini"; "Henryk Grossman"; "Ion Minulescu"; "Ludwig von Mises"; "Hans Kelsen"; "Emanuel Hahn"; "Florence Wyle"; }
+ { rank = same; 1882; "Melanie Klein"; "Jacques Maritain"; "Grigol Robakidze"; "Nicolai Hartmann"; "Virginia Woolf"; }
+ { rank = same; 1883; "William Carlos Williams"; "Joseph Schumpeter"; "Karl Jaspers"; "Clarence Irving Lewis"; "Charles Sheeler"; "Gertrude Barrows Bennett"; "Urmuz"; "Fern Coppedge"; }
+ { rank = same; 1884; "Otto Rank"; "Yevgeny Zamyatin"; "Gaston Bachelard"; "A. Merritt"; "Alexandre Mercereau"; }
+ { rank = same; 1885; "Mateiu Caragiale"; "Niels Bohr"; "Victor Forsythe"; "Frank Knight"; "Velimir Khlebnikov"; "D. H. Lawrence"; "Dino Campana"; "Liviu Rebreanu"; }
+ { rank = same; 1886; "Thomas Furlong  artist "; "Olaf Stapledon"; "Luigi Amoroso"; "Edwin Ray Guthrie"; "Kurt Koffka"; "Chester Barnard"; "Benjamin Anderson"; "Franz Rosenzweig"; "Emil Isac"; "John D. Graham"; }
+ { rank = same; 1887; "Georgia O'Keeffe"; "Alvin Hansen"; "Robinson Jeffers"; "C. D. Broad"; }
+ { rank = same; 1888; "Raymond Chandler"; "Walther Penck"; "Amjad Hyderabadi"; "Will Hay"; "Carl Schmitt"; "Scipio Slataper"; "Fernando Pessoa"; "Giuseppe Ungaretti"; }
+ { rank = same; 1889; "Martin Heidegger"; "Siegfried Kracauer"; "Thomas Hart Benton  painter "; "Cissy van Marxveldt"; "Ludwig Wittgenstein"; "Robert Benchley"; "Jacob L. Moreno"; }
+ { rank = same; 1890; "Man Ray"; "Mark Tobey"; "Paul Strand"; "Groucho Marx"; "Maung Maung Gyi  painter "; "Jan Matulka"; "Kurt Lewin"; "France Bevk"; "Stanton Macdonald-Wright"; }
+ { rank = same; 1891; "Rudolf Carnap"; "Ba Zaw"; "Zora Neale Hurston"; "Clarence Edwin Ayres"; }
+ { rank = same; 1892; "Nikolai Kondratiev"; "Jacob Viner"; "Danilo Lokar"; "Bruno Schulz"; "Walter Benjamin"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1893; "Vladimir Mayakovsky"; "Leslie Comrie"; "Henry Murray"; "John Anderson  philosopher "; }
+ { rank = same; 1894; "James Thurber"; "Mark Van Doren"; "Henry Hazlitt"; "Moms Mabley"; }
+ { rank = same; 1895; "Max Horkheimer"; "Ragnar Frisch"; "Helmuth Kulenkampff"; "Harold Hotelling"; }
+ { rank = same; 1896; "Jean Piaget"; "Eugenio Montale"; "Roman Jakobson"; "Lev Vygotsky"; }
+ { rank = same; 1897; "Benjamin Lee Whorf"; "William Faulkner"; "Georges Bataille"; "Norbert Elias"; "Charles Hartshorne"; "Ba Nyan"; "Louise Bogan"; }
+ { rank = same; 1898; "Qalandar Baba Auliya"; "Erich Maria Remarque"; "Piero Sraffa"; "Harry Crosby"; "Joachim Wach"; "Owen Barfield"; "Herbert Marcuse"; "Saya Saung"; "John McLaughlin  artist "; }
+ { rank = same; 1899; "C. S. Forester"; "Friedrich Hayek"; "Adolf Ellegard Jensen"; "Vladimir Nabokov"; "Hart Crane"; "Henry Calvert Simons"; "Edwin Way Teale"; "Allen Tate"; }
+ { rank = same; 1900; "Richard McKeon"; "Gilbert Ryle"; "Wang Li  linguist "; }
+ { rank = same; 1901; "Ludwig von Bertalanffy"; "Alfred Tarski"; "Jacques Lacan"; "Anton Vodnik"; "Laura Riding"; "Ernest Nagel"; "Ngwe Gaing"; "Simon Kuznets"; "Henri Lefebvre"; "Francis Criss"; "Peter van de Kamp"; "Stanley William Hayter"; }
+ { rank = same; 1902; "Karl Popper"; "Fritz Machlup"; "Alexander Luria"; "Lon L. Fuller"; "Stevie Smith"; "Talcott Parsons"; "Stanley G. Weinbaum"; }
+ { rank = same; 1903; "William Ross Ashby"; "George Orwell"; "Joan Robinson"; "Frank P. Ramsey"; "Hans Jonas"; "Ba Thet"; "Joseph Cornell"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1904; "Joseph Campbell"; "Witold Gombrowicz"; "Georges Canguilhem"; "Gregory Bateson"; "Oskar R. Lange"; "Edvard Kocbek"; "Alexander Gerschenkron"; "Bill Brandt"; }
+ { rank = same; 1905; "Jean-Paul Sartre"; "Richard Kahn, Baron Kahn"; "C. H. Waddington"; "Albert W. Tucker"; "Eugenia Berlin"; "F. A. Harper"; "Werner Fenchel"; }
+ { rank = same; 1906; "Emmanuel Levinas"; "Hannah Arendt"; "Robert E. Howard"; "Samuel Beckett"; "T. H. White"; "Henny Youngman"; "David Smith  sculptor "; "Jim Thompson  writer "; "R. S. Mugali"; "Nelson Goodman"; }
+ { rank = same; 1907; "Daphne du Maurier"; "L. Sprague de Camp"; "James Meade"; "Robert A. Heinlein"; "Edgar Lustgarten"; "Maurice Blanchot"; "Ferguson Rodger"; "H. L. A. Hart"; }
+ { rank = same; 1908; "John Kenneth Galbraith"; "Simone de Beauvoir"; "Richard Wright  author "; "Willard Van Orman Quine"; "Theodore Roethke"; "William Keepers Maxwell, Jr."; "Nicholas Kaldor"; "Abraham Maslow"; }
+ { rank = same; 1909; "Simone Weil"; "Paul A. Baran"; "Wallace Stegner"; }
+ { rank = same; 1910; "A. J. Ayer"; "Ursula Nordstrom"; "Paul Sweezy"; "Kin Maung"; "Tjalling Koopmans"; }
+ { rank = same; 1911; "Phil Silvers"; "Marshall McLuhan"; "William Golding"; "Paul Goodman"; "Maurice Allais"; "Elizabeth Bishop"; "J. L. Austin"; "George Stigler"; "Trygve Haavelmo"; "Brian O'Nolan"; "David Park  painter "; }
+ { rank = same; 1912; "Northrop Frye"; "Lawrence Durrell"; "Jackson Pollock"; "Josef Steindl"; "Jacques Ellul"; "Wilfrid Sellars"; "Ba Kyi"; }
+ { rank = same; 1913; "Boris Pahor"; "Alfred Bester"; "Delmore Schwartz"; "Benjamin Walker  author "; }
+ { rank = same; 1914; "R. A. Lafferty"; "Dylan Thomas"; "George Dantzig"; "William S. Burroughs"; "William Phillips  economist "; "John Berryman"; "Robert Aickman"; "Julia de Burgos"; "Irwin Corey"; "William Vickrey"; "Frances Senska"; "Armen Alchian"; }
+ { rank = same; 1915; "Leigh Brackett"; "Saul Bellow"; "Richard Evans Schultes"; "Meary James Thurairajah Tambimuttu"; "Roland Barthes"; "Ross Macdonald"; }
+ { rank = same; 1916; "Jack Vance"; "Georg Henrik von Wright"; "John D. MacDonald"; "Peter Geach"; "Alfonso A. Ossorio"; "Shirley Jackson"; "Richard Hofstadter"; }
+ { rank = same; 1917; "Maya Deren"; "Jocelyn Herbert"; "Robert Bloch"; "Donald Davidson  philosopher "; "Robert Lowell"; "Manny Farber"; "Arthur C. Clarke"; "Fereydoon Motamed"; "Eric Hobsbawm"; }
+ { rank = same; 1918; "Franco Modigliani"; "James Tobin"; "Theodore Sturgeon"; "James Duesenberry"; "Jack Paar"; "Louis Althusser"; }
+ { rank = same; 1919; "James M. Buchanan"; "P. F. Strawson"; "J. D. Salinger"; "Daniel Bell"; "R. M. Hare"; }
+ { rank = same; 1920; "Philippa Foot"; "John Figueroa"; "Charles Bukowski"; }
+ { rank = same; 1921; "Kenneth Arrow"; "Seymour Benzer"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Rodney Dangerfield"; "Milan Komar"; "Richard Cyert"; }
+ { rank = same; 1922; "Jack Kerouac"; "Kingsley Amis"; "Imre Lakatos"; "William Baumol"; "Richard Timberlake"; "William Gaddis"; "Hans Sennholz"; "Cornelius Castoriadis"; "H. C. Westermann"; "Jacob Mincer"; }
+ { rank = same; 1923; "Maria Luisa Spaziani"; "Italo Calvino"; "S. R. Ekkundi"; "Jacob Taubes"; "Norman Mailer"; "Gangadhar V. Chittal"; }
+ { rank = same; 1924; "Paul Feyerabend"; "James Baldwin"; "David Landes"; "Denis Sargan"; "Anthony Caro"; "Gilbert Simondon"; "William H. Gass"; "Jean Laplanche"; "Kostas Axelos"; "Lloyd Alexander"; }
+ { rank = same; 1925; "Flannery O'Connor"; "Lenny Bruce"; "Brian Aldiss"; "Gilles Deleuze"; "William Styron"; "John Berryman"; "Frantz Fanon"; "Elmore Leonard"; "Johnny Carson"; "Jonathan Winters"; }
+ { rank = same; 1926; "Anne McCaffrey"; "Hilary Putnam"; "Poul Anderson"; "Richard Matheson"; "Ivan Illich"; "Richard Yates  novelist "; "Stanley Cavell"; "Wynne Godley"; "Michel Foucault"; "Don Rickles"; "Neal Cassady"; }
+ { rank = same; 1927; "Dieter Henrich"; "Charlie Callas"; "Goh Sin Tub"; "Ken Dodd"; "Mort Sahl"; "Burton Dreben"; }
+ { rank = same; 1928; "Noam Chomsky"; "Chad Oliver"; "Nicholas Rescher"; "Wally Hedrick"; "Ibn-e-Safi"; "Maurice Sendak"; "Hubert Selby, Jr."; }
+ { rank = same; 1929; "Jean Baudrillard"; "George Parshall"; "Ian Roderick Macneil"; "John Montague  poet "; "Dane Zajc"; "Bob Newhart"; "Hubert Dreyfus"; "Dominik Smole"; }
+ { rank = same; 1930; "Harold Pinter"; "Gary Snyder"; "J. G. Ballard"; "Ted Hughes"; "John Muth"; "Harold Bloom"; "Luce Irigaray"; "Michel Serres"; "Zvi Griliches"; "Anthony Downs"; "Luigi Pasinetti"; "Mario Szenessy"; }
+ { rank = same; 1931; "Toni Morrison"; "William Goldman"; "Richard Rorty"; "Charles Taylor  philosopher "; "Thomas Bernhard"; "Rajneesh"; }
+ { rank = same; 1932; "Alvin Plantinga"; "Robert Coover"; "Sylvia Plath"; "Luce Irigaray"; "Nicholas Wolterstorff"; "Robert B. Parker"; }
+ { rank = same; 1933; "Veno Taufer"; "Flip Wilson"; "Jerzy Grotowski"; }
+ { rank = same; 1934; "Grady Nutt"; "Paul Cohen  mathematician "; "Pierre Clastres"; "Alasdair Gray"; "Richard Swinburne"; "Clive Granger"; }
+ { rank = same; 1935; "Michael Walzer"; "Edward Said"; }
+ { rank = same; 1936; "Abbie Hoffman"; "Don DeLillo"; "David Brenner"; "Gianni Vattimo"; "Andre Dubus"; }
+ { rank = same; 1937; "Robert Lucas, Jr."; "Alain Badiou"; "Roger Zelazny"; }
+ { rank = same; 1938; "Raymond Carver"; "Joyce Carol Oates"; "Sundar V. Nadkarni"; }
+ { rank = same; 1939; "Seamus Heaney"; "Martin Feldstein"; "Michael Moorcock"; "Robert Rowthorn"; }
+ { rank = same; 1940; "John D. Caputo"; "George Akerlof"; "Kyriakos Charalambides"; "Richard Pryor"; }
+ { rank = same; 1941; "Hagen Kleinert"; "David Lewis  philosopher "; "Paul Mooney  comedian "; "Bas van Fraassen"; }
+ { rank = same; 1942; "Robert F. Engle"; "Samuel R. Delany"; "Robert Klein"; "Billy Connolly"; "Mazhar Kaleem"; }
+ { rank = same; 1944; "David Forbes Hendry"; "Joy Williams  American writer "; "Bernard Cornwell"; "Yadin Dudai"; }
+ { rank = same; 1945; "Wlad Godzich"; "M. John Harrison"; }
+ { rank = same; 1946; "Reg Hartt"; "Jerry A. Hausman"; "Predrag Finci"; }
+ { rank = same; 1947; "David Letterman"; "Gillian Rose"; "Salman Rushdie"; "Larry David"; "Lydia Davis"; "Ann Beattie"; "Hal Varian"; "George Lam"; "Humayun Azad"; }
+ { rank = same; 1948; "Dan Simmons"; "George R. R. Martin"; "William Gibson"; "Robert B. Pippin"; "Samuel Hui"; }
+ { rank = same; 1949; "Kyoko Mizuki"; "Garry Shandling"; "R. Radhakrishnan"; "Michael Kwan"; }
+ { rank = same; 1950; "Jay Leno"; "Eve Kosofsky Sedgwick"; }
+ { rank = same; 1951; "Bob Black"; "Don Lavoie"; }
+ { rank = same; 1952; "John Milbank"; }
+ { rank = same; 1954; "Marc Lavoie"; }
+ { rank = same; 1955; "Rowan Atkinson"; "Carl Shapiro"; }
+ { rank = same; 1957; "Frank Skinner"; }
+ { rank = same; 1958; "James M. Poterba"; }
+ { rank = same; 1959; "Jonathan Dordick"; "Vic Reeves"; "Muhammad Iqbal Choudhary"; }
+ { rank = same; 1961; "Abhijit Banerjee"; "David Leavitt"; "Jerry Sadowitz"; }
+ { rank = same; 1962; "John Luke Gallup"; "Jon Stewart"; "Eddie Izzard"; }
+ { rank = same; 1964; "Pauline Marcelle"; "Michael Kremer"; "Bret Easton Ellis"; "Harry Hill"; }
+ { rank = same; 1966; "Ji Suk-jin"; }
+ { rank = same; 1967; "Ted Chiang"; "Rose Tang"; }
+ { rank = same; 1969; "Idris Azad"; }
+ { rank = same; 1970; "Park Myeong-su"; }
+ { rank = same; 1971; "Jeong Jun-ha"; }
+ { rank = same; 1972; "Alessandro Piperno"; "Yoo Jae-suk"; }
+ { rank = same; 1973; "Giada Trebeschi"; }
+ { rank = same; 1978; "Jeong Hyeong-don"; }
+ { rank = same; 1979; "Bryce Hudson"; "Zhang Deli"; }
+ { rank = same; 1980; "Wang Dongma"; }
+ { rank = same; 2006; "Liu Dao"; }
+ 
+ "Thales" -> "Pythagoras";
+"Aesop" -> "Socrates";
+"Anaximander" -> "Democritus";
+"Anaximander" -> "Pythagoras";
+"Confucius" -> "Christian Wolff  philosopher ";
+"Confucius" -> "Mencius";
+"Heraclitus" -> "Karl Popper";
+"Heraclitus" -> "Martin Heidegger";
+"Heraclitus" -> "Oswald Spengler";
+"Heraclitus" -> "Parmenides";
+"Heraclitus" -> "Alfred North Whitehead";
+"Heraclitus" -> "Friedrich Engels";
+"Heraclitus" -> "Friedrich Nietzsche";
+"Heraclitus" -> "Georg Wilhelm Friedrich Hegel";
+"Heraclitus" -> "Plato";
+"Heraclitus" -> "Terence McKenna";
+"Parmenides" -> "Martin Heidegger";
+"Parmenides" -> "Socrates";
+"Parmenides" -> "Zeno of Elea";
+"Parmenides" -> "Baruch Spinoza";
+"Parmenides" -> "Friedrich Nietzsche";
+"Parmenides" -> "Plato";
+"Empedocles" -> "Gorgias";
+"Empedocles" -> "Friedrich Nietzsche";
+"Protagoras" -> "Jeremy Bentham";
+"Protagoras" -> "F. C. S. Schiller";
+"Protagoras" -> "Friedrich Nietzsche";
+"Protagoras" -> "Plato";
+"Zeno of Elea" -> "Gorgias";
+"Zeno of Elea" -> "Protagoras";
+"Zeno of Elea" -> "Plato";
+"Gorgias" -> "Antisthenes";
+"Gorgias" -> "Plato";
+"Socrates" -> "Antisthenes";
+"Socrates" -> "Plato";
+"Socrates" -> "Aristippus";
+"Democritus" -> "Epicurus";
+"Aristippus" -> "Epicurus";
+"Speusippus" -> "Xenocrates";
+"Pyrrho" -> "Epicurus";
+"Pyrrho" -> "Arcesilaus";
+"Pyrrho" -> "Sextus Empiricus";
+"Pyrrho" -> "Carneades";
+"Pyrrho" -> "David Hume";
+"Epicurus" -> "Jeremy Bentham";
+"Epicurus" -> "Han Ryner";
+"Epicurus" -> "Philodemus";
+"Epicurus" -> "Pierre Gassendi";
+"Epicurus" -> "David Hume";
+"Epicurus" -> "Friedrich Nietzsche";
+"Epicurus" -> "Immanuel Kant";
+"Epicurus" -> "John Stuart Mill";
+"Epicurus" -> "Karl Marx";
+"Epicurus" -> "Thomas Hobbes";
+"Epicurus" -> "Michel Foucault";
+"Zeno of Citium" -> "Posidonius";
+"Zeno of Citium" -> "Panaetius";
+"Zeno of Citium" -> "Cleanthes";
+"Zeno of Citium" -> "Epictetus";
+"Arcesilaus" -> "Carneades";
+"Carneades" -> "Sextus Empiricus";
+"Panaetius" -> "Posidonius";
+"Philodemus" -> "Horace";
+"Philodemus" -> "Virgil";
+"Writings of Marcus Tullius Cicero" -> "Montesquieu";
+"Writings of Marcus Tullius Cicero" -> "Leo Strauss";
+"Writings of Marcus Tullius Cicero" -> "Pierre-Joseph Proudhon";
+"Writings of Marcus Tullius Cicero" -> "David Hume";
+"Writings of Marcus Tullius Cicero" -> "John Locke";
+"Virgil" -> "Seamus Heaney";
+"Virgil" -> "Henry David Thoreau";
+"Virgil" -> "Ludovico Ariosto";
+"Virgil" -> "Ovid";
+"Horace" -> "Torquato Tasso";
+"Ovid" -> "Percy Bysshe Shelley";
+"Leucippus" -> "Democritus";
+"Epictetus" -> "Han Ryner";
+"Lucian" -> "Desiderius Erasmus";
+"Lucian" -> "Gil Vicente";
+"Lucian" -> "Giacomo Leopardi";
+"Lucian" -> "Johann Wolfgang von Goethe";
+"Lucian" -> "Laurence Sterne";
+"Sextus Empiricus" -> "Edmund Husserl";
+"Sextus Empiricus" -> "David Hume";
+"Sextus Empiricus" -> "Epictetus";
+"Sextus Empiricus" -> "Friedrich Nietzsche";
+"Sextus Empiricus" -> "Georg Wilhelm Friedrich Hegel";
+"Sextus Empiricus" -> "Michel de Montaigne";
+"Plotinus" -> "Gemistus Pletho";
+"Plotinus" -> "Proclus";
+"Plotinus" -> "Pseudo-Dionysius the Areopagite";
+"Plotinus" -> "Iamblichus";
+"Plotinus" -> "Johannes Scotus Eriugena";
+"Plotinus" -> "Porphyry  philosopher ";
+"Plotinus" -> "Boethius";
+"Plotinus" -> "Arthur Schopenhauer";
+"Plotinus" -> "Henri Bergson";
+"Plotinus" -> "Hypatia";
+"Porphyry  philosopher " -> "Boethius";
+"Iamblichus" -> "Proclus";
+"Boethius" -> "Peter Abelard";
+"Al-Kindi" -> "Abu Zayd al-Balkhi";
+"Bayazid Bastami" -> "Muhammad Iqbal";
+"Johannes Scotus Eriugena" -> "Nicholas of Cusa";
+"Johannes Scotus Eriugena" -> "Georg Wilhelm Friedrich Hegel";
+"Dawud al-Zahiri" -> "Ibn Hazm";
+"Ibn Hazm" -> "Muhammad Asad";
+"Ibn Hazm" -> "Muhammad Asad";
+"Zhou Dunyi" -> "Cheng Yi  philosopher ";
+"Zhou Dunyi" -> "Zhu Xi";
+"Cheng Yi  philosopher " -> "Zhu Xi";
+"Peter Abelard" -> "William of Ockham";
+"Avempace" -> "Averroes";
+"Averroes" -> "Maimonides";
+"Averroes" -> "Baruch Spinoza";
+"Maimonides" -> "Emmanuel Levinas";
+"Maimonides" -> "Gottfried Wilhelm Leibniz";
+"Maimonides" -> "Leo Strauss";
+"Maimonides" -> "Baruch Spinoza";
+"Maimonides" -> "Isaac Newton";
+"Maimonides" -> "Jean Bodin";
+"Nizami Ganjavi" -> "Ahmad Khani";
+"Abu al-Abbas al-Nabati" -> "Ibn al-Baitar";
+"Meister Eckhart" -> "Nicholas of Cusa";
+"Duns Scotus" -> "Gilles Deleuze";
+"Duns Scotus" -> "Martin Heidegger";
+"Duns Scotus" -> "William of Ockham";
+"William of Ockham" -> "John Wycliffe";
+"William of Ockham" -> "Willard Van Orman Quine";
+"John Wycliffe" -> "Jan Hus";
+"Gemistus Pletho" -> "John Argyropoulos";
+"Nicholas of Cusa" -> "Giordano Bruno";
+"Nicholas of Cusa" -> "Giovanni Pico della Mirandola";
+"Nicholas of Cusa" -> "Georg Wilhelm Friedrich Hegel";
+"Nicholas of Cusa" -> "Immanuel Kant";
+"Filippo Lippi" -> "Filippino Lippi";
+"John Argyropoulos" -> "Johann Reuchlin";
+"Giovanni Pico della Mirandola" -> "Desiderius Erasmus";
+"Giovanni Pico della Mirandola" -> "John Colet";
+"Gil Vicente" -> "Almeida Garrett";
+"John Colet" -> "Desiderius Erasmus";
+"Juan del Encina" -> "Gil Vicente";
+"Juan del Encina" -> "Gil Vicente";
+"Ludovico Ariosto" -> "Torquato Tasso";
+"Andrea del Sarto" -> "Giorgio Vasari";
+"Maarten van Heemskerck" -> "Karel van Mander";
+"Giorgio Vasari" -> "Karel van Mander";
+"Jean Bodin" -> "Montesquieu";
+"Jean Bodin" -> "Eric Voegelin";
+"Michel de Montaigne" -> "Blaise Pascal";
+"Michel de Montaigne" -> "Friedrich Nietzsche";
+"Michel de Montaigne" -> "Jean-Jacques Rousseau";
+"Michel de Montaigne" -> "Ralph Waldo Emerson";
+"Michel de Montaigne" -> "William Hazlitt";
+"Miguel de Cervantes" -> "Henry Fielding";
+"Miguel de Cervantes" -> "Mark Twain";
+"Giordano Bruno" -> "Gottfried Wilhelm Leibniz";
+"Giordano Bruno" -> "Arthur Schopenhauer";
+"Giordano Bruno" -> "Baruch Spinoza";
+"John Napier" -> "Henry Briggs  mathematician ";
+"William Camden" -> "Ben Jonson";
+"Richard Hakluyt" -> "John Pory";
+"Henry Briggs  mathematician " -> "John Napier";
+"Henry Briggs  mathematician " -> "James Gregory  mathematician ";
+"Henry Briggs  mathematician " -> "Isaac Newton";
+"Mulla Sadra" -> "Muhammad Husayn Tabataba'i";
+"John Donne" -> "Dylan Thomas";
+"John Donne" -> "Dylan Thomas";
+"John Pory" -> "John Donne";
+"John Pory" -> "Ben Jonson";
+"Ben Jonson" -> "Henry Vaughan";
+"Hugo Grotius" -> "Emer de Vattel";
+"Hugo Grotius" -> "Pierre-Joseph Proudhon";
+"Hugo Grotius" -> "Giambattista Vico";
+"Hugo Grotius" -> "Immanuel Kant";
+"Hugo Grotius" -> "Jean-Jacques Rousseau";
+"Hugo Grotius" -> "John Locke";
+"Hugo Grotius" -> "Thomas Hobbes";
+"Hugo Grotius" -> "John Selden";
+"John Selden" -> "Giambattista Vico";
+"John Selden" -> "Edmund Burke";
+"John Selden" -> "John Locke";
+"John Selden" -> "Thomas Hobbes";
+"Pierre Gassendi" -> "Gottfried Wilhelm Leibniz";
+"Pierre Gassendi" -> "John Locke";
+"Pierre Gassendi" -> "Thomas Hobbes";
+"Thomas Browne" -> "Herman Melville";
+"Robert Moray" -> "James Gregory  mathematician ";
+"Robert Moray" -> "Christiaan Huygens";
+"Henry Vaughan" -> "Siegfried Sassoon";
+"Thomas Street" -> "John Flamsteed";
+"Thomas Street" -> "John Flamsteed";
+"Thomas Street" -> "Isaac Newton";
+"Thomas Street" -> "Isaac Newton";
+"William Petty" -> "Bernard Mandeville";
+"William Petty" -> "Bernard Mandeville";
+"William Petty" -> "Adam Smith";
+"William Petty" -> "Adam Smith";
+"William Petty" -> "Karl Marx";
+"William Petty" -> "Karl Marx";
+"Robert Boyle" -> "Isaac Newton";
+"Christiaan Huygens" -> "Gottfried Wilhelm Leibniz";
+"Christiaan Huygens" -> "Isaac Newton";
+"Baruch Spinoza" -> "Gilles Deleuze";
+"Baruch Spinoza" -> "Gottfried Wilhelm Leibniz";
+"Baruch Spinoza" -> "Novalis";
+"Baruch Spinoza" -> "Antonio Negri";
+"Baruch Spinoza" -> "Donald Davidson  philosopher ";
+"Baruch Spinoza" -> "Georges Bataille";
+"Baruch Spinoza" -> "Leo Strauss";
+"Baruch Spinoza" -> "Gabriel Wagner";
+"Baruch Spinoza" -> "Louis Althusser";
+"Baruch Spinoza" -> "Arthur Schopenhauer";
+"Baruch Spinoza" -> "Friedrich Nietzsche";
+"Baruch Spinoza" -> "Georg Wilhelm Friedrich Hegel";
+"Baruch Spinoza" -> "George Eliot";
+"Baruch Spinoza" -> "George Santayana";
+"Baruch Spinoza" -> "Johann Gottlieb Fichte";
+"Baruch Spinoza" -> "Johann Wolfgang von Goethe";
+"Baruch Spinoza" -> "Karl Marx";
+"Baruch Spinoza" -> "Ludwig Wittgenstein";
+"John Locke" -> "Julien Offray de La Mettrie";
+"John Locke" -> "Francis Hutcheson  philosopher ";
+"John Locke" -> "Adam Smith";
+"John Locke" -> "Arthur Schopenhauer";
+"John Locke" -> "David Hume";
+"John Locke" -> "Edmund Burke";
+"John Locke" -> "George Berkeley";
+"John Locke" -> "Immanuel Kant";
+"John Locke" -> "Jean-Jacques Rousseau";
+"John Locke" -> "Thomas Paine";
+"Antoine Ranc" -> "Hyacinthe Rigaud";
+"Nicolas Malebranche" -> "Montesquieu";
+"Nicolas Malebranche" -> "Gottfried Wilhelm Leibniz";
+"Nicolas Malebranche" -> "Joseph de Maistre";
+"Nicolas Malebranche" -> "Louis Gabriel Ambroise de Bonald";
+"Nicolas Malebranche" -> "Giambattista Vico";
+"Nicolas Malebranche" -> "David Hume";
+"Nicolas Malebranche" -> "George Berkeley";
+"James Gregory  mathematician " -> "David Gregory  mathematician ";
+"Jean Racine" -> "Samuel Beckett";
+"Jean Racine" -> "Stendhal";
+"Gottfried Wilhelm Leibniz" -> "Edmund Husserl";
+"Gottfried Wilhelm Leibniz" -> "Gilles Deleuze";
+"Gottfried Wilhelm Leibniz" -> "Martin Heidegger";
+"Gottfried Wilhelm Leibniz" -> "Theodor W. Adorno";
+"Gottfried Wilhelm Leibniz" -> "Christian Wolff  philosopher ";
+"Gottfried Wilhelm Leibniz" -> "Gabriel Tarde";
+"Gottfried Wilhelm Leibniz" -> "Johannes Nikolaus Tetens";
+"Gottfried Wilhelm Leibniz" -> "Louis Gabriel Ambroise de Bonald";
+"Gottfried Wilhelm Leibniz" -> "Nicholas Rescher";
+"Gottfried Wilhelm Leibniz" -> "Gabriel Wagner";
+"Gottfried Wilhelm Leibniz" -> "Giambattista Vico";
+"Gottfried Wilhelm Leibniz" -> "Bertrand Russell";
+"Gottfried Wilhelm Leibniz" -> "David Hume";
+"Gottfried Wilhelm Leibniz" -> "Denis Diderot";
+"Gottfried Wilhelm Leibniz" -> "Friedrich Nietzsche";
+"Gottfried Wilhelm Leibniz" -> "Henri Bergson";
+"Gottfried Wilhelm Leibniz" -> "Immanuel Kant";
+"Gottfried Wilhelm Leibniz" -> "Pierre Louis Maupertuis";
+"Pierre Bayle" -> "Bernard Mandeville";
+"Pierre Bayle" -> "Giambattista Vico";
+"Pierre Bayle" -> "David Hume";
+"Pierre Bayle" -> "Denis Diderot";
+"Pierre Bayle" -> "Pierre Louis Maupertuis";
+"Damaris Cudworth Masham" -> "Edmund Husserl";
+"Damaris Cudworth Masham" -> "Gilles Deleuze";
+"Damaris Cudworth Masham" -> "Martin Heidegger";
+"Damaris Cudworth Masham" -> "Theodor W. Adorno";
+"Damaris Cudworth Masham" -> "Christian Wolff  philosopher ";
+"Damaris Cudworth Masham" -> "Gabriel Tarde";
+"Damaris Cudworth Masham" -> "Johannes Nikolaus Tetens";
+"Damaris Cudworth Masham" -> "Louis Gabriel Ambroise de Bonald";
+"Damaris Cudworth Masham" -> "Nicholas Rescher";
+"Damaris Cudworth Masham" -> "Gabriel Wagner";
+"Damaris Cudworth Masham" -> "Giambattista Vico";
+"Damaris Cudworth Masham" -> "Bertrand Russell";
+"Damaris Cudworth Masham" -> "David Hume";
+"Damaris Cudworth Masham" -> "Denis Diderot";
+"Damaris Cudworth Masham" -> "Friedrich Nietzsche";
+"Damaris Cudworth Masham" -> "Henri Bergson";
+"Damaris Cudworth Masham" -> "Immanuel Kant";
+"Damaris Cudworth Masham" -> "Pierre Louis Maupertuis";
+"Gabriel Wagner" -> "Gottfried Wilhelm Leibniz";
+"Daniel Defoe" -> "George Orwell";
+"Daniel Defoe" -> "Virginia Woolf";
+"Luca Carlevarijs" -> "Canaletto";
+"Giambattista Vico" -> "Northrop Frye";
+"Giambattista Vico" -> "Costanzo Preve";
+"Giambattista Vico" -> "Marshall McLuhan";
+"Giambattista Vico" -> "Joseph de Maistre";
+"Giambattista Vico" -> "Isaiah Berlin";
+"Giambattista Vico" -> "Cornelius Castoriadis";
+"Giambattista Vico" -> "Benedetto Croce";
+"Giambattista Vico" -> "Georg Wilhelm Friedrich Hegel";
+"Giambattista Vico" -> "Karl Marx";
+"Giambattista Vico" -> "Eric Voegelin";
+"Bernard Mandeville" -> "Friedrich Hayek";
+"Bernard Mandeville" -> "Adam Smith";
+"Christian Wolff  philosopher " -> "Johannes Nikolaus Tetens";
+"Christian Wolff  philosopher " -> "Emer de Vattel";
+"Christian Wolff  philosopher " -> "Alexander Gottlieb Baumgarten";
+"Christian Wolff  philosopher " -> "Immanuel Kant";
+"George Berkeley" -> "Ernst Mach";
+"George Berkeley" -> "A. J. Ayer";
+"George Berkeley" -> "Samuel Beckett";
+"George Berkeley" -> "Thomas Reid";
+"George Berkeley" -> "Arthur Schopenhauer";
+"George Berkeley" -> "David Hume";
+"George Berkeley" -> "Edmund Burke";
+"George Berkeley" -> "Immanuel Kant";
+"George Berkeley" -> "John Stuart Mill";
+"Montesquieu" -> "Hannah Arendt";
+"Montesquieu" -> "Alexis de Tocqueville";
+"Montesquieu" -> "David Hume";
+"Montesquieu" -> "Edmund Burke";
+"Montesquieu" -> "Georg Wilhelm Friedrich Hegel";
+"Montesquieu" -> "Jean-Jacques Rousseau";
+"Montesquieu" -> "Thomas Paine";
+"Samuel Richardson" -> "Henry Fielding";
+"Samuel Richardson" -> "Jean-Jacques Rousseau";
+"Francis Hutcheson  philosopher " -> "Jeremy Bentham";
+"Francis Hutcheson  philosopher " -> "Adam Smith";
+"Francis Hutcheson  philosopher " -> "David Hume";
+"Pierre Louis Maupertuis" -> "Georges-Louis Leclerc, Comte de Buffon";
+"Pierre Louis Maupertuis" -> "Denis Diderot";
+"Pierre Louis Maupertuis" -> "Immanuel Kant";
+"Thomas Blackwell  scholar " -> "Johann Gottfried Herder";
+"David Hartley  philosopher " -> "James Mill";
+"David Hartley  philosopher " -> "James Mill";
+"David Hartley  philosopher " -> "William James";
+"David Hartley  philosopher " -> "William James";
+"Georges-Louis Leclerc, Comte de Buffon" -> "Jean-Baptiste Lamarck";
+"Henry Fielding" -> "George Orwell";
+"Henry Fielding" -> "Samuel Beckett";
+"Thomas Reid" -> "Alvin Plantinga";
+"Thomas Reid" -> "G. E. Moore";
+"Thomas Reid" -> "David Hartley  philosopher ";
+"Thomas Reid" -> "Nicholas Wolterstorff";
+"Thomas Reid" -> "Roderick Chisholm";
+"Thomas Reid" -> "Arthur Schopenhauer";
+"Thomas Reid" -> "William James";
+"David Hume" -> "A. J. Ayer";
+"David Hume" -> "Edmund Husserl";
+"David Hume" -> "Gilles Deleuze";
+"David Hume" -> "Karl Popper";
+"David Hume" -> "Noam Chomsky";
+"David Hume" -> "Thomas Reid";
+"David Hume" -> "J. L. Mackie";
+"David Hume" -> "Jerry Fodor";
+"David Hume" -> "Arthur Schopenhauer";
+"David Hume" -> "Baron d'Holbach";
+"David Hume" -> "Bertrand Russell";
+"David Hume" -> "Immanuel Kant";
+"David Hume" -> "John Stuart Mill";
+"David Hume" -> "William James";
+"Jean-Jacques Rousseau" -> "Jean-Paul Sartre";
+"Jean-Jacques Rousseau" -> "Allan Bloom";
+"Jean-Jacques Rousseau" -> "Leo Strauss";
+"Jean-Jacques Rousseau" -> "Pierre-Joseph Proudhon";
+"Jean-Jacques Rousseau" -> "Louis Althusser";
+"Jean-Jacques Rousseau" -> "John Rawls";
+"Jean-Jacques Rousseau" -> "Adam Smith";
+"Jean-Jacques Rousseau" -> "Alexis de Tocqueville";
+"Jean-Jacques Rousseau" -> "David Hume";
+"Jean-Jacques Rousseau" -> "Edmund Burke";
+"Jean-Jacques Rousseau" -> "Friedrich Engels";
+"Jean-Jacques Rousseau" -> "Georg Wilhelm Friedrich Hegel";
+"Jean-Jacques Rousseau" -> "Immanuel Kant";
+"Jean-Jacques Rousseau" -> "Johann Gottlieb Fichte";
+"Jean-Jacques Rousseau" -> "John Dewey";
+"Jean-Jacques Rousseau" -> "Karl Marx";
+"Jean-Jacques Rousseau" -> "Thomas Paine";
+"Jean-Jacques Rousseau" -> "Jacques Derrida";
+"Laurence Sterne" -> "Machado de Assis";
+"Laurence Sterne" -> "Italo Calvino";
+"Laurence Sterne" -> "Almeida Garrett";
+"Laurence Sterne" -> "Denis Diderot";
+"Laurence Sterne" -> "Virginia Woolf";
+"Alexander Gottlieb Baumgarten" -> "Immanuel Kant";
+"Johann Joachim Winckelmann" -> "Johann Gottfried Herder";
+"Johann Joachim Winckelmann" -> "Oswald Spengler";
+"Johann Joachim Winckelmann" -> "Friedrich Nietzsche";
+"Johann Joachim Winckelmann" -> "Heinrich Heine";
+"Johann Joachim Winckelmann" -> "Johann Wolfgang von Goethe";
+"Tobias Smollett" -> "George Orwell";
+"Christopher Smart" -> "Theodore Roethke";
+"Mir Taqi Mir" -> "Ghalib";
+"Baron d'Holbach" -> "Adam Weishaupt";
+"Baron d'Holbach" -> "Karl Marx";
+"Immanuel Kant" -> "Johann Gottlieb Fichte";
+"James Hutton" -> "Charles Lyell";
+"James Hutton" -> "Charles Lyell";
+"Anne-Robert-Jacques Turgot, Baron de Laune" -> "Joseph Schumpeter";
+"Anne-Robert-Jacques Turgot, Baron de Laune" -> "Murray Rothbard";
+"Anne-Robert-Jacques Turgot, Baron de Laune" -> "Adam Smith";
+"Johann Heinrich Lambert" -> "Moses Mendelssohn";
+"Johann Heinrich Lambert" -> "Immanuel Kant";
+"Moses Mendelssohn" -> "Salomon Maimon";
+"Edmund Burke" -> "Hannah Arendt";
+"Edmund Burke" -> "Hannah Arendt";
+"Edmund Burke" -> "Matthew Arnold";
+"Edmund Burke" -> "Matthew Arnold";
+"Johann Georg Hamann" -> "Johann Gottfried Herder";
+"Johann Georg Hamann" -> "Friedrich Wilhelm Joseph Schelling";
+"Johann Georg Hamann" -> "Friedrich Heinrich Jacobi";
+"Johann Georg Hamann" -> "Georg Wilhelm Friedrich Hegel";
+"Johann Georg Hamann" -> "Johann Wolfgang von Goethe";
+"Hong Dae-yong" -> "Park Ji-won";
+"Johannes Nikolaus Tetens" -> "Immanuel Kant";
+"James Macpherson" -> "Hart Crane";
+"James Macpherson" -> "Johann Wolfgang von Goethe";
+"Thomas Paine" -> "Jyotirao Phule";
+"Thomas Paine" -> "Christopher Hitchens";
+"Thomas Paine" -> "Bertrand Russell";
+"Thomas Paine" -> "Robert G. Ingersoll";
+"Thomas Paine" -> "William Godwin";
+"Marquis de Sade" -> "Simone de Beauvoir";
+"Marquis de Sade" -> "Samuel Beckett";
+"Marquis de Sade" -> "Guy Debord";
+"Marquis de Sade" -> "Georges Bataille";
+"Marquis de Sade" -> "Michel Foucault";
+"Ghulam Ali Dihlawi" -> "Muhammad Tahir";
+"Friedrich Heinrich Jacobi" -> "Martin Heidegger";
+"Friedrich Heinrich Jacobi" -> "Ludwig Feuerbach";
+"Friedrich Heinrich Jacobi" -> "Moses Mendelssohn";
+"Friedrich Heinrich Jacobi" -> "Georg Wilhelm Friedrich Hegel";
+"Friedrich Heinrich Jacobi" -> "Johann Gottlieb Fichte";
+"Johann Gottfried Herder" -> "Georg Wilhelm Friedrich Hegel";
+"Johann Gottfried Herder" -> "Johann Wolfgang von Goethe";
+"Jeremy Bentham" -> "John Stuart Mill";
+"Adam Weishaupt" -> "Percy Bysshe Shelley";
+"Johann Wolfgang von Goethe" -> "Machado de Assis";
+"Johann Wolfgang von Goethe" -> "Carl Jung";
+"Johann Wolfgang von Goethe" -> "Oswald Spengler";
+"Johann Wolfgang von Goethe" -> "Rudolf Steiner";
+"Johann Wolfgang von Goethe" -> "Max Stirner";
+"Johann Wolfgang von Goethe" -> "Friedrich Wilhelm Joseph Schelling";
+"Johann Wolfgang von Goethe" -> "Grigol Robakidze";
+"Johann Wolfgang von Goethe" -> "Jean-Baptiste Lamarck";
+"Johann Wolfgang von Goethe" -> "Ernst Cassirer";
+"Johann Wolfgang von Goethe" -> "Arthur Schopenhauer";
+"Johann Wolfgang von Goethe" -> "Charles Darwin";
+"Johann Wolfgang von Goethe" -> "Friedrich Nietzsche";
+"Johann Wolfgang von Goethe" -> "Georg Wilhelm Friedrich Hegel";
+"Johann Wolfgang von Goethe" -> "Henry David Thoreau";
+"Johann Wolfgang von Goethe" -> "Ivan Turgenev";
+"Johann Wolfgang von Goethe" -> "Ludwig Wittgenstein";
+"Johann Wolfgang von Goethe" -> "Thomas Mann";
+"Johann Wolfgang von Goethe" -> "Muhammad Iqbal";
+"Johann Baptist von Lampi the Elder" -> "Franciszek Ksawery Lampi";
+"Benjamin Thompson" -> "Humphry Davy";
+"Joseph de Maistre" -> "Louis Gabriel Ambroise de Bonald";
+"Christian Jakob Kraus" -> "Wilhelm von Humboldt";
+"Louis Gabriel Ambroise de Bonald" -> "Joseph de Maistre";
+"Salomon Maimon" -> "Karl Leonhard Reinhold";
+"George Crabbe" -> "Lord Byron";
+"George Crabbe" -> "Walter Scott";
+"William Godwin" -> "Percy Bysshe Shelley";
+"William Godwin" -> "Peter Kropotkin";
+"Karl Leonhard Reinhold" -> "Salomon Maimon";
+"Karl Leonhard Reinhold" -> "Friedrich Adolf Trendelenburg";
+"Karl Leonhard Reinhold" -> "Johann Gottlieb Fichte";
+"Antonio Isopi" -> "Ernst Mayer";
+"Franz Joseph Gall" -> "Cesare Lombroso";
+"Robert Burns" -> "Frank Lebby Stanton";
+"Robert Burns" -> "J. D. Salinger";
+"Robert Burns" -> "Percy Bysshe Shelley";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Pierre-Joseph Proudhon";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "John Stuart Mill";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Karl Marx";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Thorstein Veblen";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Auguste Comte";
+"Johann Gottlieb Fichte" -> "Novalis";
+"Johann Gottlieb Fichte" -> "Dieter Henrich";
+"Johann Gottlieb Fichte" -> "Friedrich Wilhelm Joseph Schelling";
+"Johann Gottlieb Fichte" -> "Georg Wilhelm Friedrich Hegel";
+"William Cobbett" -> "G. K. Chesterton";
+"Maine de Biran" -> "Pierre Janet";
+"Maine de Biran" -> "Henri Bergson";
+"Thomas Robert Malthus" -> "Charles Darwin";
+"Thomas Robert Malthus" -> "Karl Marx";
+"Jean-Baptiste Say" -> "Thomas Hodgskin";
+"Jean-Baptiste Say" -> "Auguste Comte";
+"Wilhelm von Humboldt" -> "Noam Chomsky";
+"Wilhelm von Humboldt" -> "Alexander Potebnja";
+"Wilhelm von Humboldt" -> "August Schleicher";
+"Wilhelm von Humboldt" -> "John Stuart Mill";
+"Friedrich Schleiermacher" -> "Hans-Georg Gadamer";
+"Friedrich Schleiermacher" -> "Wilhelm Dilthey";
+"Friedrich Schleiermacher" -> "Manfred Frank";
+"Friedrich Schleiermacher" -> "Friedrich Adolf Trendelenburg";
+"Alexander von Humboldt" -> "Charles Darwin";
+"Georg Wilhelm Friedrich Hegel" -> "Theodor W. Adorno";
+"Novalis" -> "George MacDonald";
+"Novalis" -> "Heinrich Heine";
+"Novalis" -> "Thomas Bernhard";
+"Charles Fourier" -> "Bob Black";
+"Charles Fourier" -> "Peter Lamborn Wilson";
+"Charles Fourier" -> "Paul Goodman";
+"Charles Fourier" -> "Raoul Vaneigem";
+"Charles Fourier" -> "Herbert Marcuse";
+"Charles Fourier" -> "Pierre-Joseph Proudhon";
+"Charles Fourier" -> "Karl Marx";
+"Charles Fourier" -> "Peter Kropotkin";
+"Charles Fourier" -> "David Harvey";
+"Charles Fourier" -> "Walter Benjamin";
+"James Mill" -> "John Stuart Mill";
+"Friedrich Wilhelm Joseph Schelling" -> "Carl Jung";
+"Friedrich Wilhelm Joseph Schelling" -> "Martin Heidegger";
+"Friedrich Wilhelm Joseph Schelling" -> "Georg Wilhelm Friedrich Hegel";
+"Friedrich Wilhelm Joseph Schelling" -> "Johann Wolfgang von Goethe";
+"Johann Friedrich Herbart" -> "Edmund Husserl";
+"Johann Friedrich Herbart" -> "Wilhelm Windelband";
+"Johann Friedrich Herbart" -> "Hermann Lotze";
+"Johann Friedrich Herbart" -> "Antonio Labriola";
+"Carl Friedrich Gauss" -> "Ferdinand Minding";
+"Ugo Foscolo" -> "Alessandro Manzoni";
+"Ugo Foscolo" -> "Giacomo Leopardi";
+"Humphry Davy" -> "William Thomson, 1st Baron Kelvin";
+"William Hazlitt" -> "Stendhal";
+"Bernard Bolzano" -> "Gottlob Frege";
+"Bernard Bolzano" -> "Edmund Husserl";
+"Bernard Bolzano" -> "Carl Stumpf";
+"William Sturgeon" -> "Charles Grafton Page";
+"Stendhal" -> "Saul Bellow";
+"Stendhal" -> "Grigol Robakidze";
+"Stendhal" -> "Mihail Sebastian";
+"Stendhal" -> "Friedrich Nietzsche";
+"Thomas Hodgskin" -> "Karl Marx";
+"Konstantin Batyushkov" -> "Alexander Pushkin";
+"Lord Byron" -> "Alexander Pushkin";
+"Lord Byron" -> "Seamus Heaney";
+"Lord Byron" -> "Gustave Flaubert";
+"Lord Byron" -> "Heinrich Heine";
+"Lord Byron" -> "Ivan Turgenev";
+"Lord Byron" -> "Knut Hamsun";
+"Lord Byron" -> "Mikhail Lermontov";
+"Sir William Hamilton, 9th Baronet" -> "Herbert Spencer";
+"Sir William Hamilton, 9th Baronet" -> "John Stuart Mill";
+"Friedrich List" -> "Ha-Joon Chang";
+"Mohammad Ibrahim Zauq" -> "Daagh Dehlvi";
+"John Austin  legal philosopher " -> "H. L. A. Hart";
+"John Austin  legal philosopher " -> "Joseph Raz";
+"Alphonse de Lamartine" -> "Hart Crane";
+"Alphonse de Lamartine" -> "Victor Hugo";
+"Charles Babbage" -> "John Stuart Mill";
+"Charles Babbage" -> "Karl Marx";
+"Percy Bysshe Shelley" -> "Alexander Pushkin";
+"Percy Bysshe Shelley" -> "Jan Kasprowicz";
+"George Green" -> "William Thomson, 1st Baron Kelvin";
+"Antoni Malczewski" -> "Adam Mickiewicz";
+"Antoni Malczewski" -> "Antoni Lange";
+"Antoni Malczewski" -> "Leopold Staff";
+"William Whewell" -> "Augustus De Morgan";
+"Charles Lyell" -> "Charles Darwin";
+"Charles Lyell" -> "Thomas Henry Huxley";
+"Ghalib" -> "Faiz Ahmad Faiz";
+"Owen Chase" -> "Herman Melville";
+"Adam Mickiewicz" -> "Friedrich Nietzsche";
+"Adam Mickiewicz" -> "Ralph Waldo Emerson";
+"Giacomo Leopardi" -> "Eugenio Montale";
+"Giacomo Leopardi" -> "Giovanni Pascoli";
+"Giacomo Leopardi" -> "Arthur Schopenhauer";
+"Giacomo Leopardi" -> "Friedrich Nietzsche";
+"Auguste Comte" -> "Charles Maurras";
+"Auguste Comte" -> "Friedrich Nietzsche";
+"Auguste Comte" -> "Herbert Spencer";
+"Auguste Comte" -> "John Stuart Mill";
+"Auguste Comte" -> "Karl Marx";
+"Josiah Warren" -> "Benjamin Tucker";
+"Josiah Warren" -> "John Stuart Mill";
+"Karl Georg Christian von Staudt" -> "Eduardo Torroja Caballe";
+"Alexander Pushkin" -> "Nikolai Leskov";
+"Alexander Pushkin" -> "Dylan Thomas";
+"Alexander Pushkin" -> "Marina Tsvetaeva";
+"Alexander Pushkin" -> "Vladimir Nabokov";
+"Alexander Pushkin" -> "Adam Mickiewicz";
+"Alexander Pushkin" -> "Ilya Repin";
+"Alexander Pushkin" -> "Mihai Eminescu";
+"Alexander Pushkin" -> "Ivan Turgenev";
+"Alexander Pushkin" -> "Maxim Gorky";
+"Alexander Pushkin" -> "Mikhail Lermontov";
+"Alexander Pushkin" -> "Nikolai Gogol";
+"Almeida Garrett" -> "Alexandre Herculano";
+"Almeida Garrett" -> "Camilo Castelo Branco";
+"Gustav Fechner" -> "Wilhelm Wundt";
+"Gustav Fechner" -> "Alfred North Whitehead";
+"Gustav Fechner" -> "William James";
+"Gustav Fechner" -> "Charles Hartshorne";
+"Antoine Augustin Cournot" -> "Gabriel Tarde";
+"Friedrich Adolf Trendelenburg" -> "Franz Brentano";
+"Friedrich Adolf Trendelenburg" -> "Gottlob Frege";
+"Friedrich Adolf Trendelenburg" -> "Wilhelm Dilthey";
+"Friedrich Adolf Trendelenburg" -> "Rudolf Christoph Eucken";
+"Victor Hugo" -> "Leconte de Lisle";
+"Victor Hugo" -> "Gustave Flaubert";
+"Victor Hugo" -> "Paul Verlaine";
+"Robert Walter Weir" -> "James Abbott McNeill Whistler";
+"Ralph Waldo Emerson" -> "Harold Bloom";
+"Ralph Waldo Emerson" -> "Friedrich Nietzsche";
+"Ralph Waldo Emerson" -> "Henry David Thoreau";
+"Ralph Waldo Emerson" -> "William James";
+"Ludwig Feuerbach" -> "Bruno Bauer";
+"Ludwig Feuerbach" -> "Max Stirner";
+"Ludwig Feuerbach" -> "Martin Buber";
+"Ludwig Feuerbach" -> "Friedrich Engels";
+"Ludwig Feuerbach" -> "Karl Marx";
+"Jules Dupuit" -> "Alfred Marshall";
+"Carl von Rokitansky" -> "Cesare Lombroso";
+"Adalbert Stifter" -> "Friedrich Nietzsche";
+"Adalbert Stifter" -> "Thomas Mann";
+"Alexis de Tocqueville" -> "Friedrich Hayek";
+"Alexis de Tocqueville" -> "Max Weber";
+"Alexis de Tocqueville" -> "Raymond Aron";
+"Alexis de Tocqueville" -> "John Stuart Mill";
+"Ernst von Bibra" -> "Richard Evans Schultes";
+"Max Stirner" -> "Bob Black";
+"Max Stirner" -> "Rudolf Steiner";
+"Max Stirner" -> "Renzo Novatore";
+"Max Stirner" -> "Benjamin Tucker";
+"Max Stirner" -> "Carl Schmitt";
+"Max Stirner" -> "Emma Goldman";
+"Max Stirner" -> "Friedrich Engels";
+"Max Stirner" -> "Friedrich Nietzsche";
+"Max Stirner" -> "Karl Marx";
+"John Stuart Mill" -> "Paul Feyerabend";
+"John Stuart Mill" -> "Robert Nozick";
+"John Stuart Mill" -> "Karl Popper";
+"John Stuart Mill" -> "Peter Singer";
+"John Stuart Mill" -> "Isaiah Berlin";
+"John Stuart Mill" -> "Ronald Dworkin";
+"John Stuart Mill" -> "Wilhelm Dilthey";
+"John Stuart Mill" -> "Zechariah Chafee";
+"John Stuart Mill" -> "H. L. A. Hart";
+"John Stuart Mill" -> "Christopher Hitchens";
+"John Stuart Mill" -> "John Rawls";
+"John Stuart Mill" -> "Bertrand Russell";
+"John Stuart Mill" -> "William James";
+"Charles Coleman  English painter " -> "Giovanni Costa";
+"Henrik Wergeland" -> "Henrik Ibsen";
+"Henrik Wergeland" -> "Knut Hamsun";
+"Lysander Spooner" -> "Murray Rothbard";
+"Johann Gustav Droysen" -> "Wilhelm Dilthey";
+"Victor Prosper Considerant" -> "Charles Fourier";
+"Bruno Bauer" -> "Max Stirner";
+"Bruno Bauer" -> "Karl Kautsky";
+"Bruno Bauer" -> "Friedrich Engels";
+"Bruno Bauer" -> "Friedrich Nietzsche";
+"Bruno Bauer" -> "Karl Marx";
+"Pierre-Joseph Proudhon" -> "Mikhail Bakunin";
+"Pierre-Joseph Proudhon" -> "Silvio Gesell";
+"Pierre-Joseph Proudhon" -> "Georges Sorel";
+"Pierre-Joseph Proudhon" -> "Benjamin Tucker";
+"Pierre-Joseph Proudhon" -> "Karl Marx";
+"Charles Darwin" -> "Joseph Dalton Hooker";
+"Charles Darwin" -> "Thomas Henry Huxley";
+"Nikolai Gogol" -> "Vladimir Nabokov";
+"Nikolai Gogol" -> "William Gaddis";
+"Nikolai Gogol" -> "Ivan Turgenev";
+"Edward Blyth" -> "Charles Darwin";
+"Henri Victor Regnault" -> "William Thomson, 1st Baron Kelvin";
+"Vissarion Belinsky" -> "Ivan Turgenev";
+"William Makepeace Thackeray" -> "George Orwell";
+"Charles Bray" -> "George Eliot";
+"Alexander Herzen" -> "Jean-Paul Sartre";
+"Alexander Herzen" -> "Isaiah Berlin";
+"Alexander Herzen" -> "Peter Kropotkin";
+"Charles Grafton Page" -> "William Sturgeon";
+"Mikhail Bakunin" -> "Noam Chomsky";
+"Mikhail Bakunin" -> "Peter Kropotkin";
+"Jules Lequier" -> "Charles Bernard Renouvier";
+"Jules Lequier" -> "William James";
+"Jules Lequier" -> "Charles Hartshorne";
+"Julius von Mayer" -> "William Thomson, 1st Baron Kelvin";
+"Mikhail Lermontov" -> "Ivan Turgenev";
+"George Washington Harris" -> "Flannery O'Connor";
+"George Washington Harris" -> "William Faulkner";
+"George Washington Harris" -> "Mark Twain";
+"Charles Bernard Renouvier" -> "William James";
+"George Boole" -> "Augustus De Morgan";
+"George Boole" -> "William Stanley Jevons";
+"George Boole" -> "Bertrand Russell";
+"Martins Pena" -> "Artur Azevedo";
+"William Cubley" -> "William Nicholson  artist ";
+"Angelo Genocchi" -> "Giuseppe Peano";
+"Hermann Lotze" -> "Gottlob Frege";
+"Hermann Lotze" -> "Edmund Husserl";
+"Hermann Lotze" -> "Wilhelm Windelband";
+"Hermann Lotze" -> "Josiah Royce";
+"Hermann Lotze" -> "Bertrand Russell";
+"Hermann Lotze" -> "William James";
+"Hermann Lotze" -> "Thomas Hill Green";
+"Henry David Thoreau" -> "E. B. White";
+"Henry David Thoreau" -> "John Zerzan";
+"Henry David Thoreau" -> "Emma Goldman";
+"Leconte de Lisle" -> "Antoni Lange";
+"Leconte de Lisle" -> "Arthur Rimbaud";
+"Leconte de Lisle" -> "Leopold Staff";
+"Leconte de Lisle" -> "Paul Verlaine";
+"Leconte de Lisle" -> "Rainer Maria Rilke";
+"Thomas Mayne Reid" -> "Vladimir Nabokov";
+"Giuseppe Rovani" -> "Carlo Dossi";
+"Ivan Turgenev" -> "Truman Capote";
+"Ivan Turgenev" -> "Vladimir Nabokov";
+"Ivan Turgenev" -> "Gustave Flaubert";
+"Gustave de Molinari" -> "Murray Rothbard";
+"Gustave de Molinari" -> "Benjamin Tucker";
+"Gustave Courbet" -> "James Abbott McNeill Whistler";
+"Gustave Courbet" -> "Ilya Repin";
+"George Eliot" -> "Norman Mailer";
+"George Eliot" -> "Christopher Hitchens";
+"George Eliot" -> "Thomas Mann";
+"George Eliot" -> "Virginia Woolf";
+"Herman Melville" -> "Paul Auster";
+"Herman Melville" -> "William Faulkner";
+"Herman Melville" -> "D. H. Lawrence";
+"John Ruskin" -> "G. K. Chesterton";
+"William John Macquorn Rankine" -> "Pierre Duhem";
+"Herbert Spencer" -> "Murray Rothbard";
+"Herbert Spencer" -> "Charles Darwin";
+"Herbert Spencer" -> "Henri Bergson";
+"Herbert Spencer" -> "Henry Sidgwick";
+"Hermann von Helmholtz" -> "Ludwig Wittgenstein";
+"Rudolf Virchow" -> "Charles Scott Sherrington";
+"Karl Knies" -> "John Bates Clark";
+"Karl Knies" -> "John Bates Clark";
+"August Schleicher" -> "August Leskien";
+"Gustave Flaubert" -> "George Orwell";
+"Gustave Flaubert" -> "Jean-Paul Sartre";
+"Gustave Flaubert" -> "Vladimir Nabokov";
+"Gustave Flaubert" -> "Grigol Robakidze";
+"Gustave Flaubert" -> "Guram Dochanashvili";
+"Gustave Flaubert" -> "William H. Gass";
+"Gustave Flaubert" -> "Guy de Maupassant";
+"Gustave Flaubert" -> "Ivan Turgenev";
+"Gustave Flaubert" -> "Michel Foucault";
+"Heinrich Schliemann" -> "Arthur Evans";
+"John Evans  archaeologist " -> "Arthur Evans";
+"George MacDonald" -> "G. K. Chesterton";
+"George MacDonald" -> "Mark Twain";
+"George MacDonald" -> "Madeleine L'Engle";
+"Kuno Fischer" -> "Gottlob Frege";
+"Augustus Le Plongeon" -> "Lewis Spence";
+"Thomas Henry Huxley" -> "Julian Huxley";
+"Thomas Henry Huxley" -> "Ray Lankester";
+"Adolf Bastian" -> "Joseph Campbell";
+"Adolf Bastian" -> "Carl Jung";
+"Friedrich Albert Lange" -> "Friedrich Nietzsche";
+"Joseph Dietzgen" -> "Antonie Pannekoek";
+"Joseph Dietzgen" -> "Karl Marx";
+"George Meredith" -> "Thomas Hardy";
+"Jules Verne" -> "Jean-Paul Sartre";
+"Jules Verne" -> "William Golding";
+"Jules Verne" -> "Blaise Cendrars";
+"Jules Verne" -> "Arthur Rimbaud";
+"Jules Verne" -> "Roland Barthes";
+"Jules Verne" -> "Arthur C. Clarke";
+"Jules Verne" -> "Edgar Rice Burroughs";
+"Jules Verne" -> "Emilio Salgari";
+"Camille Pissarro" -> "Paul Gauguin";
+"Christoph von Sigwart" -> "F. H. Bradley";
+"Christoph von Sigwart" -> "Bertrand Russell";
+"Christoph von Sigwart" -> "William James";
+"Alexei Savrasov" -> "Arkhip Kuindzhi";
+"Nikolai Leskov" -> "Yevgeny Zamyatin";
+"Daagh Dehlvi" -> "Muhammad Iqbal";
+"Wilhelm Wundt" -> "Emil Kraepelin";
+"Ivan Shishkin" -> "Arkhip Kuindzhi";
+"Wilhelm Dilthey" -> "Hans-Georg Gadamer";
+"Wilhelm Dilthey" -> "Martin Heidegger";
+"Wilhelm Dilthey" -> "Max Weber";
+"Wilhelm Dilthey" -> "Rudolf Steiner";
+"Wilhelm Dilthey" -> "Georg Simmel";
+"Wilhelm Dilthey" -> "Karl Jaspers";
+"Robert G. Ingersoll" -> "Mark Twain";
+"James Abbott McNeill Whistler" -> "William Merritt Chase";
+"William Stanley Jevons" -> "Alfred Marshall";
+"William Stanley Jevons" -> "Lionel Robbins, Baron Robbins";
+"William Stanley Jevons" -> "Karl Popper";
+"William Stanley Jevons" -> "Frank Fetter";
+"William Stanley Jevons" -> "Irving Fisher";
+"Alexander Potebnja" -> "Lev Vygotsky";
+"Winslow Homer" -> "N. C. Wyeth";
+"Winslow Homer" -> "Frederic Remington";
+"Winslow Homer" -> "Howard Pyle";
+"Thomas Hill Green" -> "F. H. Bradley";
+"Thomas Hill Green" -> "John Dewey";
+"Nikolay Dobrolyubov" -> "Maxim Gorky";
+"African Spir" -> "Rudolf Steiner";
+"African Spir" -> "Rudolf Steiner";
+"African Spir" -> "Hans Vaihinger";
+"African Spir" -> "Hans Vaihinger";
+"African Spir" -> "Friedrich Nietzsche";
+"African Spir" -> "Friedrich Nietzsche";
+"African Spir" -> "William James";
+"African Spir" -> "William James";
+"Ivan Kramskoi" -> "Ilya Repin";
+"Ernst Mach" -> "Wolfgang Pauli";
+"Ernst Mach" -> "Pierre Duhem";
+"Ernst Mach" -> "William James";
+"Franz Brentano" -> "Edmund Husserl";
+"Franz Brentano" -> "Rudolf Steiner";
+"Franz Brentano" -> "Christian von Ehrenfels";
+"Franz Brentano" -> "Alexius Meinong";
+"Gustav von Schmoller" -> "Werner Sombart";
+"Gustav von Schmoller" -> "Thorstein Veblen";
+"Henry Sidgwick" -> "Alfred Marshall";
+"Henry Sidgwick" -> "Peter Singer";
+"Henry Sidgwick" -> "John Rawls";
+"Henry Sidgwick" -> "Derek Parfit";
+"Henry Sidgwick" -> "R. M. Hare";
+"Machado de Assis" -> "Erico Verissimo";
+"August Kundt" -> "Richard Adolf Zsigmondy";
+"Henry George" -> "Silvio Gesell";
+"Henry George" -> "Franz Oppenheimer";
+"Henry George" -> "John Dewey";
+"Henry George" -> "William Vickrey";
+"Carl Menger" -> "Friedrich Hayek";
+"Carl Menger" -> "Murray Rothbard";
+"Carl Menger" -> "Friedrich von Wieser";
+"Carl Menger" -> "Henry Ludwell Moore";
+"Carl Menger" -> "Ludwig Lachmann";
+"Carl Menger" -> "Ludwig von Mises";
+"August Leskien" -> "Jan Baudouin de Courtenay";
+"Thomas Hardy" -> "Robinson Jeffers";
+"Thomas Hardy" -> "D. H. Lawrence";
+"Thomas Hardy" -> "Robert Frost";
+"Thomas Hardy" -> "Siegfried Sassoon";
+"George Sylvester Morris" -> "John Dewey";
+"Johann Dieter Wassmann" -> "Joseph Cornell";
+"Mykhailo Drahomanov" -> "Lesya Ukrainka";
+"Alfred Marshall" -> "Gary Becker";
+"Karl Robert Eduard von Hartmann" -> "Carl Jung";
+"Karl Robert Eduard von Hartmann" -> "Rudolf Steiner";
+"Karl Robert Eduard von Hartmann" -> "Hans Vaihinger";
+"Georg Friedrich Knapp" -> "Ladislaus Bortkiewicz";
+"Antero de Quental" -> "Fernando Pessoa";
+"William James" -> "Hilary Putnam";
+"William James" -> "Edmund Husserl";
+"William James" -> "Edwin Holt";
+"William James" -> "F. C. S. Schiller";
+"William James" -> "Richard Rorty";
+"William James" -> "Bertrand Russell";
+"William James" -> "George Santayana";
+"William James" -> "Henri Bergson";
+"William James" -> "John Dewey";
+"William James" -> "Ludwig Wittgenstein";
+"William James" -> "Morris Raphael Cohen";
+"Gleb Uspensky" -> "Maxim Gorky";
+"Gabriel Tarde" -> "Peter Sloterdijk";
+"Gabriel Tarde" -> "W. I. Thomas";
+"Richard Avenarius" -> "Ernst Mach";
+"Richard Avenarius" -> "William James";
+"Adolf Mayer" -> "Martinus Beijerinck";
+"Adolf Mayer" -> "Dmitri Ivanovsky";
+"Antonio Labriola" -> "Benedetto Croce";
+"Philip Wicksteed" -> "Joseph Schumpeter";
+"Philip Wicksteed" -> "Murray Rothbard";
+"Philip Wicksteed" -> "Henry Hazlitt";
+"Ilya Repin" -> "Vasily Surikov";
+"Friedrich Nietzsche" -> "Theodor W. Adorno";
+"Paul Verlaine" -> "Arthur Rimbaud";
+"Jacint Verdaguer" -> "Joan Maragall";
+"Theodor Hertzka" -> "Silvio Gesell";
+"Rudolf Christoph Eucken" -> "Evelyn Underhill";
+"John Bates Clark" -> "Friedrich Hayek";
+"John Bates Clark" -> "Henry Ludwell Moore";
+"John Bates Clark" -> "Frank Knight";
+"John Bates Clark" -> "Frank Fetter";
+"John Bates Clark" -> "Thorstein Veblen";
+"Jens Peter Jacobsen" -> "D. H. Lawrence";
+"Jens Peter Jacobsen" -> "Henrik Ibsen";
+"Jens Peter Jacobsen" -> "Rainer Maria Rilke";
+"Jens Peter Jacobsen" -> "Thomas Mann";
+"Gottlob Frege" -> "Rudolf Carnap";
+"Gottlob Frege" -> "Michael Dummett";
+"Gottlob Frege" -> "Edmund Husserl";
+"Gottlob Frege" -> "Giuseppe Peano";
+"Gottlob Frege" -> "Bertrand Russell";
+"Gottlob Frege" -> "Ludwig Wittgenstein";
+"Wilhelm Windelband" -> "Max Weber";
+"Vilfredo Pareto" -> "Alfred Marshall";
+"Vilfredo Pareto" -> "Gaetano Mosca";
+"Vilfredo Pareto" -> "Maurice Allais";
+"Vilfredo Pareto" -> "Henry Ludwell Moore";
+"Vilfredo Pareto" -> "Oskar R. Lange";
+"Vilfredo Pareto" -> "Luigi Amoroso";
+"Vilfredo Pareto" -> "Chester Barnard";
+"Vilfredo Pareto" -> "Norberto Bobbio";
+"Carl Stumpf" -> "Kurt Lewin";
+"Carl Stumpf" -> "Kurt Koffka";
+"Auguste Forel" -> "Eugen Bleuler";
+"Auguste Forel" -> "Adolf Meyer  psychiatrist ";
+"Joel Chandler Harris" -> "Flannery O'Connor";
+"Joel Chandler Harris" -> "E. B. White";
+"Joel Chandler Harris" -> "Frank Lebby Stanton";
+"Joel Chandler Harris" -> "William Faulkner";
+"Joel Chandler Harris" -> "Mark Twain";
+"Joel Chandler Harris" -> "Rudyard Kipling";
+"Joel Chandler Harris" -> "Zora Neale Hurston";
+"Rufus Fairchild Zogbaum" -> "Frederic Remington";
+"August Strindberg" -> "Henrik Ibsen";
+"August Strindberg" -> "Knut Hamsun";
+"William Morris Davis" -> "Charles Cotton  geologist ";
+"Hermann Ebbinghaus" -> "Lev Vygotsky";
+"Guy de Maupassant" -> "Raymond Carver";
+"Guy de Maupassant" -> "Tobias Wolff";
+"Guy de Maupassant" -> "Robert Louis Stevenson";
+"Robert Louis Stevenson" -> "Vladimir Nabokov";
+"Robert Louis Stevenson" -> "G. K. Chesterton";
+"Robert Louis Stevenson" -> "H. Rider Haggard";
+"Robert Louis Stevenson" -> "Rudyard Kipling";
+"Robert Louis Stevenson" -> "Michael de Larrabeiti";
+"Martinus Beijerinck" -> "Sergei Winogradsky";
+"Friedrich von Wieser" -> "Friedrich Hayek";
+"Friedrich von Wieser" -> "Joseph Schumpeter";
+"Friedrich von Wieser" -> "Ludwig von Mises";
+"Hans Vaihinger" -> "Hans Kelsen";
+"Ion Luca Caragiale" -> "Mihail Sebastian";
+"Alexius Meinong" -> "Roderick Chisholm";
+"Alexius Meinong" -> "Bertrand Russell";
+"Vladimir Solovyov  philosopher " -> "Nikolai Berdyaev";
+"Howard Pyle" -> "N. C. Wyeth";
+"Adolfo Hohenstein" -> "Marcello Dudovich";
+"Arthur Rimbaud" -> "Dylan Thomas";
+"Arthur Rimbaud" -> "Jack Kerouac";
+"Arthur Rimbaud" -> "J. Slauerhoff";
+"Arthur Rimbaud" -> "William S. Burroughs";
+"Benjamin Tucker" -> "Murray Rothbard";
+"Richard T. Ely" -> "John R. Commons";
+"Richard T. Ely" -> "Ha-Joon Chang";
+"Josiah Royce" -> "Gabriel Marcel";
+"Josiah Royce" -> "Clarence Irving Lewis";
+"Josiah Royce" -> "Morris Raphael Cohen";
+"Sergei Winogradsky" -> "Martinus Beijerinck";
+"Henri-Edmond Cross" -> "Henri Matisse";
+"H. Rider Haggard" -> "Carl Jung";
+"H. Rider Haggard" -> "Robert E. Howard";
+"H. Rider Haggard" -> "Edgar Rice Burroughs";
+"H. Rider Haggard" -> "Rudyard Kipling";
+"Eugen Bleuler" -> "Carl Jung";
+"Karl Pearson" -> "Henry Ludwell Moore";
+"Charles Scott Sherrington" -> "John Eccles  neurophysiologist ";
+"Vladimir Bekhterev" -> "Vladimir Nikolayevich Myasishchev";
+"Alice Pike Barney" -> "James Abbott McNeill Whistler";
+"Shibli Nomani" -> "Amin Ahsan Islahi";
+"Alfred Binet" -> "Jean Piaget";
+"Thorstein Veblen" -> "John Kenneth Galbraith";
+"Thorstein Veblen" -> "Lewis Mumford";
+"Thorstein Veblen" -> "Wesley Clair Mitchell";
+"Thorstein Veblen" -> "Clarence Edwin Ayres";
+"Ferdinand de Saussure" -> "Jacques Lacan";
+"Ferdinand de Saussure" -> "Maurice Merleau-Ponty";
+"Ferdinand de Saussure" -> "Noam Chomsky";
+"Ferdinand de Saussure" -> "Roman Jakobson";
+"Ferdinand de Saussure" -> "Ernesto Laclau";
+"Ferdinand de Saussure" -> "Roland Barthes";
+"Ferdinand de Saussure" -> "Louis Althusser";
+"Ferdinand de Saussure" -> "Jacques Derrida";
+"Ferdinand de Saussure" -> "Michel Foucault";
+"Giuseppe Peano" -> "Bertrand Russell";
+"Gaetano Mosca" -> "Joseph Schumpeter";
+"Albrecht Penck" -> "Walther Penck";
+"Edmund Husserl" -> "Emmanuel Levinas";
+"Edmund Husserl" -> "Rudolf Carnap";
+"Edmund Husserl" -> "Jean-Paul Sartre";
+"Edmund Husserl" -> "Martin Heidegger";
+"Edmund Husserl" -> "Maurice Merleau-Ponty";
+"Edmund Husserl" -> "Bernard Stiegler";
+"Edmund Husserl" -> "Gabriel Marcel";
+"Edmund Husserl" -> "Roman Ingarden";
+"Edmund Husserl" -> "Max Scheler";
+"Edmund Husserl" -> "Jacques Derrida";
+"Frank William Taussig" -> "Jacob Viner";
+"Samuel Alexander" -> "John Anderson  philosopher ";
+"Samuel Alexander" -> "Alfred North Whitehead";
+"Pierre Janet" -> "Carl Jung";
+"Pierre Janet" -> "William James";
+"Henri Bergson" -> "Gilles Deleuze";
+"John Dewey" -> "Thorstein Veblen";
+"Knut Hamsun" -> "Paul Auster";
+"Knut Hamsun" -> "Maxim Gorky";
+"Knut Hamsun" -> "Thomas Mann";
+"Knut Hamsun" -> "Charles Bukowski";
+"Robert Talbot Kelly" -> "Maung Maung Gyi  painter ";
+"Robert Talbot Kelly" -> "M.T. Hla  U Tun Hla ";
+"Rudolf Steiner" -> "Saul Bellow";
+"Rudolf Steiner" -> "Saul Bellow";
+"Rudolf Steiner" -> "Martin Buber";
+"Rudolf Steiner" -> "Martin Buber";
+"Rudolf Steiner" -> "Owen Barfield";
+"Rudolf Steiner" -> "Owen Barfield";
+"Rudolf Steiner" -> "Richard Tarnas";
+"Rudolf Steiner" -> "Richard Tarnas";
+"Henry Head" -> "Siegfried Sassoon";
+"Pierre Duhem" -> "Thomas Kuhn";
+"Tajuddin Muhammad Badruddin" -> "Qalandar Baba Auliya";
+"Joseph Southall" -> "Maxwell Armfield";
+"Alfred North Whitehead" -> "David Bohm";
+"Alfred North Whitehead" -> "Gilles Deleuze";
+"Alfred North Whitehead" -> "Maurice Merleau-Ponty";
+"Alfred North Whitehead" -> "Willard Van Orman Quine";
+"Alfred North Whitehead" -> "Nicholas Rescher";
+"Alfred North Whitehead" -> "C. D. Broad";
+"Alfred North Whitehead" -> "C. H. Waddington";
+"Alfred North Whitehead" -> "Hans Jonas";
+"Alfred North Whitehead" -> "Henry Nelson Wieman";
+"Alfred North Whitehead" -> "John B. Cobb";
+"Alfred North Whitehead" -> "Jules Vuillemin";
+"Alfred North Whitehead" -> "Wolfgang Smith";
+"Alfred North Whitehead" -> "Ilya Prigogine";
+"Alfred North Whitehead" -> "Bertrand Russell";
+"Alfred North Whitehead" -> "Talcott Parsons";
+"Alfred North Whitehead" -> "Charles Hartshorne";
+"Gustav Klimt" -> "Egon Schiele";
+"Carl Eytel" -> "Edmund Jaeger";
+"John R. Commons" -> "Oliver E. Williamson";
+"Georges Palante" -> "Renzo Novatore";
+"George Herbert Mead" -> "Herbert Blumer";
+"George Herbert Mead" -> "John Dewey";
+"Werner Sombart" -> "Max Weber";
+"Antoni Lange" -> "Leopold Staff";
+"Charles Spearman" -> "Cyril Burt";
+"Heinrich Rickert" -> "Martin Heidegger";
+"Heinrich Rickert" -> "Max Weber";
+"Heinrich Rickert" -> "Emil Lask";
+"Heinrich Rickert" -> "Walter Benjamin";
+"W. I. Thomas" -> "Herbert Blumer";
+"Constantine P. Cavafy" -> "James Merrill";
+"Frank Fetter" -> "Friedrich Hayek";
+"Frank Fetter" -> "Murray Rothbard";
+"Frank Fetter" -> "Ludwig von Mises";
+"George Santayana" -> "William James";
+"Thomas Walker Arnold" -> "Muhammad Iqbal";
+"Max Weber" -> "Karl Jaspers";
+"Charles Cooley" -> "George Herbert Mead";
+"Charles Cooley" -> "Herbert Blumer";
+"F. C. S. Schiller" -> "Larry Laudan";
+"F. C. S. Schiller" -> "William James";
+"Franz Oppenheimer" -> "Murray Rothbard";
+"Richard Adolf Zsigmondy" -> "August Kundt";
+"George Bridgman" -> "Norman Rockwell";
+"M. P. Shiel" -> "Stephen King";
+"Rudyard Kipling" -> "Poul Anderson";
+"Rudyard Kipling" -> "Robert A. Heinlein";
+"Rudyard Kipling" -> "Edgar Rice Burroughs";
+"Rudyard Kipling" -> "John W. Campbell";
+"George Gurdjieff" -> "Colin Wilson";
+"George Gurdjieff" -> "Rajneesh";
+"Ernest William Brown" -> "Wallace John Eckert";
+"J. M. E. McTaggart" -> "Michael Dummett";
+"J. M. E. McTaggart" -> "Peter Geach";
+"Lev Shestov" -> "D. H. Lawrence";
+"Benedetto Croce" -> "Giovanni Gentile";
+"Jacques Huber" -> "Adolpho Ducke";
+"Irving Fisher" -> "Franco Modigliani";
+"Irving Fisher" -> "James Tobin";
+"Irving Fisher" -> "Milton Friedman";
+"Irving Fisher" -> "Maurice Allais";
+"Camilo Pessanha" -> "Fernando Pessoa";
+"Ladislaus Bortkiewicz" -> "Paul Sweezy";
+"Paul Otlet" -> "Suzanne Briet";
+"Paul Otlet" -> "Vannevar Bush";
+"Henri Matisse" -> "Hans Hofmann";
+"Rudolf Otto" -> "Joachim Wach";
+"Roscoe Pound" -> "Zechariah Chafee";
+"Nikolay Lossky" -> "Nicolai Hartmann";
+"William McDougall  psychologist " -> "Cyril Burt";
+"William McDougall  psychologist " -> "Thorstein Veblen";
+"John Millington Synge" -> "Seamus Heaney";
+"John Millington Synge" -> "Samuel Beckett";
+"Edward Gordon Craig" -> "Isadora Duncan";
+"Bertrand Russell" -> "Ludwig Wittgenstein";
+"Avram Steuerman-Rodion" -> "Benjamin Fondane";
+"G. E. Moore" -> "Bertrand Russell";
+"Antonie Pannekoek" -> "Guy Debord";
+"Edwin Holt" -> "Samuel Alexander";
+"Edwin Holt" -> "John Anderson  philosopher ";
+"Leo Frobenius" -> "Joseph Campbell";
+"Leo Frobenius" -> "Adolf Ellegard Jensen";
+"Leo Frobenius" -> "Oswald Spengler";
+"Ford Madox Ford" -> "Robie Macauley";
+"Henri Barbusse" -> "Erich Maria Remarque";
+"Nikolai Berdyaev" -> "Jacques Ellul";
+"J. C. Leyendecker" -> "Norman Rockwell";
+"Ernst Cassirer" -> "Leo Strauss";
+"G. K. Chesterton" -> "Hannah Arendt";
+"G. K. Chesterton" -> "R. A. Lafferty";
+"G. K. Chesterton" -> "Marshall McLuhan";
+"G. K. Chesterton" -> "Dorothy L. Sayers";
+"G. K. Chesterton" -> "Gene Wolfe";
+"G. K. Chesterton" -> "Phillip Blond";
+"G. K. Chesterton" -> "Alan Watts";
+"Gertrude Stein" -> "Richard Wright  author ";
+"Gertrude Stein" -> "Giannina Braschi";
+"Gertrude Stein" -> "William H. Gass";
+"Gertrude Stein" -> "Michael Palmer  poet ";
+"Lucy Maud Montgomery" -> "Margaret Laurence";
+"Robert Frost" -> "Seamus Heaney";
+"Robert Frost" -> "Richard Wilbur";
+"Max Scheler" -> "Martin Heidegger";
+"Max Scheler" -> "Martin Buber";
+"Wesley Clair Mitchell" -> "Simon Kuznets";
+"Giovanni Gentile" -> "Benedetto Croce";
+"Carl Jung" -> "Joseph Campbell";
+"Carl Jung" -> "Erich Neumann  psychologist ";
+"Emil Lask" -> "Martin Heidegger";
+"Edgar Rice Burroughs" -> "Leigh Brackett";
+"Edgar Rice Burroughs" -> "Michael Moorcock";
+"Edgar Rice Burroughs" -> "Robert A. Heinlein";
+"Edgar Rice Burroughs" -> "Robert E. Howard";
+"Edgar Rice Burroughs" -> "A. Merritt";
+"Edgar Rice Burroughs" -> "John Norman";
+"Edgar Rice Burroughs" -> "Arthur C. Clarke";
+"Rainer Maria Rilke" -> "Erich Maria Remarque";
+"Rainer Maria Rilke" -> "Martin Heidegger";
+"Rainer Maria Rilke" -> "William H. Gass";
+"Rainer Maria Rilke" -> "J. D. Salinger";
+"F. L. Griggs" -> "Graham Sutherland";
+"Allyn Abbott Young" -> "Frank Knight";
+"Eva Henrietta Hamilton" -> "Rose Maynard Barton";
+"Eva Henrietta Hamilton" -> "Rose Maynard Barton";
+"Sherwood Anderson" -> "William Faulkner";
+"Sherwood Anderson" -> "J. D. Salinger";
+"Sherwood Anderson" -> "Charles Bukowski";
+"Ivan Cankar" -> "Fulvio Tomizza";
+"Dragotin Kette" -> "Alojz Gradnik";
+"Dragotin Kette" -> "Alojz Rebula";
+"Dragotin Kette" -> "Ivan Cankar";
+"Dragotin Kette" -> "Josip Murn";
+"Isadora Duncan" -> "Edward Gordon Craig";
+"Maximilian Voloshin" -> "Marina Tsvetaeva";
+"W. D. Ross" -> "Bernard Gert";
+"Otto Gross" -> "Carl Jung";
+"Otto Gross" -> "D. H. Lawrence";
+"Edward Plunkett, 18th Baron of Dunsany" -> "Jack Vance";
+"Edward Plunkett, 18th Baron of Dunsany" -> "Michael Moorcock";
+"Edward Plunkett, 18th Baron of Dunsany" -> "Robert E. Howard";
+"Edward Plunkett, 18th Baron of Dunsany" -> "Arthur C. Clarke";
+"Edward Plunkett, 18th Baron of Dunsany" -> "David Eddings";
+"Lise Meitner" -> "Otto Hahn";
+"Kurt Goldstein" -> "Maurice Merleau-Ponty";
+"Kurt Goldstein" -> "Georges Canguilhem";
+"Kurt Goldstein" -> "Alexander Luria";
+"Kurt Goldstein" -> "Abraham Maslow";
+"Martin Buber" -> "Gabriel Marcel";
+"Martin Buber" -> "Franz Rosenzweig";
+"Othmar Spann" -> "Friedrich Hayek";
+"Othmar Spann" -> "Eric Voegelin";
+"Wilhelmina Weber Furlong" -> "Jackson Pollock";
+"Wilhelmina Weber Furlong" -> "Thomas Furlong  artist ";
+"Wilhelmina Weber Furlong" -> "David Smith  sculptor ";
+"Wilhelmina Weber Furlong" -> "Thomas Hart Benton  painter ";
+"Wilhelmina Weber Furlong" -> "Jean Charlot";
+"Wilhelmina Weber Furlong" -> "John D. Graham";
+"Marcello Dudovich" -> "Adolfo Hohenstein";
+"Muhammad Sirajuddin Naqshbandi" -> "Muhammad Tahir";
+"Wallace Stevens" -> "Harold Bloom";
+"Wallace Stevens" -> "James Merrill";
+"Edward Everett Dale" -> "Angie Debo";
+"Otto Hahn" -> "Igor Kurchatov";
+"Josip Murn" -> "Alojz Gradnik";
+"Josip Murn" -> "Edvard Kocbek";
+"Josip Murn" -> "Dane Zajc";
+"Oswald Spengler" -> "Theodor W. Adorno";
+"Tudor Arghezi" -> "Benjamin Fondane";
+"Tudor Arghezi" -> "Eugen Barbu";
+"Friedrich Meggendorfer" -> "Emil Kraepelin";
+"Otto Weininger" -> "August Strindberg";
+"Otto Weininger" -> "Ludwig Wittgenstein";
+"Hans Hofmann" -> "Helen Frankenthaler";
+"Alice Dayrell Caldeira Brant" -> "Elizabeth Bishop";
+"Morris Raphael Cohen" -> "Sidney Hook";
+"Morris Raphael Cohen" -> "Ernest Nagel";
+"Giovanni Papini" -> "Mircea Eliade";
+"Giovanni Papini" -> "Scipio Slataper";
+"Henryk Grossman" -> "Chris Harman";
+"Ion Minulescu" -> "Benjamin Fondane";
+"Ludwig von Mises" -> "Friedrich Hayek";
+"Ludwig von Mises" -> "Murray Rothbard";
+"Ludwig von Mises" -> "Henry Hazlitt";
+"Ludwig von Mises" -> "Hans Sennholz";
+"Ludwig von Mises" -> "Benjamin Anderson";
+"Ludwig von Mises" -> "Israel Kirzner";
+"Hans Kelsen" -> "H. L. A. Hart";
+"Hans Kelsen" -> "Norberto Bobbio";
+"Emanuel Hahn" -> "Elizabeth Bradford Holbrook";
+"Florence Wyle" -> "Elizabeth Bradford Holbrook";
+"Melanie Klein" -> "Jacques Lacan";
+"Melanie Klein" -> "Cornelius Castoriadis";
+"Jacques Maritain" -> "Ivan Illich";
+"Grigol Robakidze" -> "Guram Dochanashvili";
+"Nicolai Hartmann" -> "Max Scheler";
+"Virginia Woolf" -> "Toni Morrison";
+"William Carlos Williams" -> "Robert Lowell";
+"William Carlos Williams" -> "Theodore Roethke";
+"William Carlos Williams" -> "Charles Olson";
+"William Carlos Williams" -> "Robert Creeley";
+"Joseph Schumpeter" -> "Christopher Freeman";
+"Joseph Schumpeter" -> "Paul Samuelson";
+"Karl Jaspers" -> "Hans-Georg Gadamer";
+"Karl Jaspers" -> "William A. Earle";
+"Karl Jaspers" -> "Martin Heidegger";
+"Clarence Irving Lewis" -> "Willard Van Orman Quine";
+"Clarence Irving Lewis" -> "Roderick Chisholm";
+"Clarence Irving Lewis" -> "Nelson Goodman";
+"Charles Sheeler" -> "Alfred Stieglitz";
+"Gertrude Barrows Bennett" -> "A. Merritt";
+"Urmuz" -> "Constant Tonegaru";
+"Urmuz" -> "Geo Bogza";
+"Urmuz" -> "Tudor Arghezi";
+"Urmuz" -> "H. Bonciu";
+"Fern Coppedge" -> "William Merritt Chase";
+"Otto Rank" -> "Paul Goodman";
+"Yevgeny Zamyatin" -> "George Orwell";
+"Gaston Bachelard" -> "Don Ihde";
+"Gaston Bachelard" -> "Thomas Kuhn";
+"Gaston Bachelard" -> "Georges Canguilhem";
+"Gaston Bachelard" -> "Louis Althusser";
+"Gaston Bachelard" -> "Cornelius Castoriadis";
+"Gaston Bachelard" -> "Michel Serres";
+"Gaston Bachelard" -> "Michel Foucault";
+"A. Merritt" -> "Jack Williamson";
+"A. Merritt" -> "Vladimir Colin";
+"Alexandre Mercereau" -> "Albert Gleizes";
+"Mateiu Caragiale" -> "Mircea Nedelciu";
+"Mateiu Caragiale" -> "Paul Georgescu";
+"Niels Bohr" -> "Lise Meitner";
+"Niels Bohr" -> "Werner Heisenberg";
+"Niels Bohr" -> "Wolfgang Pauli";
+"Victor Forsythe" -> "Norman Rockwell";
+"Frank Knight" -> "James M. Buchanan";
+"Frank Knight" -> "Milton Friedman";
+"Frank Knight" -> "George Stigler";
+"Velimir Khlebnikov" -> "Vladimir Mayakovsky";
+"D. H. Lawrence" -> "Dylan Thomas";
+"D. H. Lawrence" -> "Octavio Paz";
+"D. H. Lawrence" -> "Charles Bukowski";
+"D. H. Lawrence" -> "Joyce Carol Oates";
+"Dino Campana" -> "Eugenio Montale";
+"Liviu Rebreanu" -> "Robert E. Howard";
+"Liviu Rebreanu" -> "Stephen King";
+"Liviu Rebreanu" -> "Emilio Salgari";
+"Thomas Furlong  artist " -> "Jackson Pollock";
+"Thomas Furlong  artist " -> "Jackson Pollock";
+"Thomas Furlong  artist " -> "David Smith  sculptor ";
+"Thomas Furlong  artist " -> "David Smith  sculptor ";
+"Thomas Furlong  artist " -> "Thomas Hart Benton  painter ";
+"Thomas Furlong  artist " -> "Thomas Hart Benton  painter ";
+"Thomas Furlong  artist " -> "Wilhelmina Weber Furlong";
+"Thomas Furlong  artist " -> "Wilhelmina Weber Furlong";
+"Thomas Furlong  artist " -> "Jean Charlot";
+"Thomas Furlong  artist " -> "Jean Charlot";
+"Thomas Furlong  artist " -> "John D. Graham";
+"Thomas Furlong  artist " -> "John D. Graham";
+"Olaf Stapledon" -> "Brian Aldiss";
+"Olaf Stapledon" -> "Arthur C. Clarke";
+"Luigi Amoroso" -> "Joan Robinson";
+"Edwin Ray Guthrie" -> "William Kaye Estes";
+"Kurt Koffka" -> "Maurice Merleau-Ponty";
+"Kurt Koffka" -> "Kurt Lewin";
+"Kurt Koffka" -> "Lev Vygotsky";
+"Chester Barnard" -> "Oliver E. Williamson";
+"Benjamin Anderson" -> "Henry Hazlitt";
+"Franz Rosenzweig" -> "Emmanuel Levinas";
+"Emil Isac" -> "Benjamin Fondane";
+"John D. Graham" -> "Jackson Pollock";
+"John D. Graham" -> "David Smith  sculptor ";
+"John D. Graham" -> "Arshile Gorky";
+"Georgia O'Keeffe" -> "Yayoi Kusama";
+"Alvin Hansen" -> "James Tobin";
+"Alvin Hansen" -> "Paul Samuelson";
+"Robinson Jeffers" -> "Gary Snyder";
+"Robinson Jeffers" -> "Charles Bukowski";
+"C. D. Broad" -> "A. J. Ayer";
+"Raymond Chandler" -> "Paul Auster";
+"Raymond Chandler" -> "Ross Macdonald";
+"Raymond Chandler" -> "Robert B. Parker";
+"Raymond Chandler" -> "Robert Crais";
+"Walther Penck" -> "Albrecht Penck";
+"Amjad Hyderabadi" -> "Faiz Ahmad Faiz";
+"Will Hay" -> "Ken Dodd";
+"Carl Schmitt" -> "Walter Benjamin";
+"Scipio Slataper" -> "Biagio Marin";
+"Scipio Slataper" -> "Fulvio Tomizza";
+"Fernando Pessoa" -> "Alain Badiou";
+"Fernando Pessoa" -> "Giannina Braschi";
+"Fernando Pessoa" -> "Miguel Torga";
+"Fernando Pessoa" -> "Octavio Paz";
+"Giuseppe Ungaretti" -> "Eugenio Montale";
+"Martin Heidegger" -> "Giorgio Agamben";
+"Siegfried Kracauer" -> "Theodor W. Adorno";
+"Thomas Hart Benton  painter " -> "Jackson Pollock";
+"Thomas Hart Benton  painter " -> "John McCrady";
+"Cissy van Marxveldt" -> "Anne Frank";
+"Ludwig Wittgenstein" -> "Rudolf Carnap";
+"Ludwig Wittgenstein" -> "Saul Kripke";
+"Ludwig Wittgenstein" -> "G. E. Moore";
+"Ludwig Wittgenstein" -> "Frank P. Ramsey";
+"Ludwig Wittgenstein" -> "Gilbert Ryle";
+"Ludwig Wittgenstein" -> "Peter Geach";
+"Ludwig Wittgenstein" -> "Bertrand Russell";
+"Robert Benchley" -> "Groucho Marx";
+"Robert Benchley" -> "James Thurber";
+"Robert Benchley" -> "Bob Newhart";
+"Jacob L. Moreno" -> "Kurt Lewin";
+"Man Ray" -> "Bill Brandt";
+"Mark Tobey" -> "Jackson Pollock";
+"Paul Strand" -> "Alfred Stieglitz";
+"Groucho Marx" -> "Johnny Carson";
+"Maung Maung Gyi  painter " -> "Ba Thet";
+"Jan Matulka" -> "David Smith  sculptor ";
+"Jan Matulka" -> "Francis Criss";
+"Kurt Lewin" -> "Abraham Maslow";
+"France Bevk" -> "Boris Pahor";
+"Stanton Macdonald-Wright" -> "Thomas Hart Benton  painter ";
+"Rudolf Carnap" -> "Willard Van Orman Quine";
+"Rudolf Carnap" -> "Thomas Kuhn";
+"Rudolf Carnap" -> "Nelson Goodman";
+"Ba Zaw" -> "Saya Saung";
+"Zora Neale Hurston" -> "Alice Walker";
+"Zora Neale Hurston" -> "Toni Morrison";
+"Clarence Edwin Ayres" -> "Frank Knight";
+"Nikolai Kondratiev" -> "Joseph Schumpeter";
+"Nikolai Kondratiev" -> "Christopher Freeman";
+"Nikolai Kondratiev" -> "Eric Hobsbawm";
+"Jacob Viner" -> "Milton Friedman";
+"Jacob Viner" -> "George Stigler";
+"Danilo Lokar" -> "France Bevk";
+"Bruno Schulz" -> "Witold Gombrowicz";
+"Walter Benjamin" -> "Theodor W. Adorno";
+"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
+"Vladimir Mayakovsky" -> "Hedwig Gorski";
+"Leslie Comrie" -> "Wallace John Eckert";
+"Henry Murray" -> "Abraham Maslow";
+"John Anderson  philosopher " -> "David Stove";
+"John Anderson  philosopher " -> "J. L. Mackie";
+"James Thurber" -> "Charles Bukowski";
+"James Thurber" -> "Bob Newhart";
+"Mark Van Doren" -> "Jack Kerouac";
+"Mark Van Doren" -> "John Berryman";
+"Henry Hazlitt" -> "Milton Friedman";
+"Henry Hazlitt" -> "Murray Rothbard";
+"Henry Hazlitt" -> "Paul Samuelson";
+"Henry Hazlitt" -> "Thomas Sowell";
+"Moms Mabley" -> "Eddie Murphy";
+"Moms Mabley" -> "Sarah Silverman";
+"Moms Mabley" -> "Kathy Griffin";
+"Moms Mabley" -> "Richard Pryor";
+"Max Horkheimer" -> "Theodor W. Adorno";
+"Max Horkheimer" -> "Herbert Marcuse";
+"Max Horkheimer" -> "Walter Benjamin";
+"Ragnar Frisch" -> "Trygve Haavelmo";
+"Helmuth Kulenkampff" -> "Werner Heisenberg";
+"Harold Hotelling" -> "Kenneth Arrow";
+"Harold Hotelling" -> "Milton Friedman";
+"Jean Piaget" -> "Thomas Kuhn";
+"Jean Piaget" -> "Lev Vygotsky";
+"Eugenio Montale" -> "Octavio Paz";
+"Roman Jakobson" -> "Jacques Lacan";
+"Roman Jakobson" -> "Joseph Greenberg";
+"Roman Jakobson" -> "Roland Barthes";
+"Roman Jakobson" -> "Giorgio Agamben";
+"Lev Vygotsky" -> "Evald Ilyenkov";
+"Benjamin Lee Whorf" -> "Michael Halliday";
+"William Faulkner" -> "Don DeLillo";
+"William Faulkner" -> "Flannery O'Connor";
+"William Faulkner" -> "Toni Morrison";
+"William Faulkner" -> "Guram Dochanashvili";
+"William Faulkner" -> "Philip Roth";
+"William Faulkner" -> "Malcolm Lowry";
+"William Faulkner" -> "Bret Easton Ellis";
+"William Faulkner" -> "Joyce Carol Oates";
+"Georges Bataille" -> "Michel Foucault";
+"Norbert Elias" -> "Anthony Giddens, Baron Giddens";
+"Norbert Elias" -> "Pierre Bourdieu";
+"Charles Hartshorne" -> "John B. Cobb";
+"Ba Nyan" -> "Thein Han";
+"Ba Nyan" -> "Ngwe Gaing";
+"Ba Nyan" -> "Aung Soe";
+"Ba Nyan" -> "Ba Kyi";
+"Louise Bogan" -> "Theodore Roethke";
+"Qalandar Baba Auliya" -> "Khwaja Shamsuddin Azeemi";
+"Erich Maria Remarque" -> "William March";
+"Piero Sraffa" -> "Joan Robinson";
+"Piero Sraffa" -> "Paul Samuelson";
+"Piero Sraffa" -> "Ludwig Wittgenstein";
+"Piero Sraffa" -> "Fernando Vianello";
+"Piero Sraffa" -> "Luigi Pasinetti";
+"Harry Crosby" -> "Hart Crane";
+"Joachim Wach" -> "Mircea Eliade";
+"Owen Barfield" -> "David Bohm";
+"Owen Barfield" -> "Marshall McLuhan";
+"Owen Barfield" -> "Saul Bellow";
+"Owen Barfield" -> "Harold Bloom";
+"Herbert Marcuse" -> "Abbie Hoffman";
+"Herbert Marcuse" -> "Bob Black";
+"Herbert Marcuse" -> "Peter Lamborn Wilson";
+"Saya Saung" -> "Ba Thet";
+"John McLaughlin  artist " -> "Robert Irwin  artist ";
+"C. S. Forester" -> "David Weber";
+"C. S. Forester" -> "Bernard Cornwell";
+"Friedrich Hayek" -> "Milton Friedman";
+"Adolf Ellegard Jensen" -> "Joseph Campbell";
+"Vladimir Nabokov" -> "Don DeLillo";
+"Vladimir Nabokov" -> "Gene Wolfe";
+"Vladimir Nabokov" -> "Richard Rorty";
+"Vladimir Nabokov" -> "Christopher Hitchens";
+"Vladimir Nabokov" -> "Terence McKenna";
+"Hart Crane" -> "Robert Lowell";
+"Hart Crane" -> "Harold Bloom";
+"Hart Crane" -> "John Berryman";
+"Henry Calvert Simons" -> "Hyman Minsky";
+"Henry Calvert Simons" -> "Milton Friedman";
+"Henry Calvert Simons" -> "George Stigler";
+"Edwin Way Teale" -> "Maurice Maeterlinck";
+"Allen Tate" -> "Robert Lowell";
+"Richard McKeon" -> "Marshall McLuhan";
+"Richard McKeon" -> "Bertrand Russell";
+"Gilbert Ryle" -> "A. J. Ayer";
+"Gilbert Ryle" -> "Daniel Dennett";
+"Gilbert Ryle" -> "J. L. Austin";
+"Gilbert Ryle" -> "Clifford Geertz";
+"Gilbert Ryle" -> "Wilfrid Sellars";
+"Gilbert Ryle" -> "Gerald Cohen";
+"Gilbert Ryle" -> "R. M. Hare";
+"Gilbert Ryle" -> "Richard Webster  British author ";
+"Wang Li  linguist " -> "Michael Halliday";
+"Ludwig von Bertalanffy" -> "Russell L. Ackoff";
+"Alfred Tarski" -> "Kenneth Arrow";
+"Alfred Tarski" -> "Rudolf Carnap";
+"Alfred Tarski" -> "Karl Popper";
+"Alfred Tarski" -> "Willard Van Orman Quine";
+"Alfred Tarski" -> "Patrick Suppes";
+"Jacques Lacan" -> "Alain Badiou";
+"Jacques Lacan" -> "Luce Irigaray";
+"Jacques Lacan" -> "Louis Althusser";
+"Anton Vodnik" -> "France Bevk";
+"Anton Vodnik" -> "Danilo Lokar";
+"Laura Riding" -> "Paul Auster";
+"Laura Riding" -> "Ted Hughes";
+"Ernest Nagel" -> "Patrick Suppes";
+"Ngwe Gaing" -> "San Win";
+"Simon Kuznets" -> "Milton Friedman";
+"Henri Lefebvre" -> "Guy Debord";
+"Francis Criss" -> "Ad Reinhardt";
+"Peter van de Kamp" -> "Wilhelm Gliese";
+"Stanley William Hayter" -> "Jackson Pollock";
+"Stanley William Hayter" -> "Julian Trevelyan";
+"Karl Popper" -> "Friedrich Hayek";
+"Fritz Machlup" -> "Merton Miller";
+"Alexander Luria" -> "Roman Jakobson";
+"Lon L. Fuller" -> "Ronald Dworkin";
+"Lon L. Fuller" -> "Ian Roderick Macneil";
+"Stevie Smith" -> "Sylvia Plath";
+"Talcott Parsons" -> "Anthony Giddens, Baron Giddens";
+"Stanley G. Weinbaum" -> "Richard Matheson";
+"Stanley G. Weinbaum" -> "Robert A. Heinlein";
+"Stanley G. Weinbaum" -> "Stephen King";
+"Stanley G. Weinbaum" -> "Arthur C. Clarke";
+"Stanley G. Weinbaum" -> "Jack Williamson";
+"William Ross Ashby" -> "Ludwig von Bertalanffy";
+"George Orwell" -> "Noam Chomsky";
+"George Orwell" -> "Raoul Vaneigem";
+"George Orwell" -> "Christopher Hitchens";
+"Joan Robinson" -> "Nicholas Kaldor";
+"Frank P. Ramsey" -> "Susan Haack";
+"Frank P. Ramsey" -> "Ludwig Wittgenstein";
+"Hans Jonas" -> "Hannah Arendt";
+"Hans Jonas" -> "Harold Bloom";
+"Hans Jonas" -> "Eric Voegelin";
+"Hans Jonas" -> "John Crowley";
+"Ba Thet" -> "Paw Oo Thet";
+"Joseph Cornell" -> "William Gibson";
+"Joseph Cornell" -> "H. C. Westermann";
+"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
+"Joseph Campbell" -> "Alan Watts";
+"Witold Gombrowicz" -> "Thomas Bernhard";
+"Georges Canguilhem" -> "Gilles Deleuze";
+"Georges Canguilhem" -> "Louis Althusser";
+"Georges Canguilhem" -> "Michel Foucault";
+"Georges Canguilhem" -> "Pierre Bourdieu";
+"Gregory Bateson" -> "Gilles Deleuze";
+"Gregory Bateson" -> "Niklas Luhmann";
+"Gregory Bateson" -> "R. D. Laing";
+"Gregory Bateson" -> "John Grinder";
+"Oskar R. Lange" -> "Don Patinkin";
+"Edvard Kocbek" -> "Boris Pahor";
+"Alexander Gerschenkron" -> "John R. Meyer";
+"Alexander Gerschenkron" -> "Alfred H. Conrad";
+"Bill Brandt" -> "Diane Arbus";
+"Jean-Paul Sartre" -> "Simone de Beauvoir";
+"Jean-Paul Sartre" -> "Maurice Merleau-Ponty";
+"Jean-Paul Sartre" -> "Alain Badiou";
+"Jean-Paul Sartre" -> "R. D. Laing";
+"Jean-Paul Sartre" -> "Raymond Aron";
+"Jean-Paul Sartre" -> "Frantz Fanon";
+"Jean-Paul Sartre" -> "Michel Foucault";
+"Richard Kahn, Baron Kahn" -> "Joan Robinson";
+"C. H. Waddington" -> "Jean Piaget";
+"C. H. Waddington" -> "Gregory Bateson";
+"Albert W. Tucker" -> "R. Tyrrell Rockafellar";
+"Eugenia Berlin" -> "Elizabeth Bradford Holbrook";
+"F. A. Harper" -> "Murray Rothbard";
+"Werner Fenchel" -> "R. Tyrrell Rockafellar";
+"Emmanuel Levinas" -> "Jean-Paul Sartre";
+"Hannah Arendt" -> "Giorgio Agamben";
+"Robert E. Howard" -> "L. Sprague de Camp";
+"Robert E. Howard" -> "Ramsey Campbell";
+"Robert E. Howard" -> "George R. R. Martin";
+"Robert E. Howard" -> "Leigh Brackett";
+"Robert E. Howard" -> "Michael Moorcock";
+"Robert E. Howard" -> "Poul Anderson";
+"Robert E. Howard" -> "David Drake";
+"Robert E. Howard" -> "Emil Petaja";
+"Robert E. Howard" -> "Steven Erikson";
+"Robert E. Howard" -> "Laurell K. Hamilton";
+"Samuel Beckett" -> "Theodor W. Adorno";
+"T. H. White" -> "Michael Moorcock";
+"T. H. White" -> "Lloyd Alexander";
+"Henny Youngman" -> "Rodney Dangerfield";
+"David Smith  sculptor " -> "Anthony Caro";
+"Jim Thompson  writer " -> "Stephen King";
+"R. S. Mugali" -> "S. R. Ekkundi";
+"R. S. Mugali" -> "Gangadhar V. Chittal";
+"Nelson Goodman" -> "Hilary Putnam";
+"Nelson Goodman" -> "Noam Chomsky";
+"Nelson Goodman" -> "Willard Van Orman Quine";
+"Nelson Goodman" -> "Stanley Cavell";
+"Nelson Goodman" -> "Kendall Walton";
+"Nelson Goodman" -> "Jerry Fodor";
+"Daphne du Maurier" -> "Stephen King";
+"L. Sprague de Camp" -> "Poul Anderson";
+"L. Sprague de Camp" -> "David Drake";
+"James Meade" -> "Tony Atkinson";
+"Robert A. Heinlein" -> "David D. Friedman";
+"Robert A. Heinlein" -> "George R. R. Martin";
+"Robert A. Heinlein" -> "Iain Banks";
+"Robert A. Heinlein" -> "Jerry Pournelle";
+"Robert A. Heinlein" -> "Tom Clancy";
+"Robert A. Heinlein" -> "Dean Koontz";
+"Edgar Lustgarten" -> "Truman Capote";
+"Maurice Blanchot" -> "Samuel Beckett";
+"Ferguson Rodger" -> "R. D. Laing";
+"H. L. A. Hart" -> "Ronald Dworkin";
+"H. L. A. Hart" -> "Joseph Raz";
+"H. L. A. Hart" -> "John Rawls";
+"John Kenneth Galbraith" -> "Paul A. Baran";
+"Simone de Beauvoir" -> "Judith Butler";
+"Richard Wright  author " -> "James Baldwin";
+"Richard Wright  author " -> "Amiri Baraka";
+"Willard Van Orman Quine" -> "Hilary Putnam";
+"Willard Van Orman Quine" -> "Daniel Dennett";
+"Willard Van Orman Quine" -> "David Lewis  philosopher ";
+"Willard Van Orman Quine" -> "Donald Davidson  philosopher ";
+"Theodore Roethke" -> "Sylvia Plath";
+"Theodore Roethke" -> "Robert Bly";
+"William Keepers Maxwell, Jr." -> "John Cheever";
+"William Keepers Maxwell, Jr." -> "J. D. Salinger";
+"Nicholas Kaldor" -> "Joan Robinson";
+"Abraham Maslow" -> "Abbie Hoffman";
+"Abraham Maslow" -> "Colin Wilson";
+"Simone Weil" -> "Flannery O'Connor";
+"Paul A. Baran" -> "Richard D. Wolff";
+"Wallace Stegner" -> "Ken Kesey";
+"Wallace Stegner" -> "Robert Stone  novelist ";
+"A. J. Ayer" -> "R. M. Hare";
+"Ursula Nordstrom" -> "Maurice Sendak";
+"Paul Sweezy" -> "Richard D. Wolff";
+"Kin Maung" -> "Paw Oo Thet";
+"Tjalling Koopmans" -> "Denis Sargan";
+"Tjalling Koopmans" -> "Trygve Haavelmo";
+"Phil Silvers" -> "Larry David";
+"Marshall McLuhan" -> "Abbie Hoffman";
+"Marshall McLuhan" -> "Jean Baudrillard";
+"Marshall McLuhan" -> "Terence McKenna";
+"William Golding" -> "Stephen King";
+"Paul Goodman" -> "Bob Black";
+"Paul Goodman" -> "Ivan Illich";
+"Maurice Allais" -> "Edmond Malinvaud";
+"Elizabeth Bishop" -> "Derek Walcott";
+"Elizabeth Bishop" -> "Robert Lowell";
+"Elizabeth Bishop" -> "James Merrill";
+"J. L. Austin" -> "Stanley Cavell";
+"J. L. Austin" -> "Stanley Cavell";
+"George Stigler" -> "Thomas Sowell";
+"Trygve Haavelmo" -> "David Forbes Hendry";
+"Brian O'Nolan" -> "Spike Milligan";
+"David Park  painter " -> "Richard Diebenkorn";
+"Northrop Frye" -> "Harold Bloom";
+"Lawrence Durrell" -> "Dylan Thomas";
+"Lawrence Durrell" -> "Roger Zelazny";
+"Jackson Pollock" -> "Helen Frankenthaler";
+"Josef Steindl" -> "Paul A. Baran";
+"Josef Steindl" -> "Paul A. Baran";
+"Jacques Ellul" -> "Ivan Illich";
+"Jacques Ellul" -> "John Zerzan";
+"Jacques Ellul" -> "Cornelius Castoriadis";
+"Wilfrid Sellars" -> "Richard Rorty";
+"Wilfrid Sellars" -> "Robert Brandom";
+"Wilfrid Sellars" -> "Bas van Fraassen";
+"Ba Kyi" -> "Thein Han";
+"Boris Pahor" -> "Alojz Rebula";
+"Boris Pahor" -> "Alojz Rebula";
+"Alfred Bester" -> "Bruce Sterling";
+"Alfred Bester" -> "William Gibson";
+"Delmore Schwartz" -> "Saul Bellow";
+"Delmore Schwartz" -> "Robert Lowell";
+"Delmore Schwartz" -> "John Berryman";
+"Benjamin Walker  author " -> "Colin Wilson";
+"R. A. Lafferty" -> "Gene Wolfe";
+"Dylan Thomas" -> "Hedwig Gorski";
+"Dylan Thomas" -> "Theodore Roethke";
+"George Dantzig" -> "Kenneth Arrow";
+"George Dantzig" -> "Leonid Hurwicz";
+"George Dantzig" -> "Paul Samuelson";
+"George Dantzig" -> "Tjalling Koopmans";
+"William S. Burroughs" -> "J. G. Ballard";
+"William S. Burroughs" -> "Jack Kerouac";
+"William S. Burroughs" -> "Ken Kesey";
+"William S. Burroughs" -> "William Gibson";
+"William S. Burroughs" -> "Norman Mailer";
+"William S. Burroughs" -> "Alan Moore";
+"William S. Burroughs" -> "Dennis Cooper";
+"William Phillips  economist " -> "Paul Samuelson";
+"William Phillips  economist " -> "Edmund Phelps";
+"John Berryman" -> "Robert Lowell";
+"Robert Aickman" -> "Ramsey Campbell";
+"Robert Aickman" -> "Gene Wolfe";
+"Julia de Burgos" -> "Giannina Braschi";
+"Irwin Corey" -> "Lenny Bruce";
+"William Vickrey" -> "Harvey J. Levin";
+"Frances Senska" -> "Peter Voulkos";
+"Armen Alchian" -> "Thomas Sowell";
+"Leigh Brackett" -> "Michael Moorcock";
+"Saul Bellow" -> "Don DeLillo";
+"Saul Bellow" -> "Salman Rushdie";
+"Saul Bellow" -> "John Berryman";
+"Saul Bellow" -> "Philip Roth";
+"Richard Evans Schultes" -> "William S. Burroughs";
+"Richard Evans Schultes" -> "Timothy Plowman";
+"Richard Evans Schultes" -> "Terence McKenna";
+"Meary James Thurairajah Tambimuttu" -> "Lawrence Durrell";
+"Roland Barthes" -> "Michel Foucault";
+"Ross Macdonald" -> "William Goldman";
+"Jack Vance" -> "Dan Simmons";
+"Jack Vance" -> "George R. R. Martin";
+"Jack Vance" -> "Michael Moorcock";
+"Jack Vance" -> "Poul Anderson";
+"Jack Vance" -> "Gene Wolfe";
+"Jack Vance" -> "Dean Koontz";
+"Jack Vance" -> "Roger Zelazny";
+"Jack Vance" -> "Jeff VanderMeer";
+"Georg Henrik von Wright" -> "Karl-Otto Apel";
+"John D. MacDonald" -> "Stephen King";
+"John D. MacDonald" -> "Dean Koontz";
+"Peter Geach" -> "Alasdair MacIntyre";
+"Alfonso A. Ossorio" -> "Jackson Pollock";
+"Shirley Jackson" -> "Richard Matheson";
+"Shirley Jackson" -> "Stephen King";
+"Richard Hofstadter" -> "Christopher Hitchens";
+"Maya Deren" -> "Stan Brakhage";
+"Jocelyn Herbert" -> "Samuel Beckett";
+"Robert Bloch" -> "Stephen King";
+"Donald Davidson  philosopher " -> "Richard Rorty";
+"Robert Lowell" -> "Derek Walcott";
+"Robert Lowell" -> "Sylvia Plath";
+"Manny Farber" -> "Jonathan Rosenbaum";
+"Arthur C. Clarke" -> "Iain Banks";
+"Fereydoon Motamed" -> "Bertrand Russell";
+"Eric Hobsbawm" -> "Ernesto Laclau";
+"Franco Modigliani" -> "Robert J. Shiller";
+"Franco Modigliani" -> "William A. Barnett";
+"James Tobin" -> "Paul Samuelson";
+"Theodore Sturgeon" -> "Samuel R. Delany";
+"James Duesenberry" -> "Kenneth Arrow";
+"Jack Paar" -> "David Letterman";
+"Jack Paar" -> "Jay Leno";
+"Jack Paar" -> "Robert Klein";
+"Jack Paar" -> "Don Rickles";
+"Jack Paar" -> "Johnny Carson";
+"Louis Althusser" -> "Michel Foucault";
+"James M. Buchanan" -> "Elinor Ostrom";
+"P. F. Strawson" -> "David Lewis  philosopher ";
+"J. D. Salinger" -> "Richard Yates  novelist ";
+"J. D. Salinger" -> "Philip Roth";
+"J. D. Salinger" -> "Jonathan Safran Foer";
+"J. D. Salinger" -> "John Green  author ";
+"Daniel Bell" -> "Charles Taylor  philosopher ";
+"R. M. Hare" -> "Peter Singer";
+"R. M. Hare" -> "Bernard Williams";
+"Philippa Foot" -> "Bernard Williams";
+"John Figueroa" -> "Derek Walcott";
+"Charles Bukowski" -> "Richard Brautigan";
+"Kenneth Arrow" -> "Anthony Downs";
+"Kenneth Arrow" -> "Eric Maskin";
+"Kenneth Arrow" -> "John Harsanyi";
+"Seymour Benzer" -> "Richard Feynman";
+"Raymond Williams" -> "Edward Said";
+"Walter Kaufmann  philosopher " -> "Frithjof Bergmann";
+"Rodney Dangerfield" -> "Conan O'Brien";
+"Rodney Dangerfield" -> "Robert Klein";
+"Milan Komar" -> "Alojz Rebula";
+"Richard Cyert" -> "Oliver E. Williamson";
+"Jack Kerouac" -> "Ken Kesey";
+"Jack Kerouac" -> "Richard Brautigan";
+"Kingsley Amis" -> "Christopher Hitchens";
+"Imre Lakatos" -> "Paul Feyerabend";
+"William Baumol" -> "James Tobin";
+"Richard Timberlake" -> "David D. Friedman";
+"William Gaddis" -> "Don DeLillo";
+"William Gaddis" -> "Jack Kerouac";
+"William Gaddis" -> "Stanley Elkin";
+"William Gaddis" -> "William H. Gass";
+"William Gaddis" -> "Joseph McElroy";
+"Hans Sennholz" -> "Peter Boettke";
+"Cornelius Castoriadis" -> "Anthony Giddens, Baron Giddens";
+"Cornelius Castoriadis" -> "Guy Debord";
+"Cornelius Castoriadis" -> "Jean Baudrillard";
+"Cornelius Castoriadis" -> "Richard Rorty";
+"H. C. Westermann" -> "Bruce Nauman";
+"Jacob Mincer" -> "Gary Becker";
+"Maria Luisa Spaziani" -> "Eugenio Montale";
+"Italo Calvino" -> "Salman Rushdie";
+"S. R. Ekkundi" -> "V. K. Gokak";
+"S. R. Ekkundi" -> "V. K. Gokak";
+"S. R. Ekkundi" -> "R. S. Mugali";
+"S. R. Ekkundi" -> "R. S. Mugali";
+"Jacob Taubes" -> "Peter Sloterdijk";
+"Jacob Taubes" -> "Giorgio Agamben";
+"Norman Mailer" -> "Don DeLillo";
+"Norman Mailer" -> "Truman Capote";
+"Gangadhar V. Chittal" -> "V. K. Gokak";
+"Gangadhar V. Chittal" -> "R. S. Mugali";
+"Paul Feyerabend" -> "Imre Lakatos";
+"James Baldwin" -> "Toni Morrison";
+"David Landes" -> "Jeffrey Sachs";
+"Denis Sargan" -> "David Forbes Hendry";
+"Denis Sargan" -> "Peter C. B. Phillips";
+"Anthony Caro" -> "Peter Hide";
+"Gilbert Simondon" -> "Gilles Deleuze";
+"Gilbert Simondon" -> "Bernard Stiegler";
+"William H. Gass" -> "Joy Williams  American writer ";
+"Jean Laplanche" -> "Judith Butler";
+"Jean Laplanche" -> "Cornelius Castoriadis";
+"Kostas Axelos" -> "Henri Lefebvre";
+"Kostas Axelos" -> "Jacques Derrida";
+"Lloyd Alexander" -> "George R. R. Martin";
+"Lloyd Alexander" -> "Holly Black";
+"Flannery O'Connor" -> "John Kennedy Toole";
+"Lenny Bruce" -> "Abbie Hoffman";
+"Lenny Bruce" -> "John Belushi";
+"Lenny Bruce" -> "Cardis Cardell Willis";
+"Lenny Bruce" -> "Jon Stewart";
+"Lenny Bruce" -> "Louis C.K.";
+"Lenny Bruce" -> "Jerry Sadowitz";
+"Lenny Bruce" -> "Eddie Izzard";
+"Lenny Bruce" -> "Lewis Black";
+"Lenny Bruce" -> "Richard Pryor";
+"Brian Aldiss" -> "Iain Banks";
+"Gilles Deleuze" -> "Antonio Negri";
+"Gilles Deleuze" -> "Bernard Stiegler";
+"Gilles Deleuze" -> "Peter Sloterdijk";
+"Gilles Deleuze" -> "Michel Foucault";
+"William Styron" -> "Richard Yates  novelist ";
+"John Berryman" -> "Robert Lowell";
+"Frantz Fanon" -> "Edward Said";
+"Elmore Leonard" -> "Stephen King";
+"Johnny Carson" -> "David Letterman";
+"Jonathan Winters" -> "Conan O'Brien";
+"Jonathan Winters" -> "Richard Lewis  comedian ";
+"Jonathan Winters" -> "Lewis Black";
+"Anne McCaffrey" -> "David Weber";
+"Hilary Putnam" -> "Saul Kripke";
+"Hilary Putnam" -> "Daniel Dennett";
+"Hilary Putnam" -> "David Lewis  philosopher ";
+"Hilary Putnam" -> "Donald Davidson  philosopher ";
+"Hilary Putnam" -> "Jerry Fodor";
+"Poul Anderson" -> "Michael Moorcock";
+"Richard Matheson" -> "Stephen King";
+"Ivan Illich" -> "Bob Black";
+"Ivan Illich" -> "John Zerzan";
+"Richard Yates  novelist " -> "Tao Lin";
+"Richard Yates  novelist " -> "William Styron";
+"Richard Yates  novelist " -> "Raymond Carver";
+"Richard Yates  novelist " -> "Tobias Wolff";
+"Richard Yates  novelist " -> "Ann Beattie";
+"Richard Yates  novelist " -> "Robert Stone  novelist ";
+"Richard Yates  novelist " -> "Andre Dubus";
+"Stanley Cavell" -> "Hilary Putnam";
+"Stanley Cavell" -> "Thomas Kuhn";
+"Stanley Cavell" -> "Bernard Williams";
+"Wynne Godley" -> "Marc Lavoie";
+"Michel Foucault" -> "Edward Said";
+"Don Rickles" -> "David Letterman";
+"Don Rickles" -> "Jay Leno";
+"Don Rickles" -> "Larry the Cable Guy";
+"Don Rickles" -> "Kathy Griffin";
+"Neal Cassady" -> "Ken Kesey";
+"Dieter Henrich" -> "Manfred Frank";
+"Charlie Callas" -> "Larry the Cable Guy";
+"Goh Sin Tub" -> "Edwin Thumboo";
+"Ken Dodd" -> "Harry Hill";
+"Ken Dodd" -> "Peter Kay";
+"Mort Sahl" -> "Lenny Bruce";
+"Mort Sahl" -> "Jay Leno";
+"Mort Sahl" -> "Cardis Cardell Willis";
+"Mort Sahl" -> "Jon Stewart";
+"Burton Dreben" -> "Willard Van Orman Quine";
+"Noam Chomsky" -> "Daniel Dennett";
+"Noam Chomsky" -> "Crispin Wright";
+"Noam Chomsky" -> "Edward Said";
+"Chad Oliver" -> "Bruce Sterling";
+"Nicholas Rescher" -> "Alexander Pruss";
+"Nicholas Rescher" -> "Alexander Pruss";
+"Wally Hedrick" -> "Paul McCarthy";
+"Ibn-e-Safi" -> "Mazhar Kaleem";
+"Maurice Sendak" -> "Stephen Colbert";
+"Hubert Selby, Jr." -> "Richard Price  writer ";
+"Jean Baudrillard" -> "Giannina Braschi";
+"George Parshall" -> "Frederick N. Tebbe";
+"Ian Roderick Macneil" -> "Oliver E. Williamson";
+"John Montague  poet " -> "Seamus Heaney";
+"Dane Zajc" -> "Veno Taufer";
+"Bob Newhart" -> "Jay Leno";
+"Bob Newhart" -> "Conan O'Brien";
+"Bob Newhart" -> "Chris Rush";
+"Bob Newhart" -> "Lewis Black";
+"Hubert Dreyfus" -> "Richard Rorty";
+"Hubert Dreyfus" -> "Charles Taylor  philosopher ";
+"Dominik Smole" -> "Veno Taufer";
+"Harold Pinter" -> "David Mamet";
+"Gary Snyder" -> "Jack Kerouac";
+"J. G. Ballard" -> "Don DeLillo";
+"J. G. Ballard" -> "Bruce Sterling";
+"J. G. Ballard" -> "Michael Moorcock";
+"J. G. Ballard" -> "Jean Baudrillard";
+"Ted Hughes" -> "Seamus Heaney";
+"Ted Hughes" -> "Sylvia Plath";
+"John Muth" -> "Robert Lucas, Jr.";
+"John Muth" -> "Neil Wallace";
+"John Muth" -> "Edward C. Prescott";
+"Harold Bloom" -> "John Crowley";
+"Luce Irigaray" -> "Judith Butler";
+"Michel Serres" -> "Ilya Prigogine";
+"Zvi Griliches" -> "Robert Barro";
+"Anthony Downs" -> "Duncan Black";
+"Luigi Pasinetti" -> "Joan Robinson";
+"Luigi Pasinetti" -> "Richard Kahn, Baron Kahn";
+"Luigi Pasinetti" -> "Paul Samuelson";
+"Luigi Pasinetti" -> "Nicholas Kaldor";
+"Luigi Pasinetti" -> "Marc Lavoie";
+"Mario Szenessy" -> "Thomas Mann";
+"Toni Morrison" -> "Octavia E. Butler";
+"William Goldman" -> "Dean Koontz";
+"Richard Rorty" -> "Robert Brandom";
+"Richard Rorty" -> "Gianni Vattimo";
+"Charles Taylor  philosopher " -> "Michael Walzer";
+"Charles Taylor  philosopher " -> "Axel Honneth";
+"Charles Taylor  philosopher " -> "Michael J. Sandel";
+"Thomas Bernhard" -> "William Gaddis";
+"Rajneesh" -> "Peter Sloterdijk";
+"Alvin Plantinga" -> "Nicholas Wolterstorff";
+"Alvin Plantinga" -> "William Lane Craig";
+"Robert Coover" -> "William H. Gass";
+"Sylvia Plath" -> "Elizabeth Bishop";
+"Luce Irigaray" -> "Judith Butler";
+"Nicholas Wolterstorff" -> "Kendall Walton";
+"Robert B. Parker" -> "Robert Crais";
+"Veno Taufer" -> "Niko Grafenauer";
+"Flip Wilson" -> "Paul Mooney  comedian ";
+"Jerzy Grotowski" -> "Hedwig Gorski";
+"Grady Nutt" -> "Jerry Clower";
+"Paul Cohen  mathematician " -> "Alain Badiou";
+"Pierre Clastres" -> "Gilles Deleuze";
+"Alasdair Gray" -> "Iain Banks";
+"Richard Swinburne" -> "William Lane Craig";
+"Clive Granger" -> "Mark Watson  economist ";
+"Michael Walzer" -> "Michael J. Sandel";
+"Edward Said" -> "Christopher Hitchens";
+"Abbie Hoffman" -> "Bob Black";
+"Don DeLillo" -> "Tao Lin";
+"Don DeLillo" -> "Bret Easton Ellis";
+"David Brenner" -> "David Letterman";
+"David Brenner" -> "Jay Leno";
+"David Brenner" -> "Richard Lewis  comedian ";
+"Gianni Vattimo" -> "Richard Rorty";
+"Andre Dubus" -> "Raymond Carver";
+"Andre Dubus" -> "Tobias Wolff";
+"Robert Lucas, Jr." -> "Richard Thaler";
+"Robert Lucas, Jr." -> "Robert Barro";
+"Robert Lucas, Jr." -> "Neil Wallace";
+"Robert Lucas, Jr." -> "Paul Romer";
+"Robert Lucas, Jr." -> "William A. Barnett";
+"Alain Badiou" -> "Quentin Meillassoux";
+"Roger Zelazny" -> "George R. R. Martin";
+"Roger Zelazny" -> "Samuel R. Delany";
+"Roger Zelazny" -> "Steven Erikson";
+"Raymond Carver" -> "Tobias Wolff";
+"Joyce Carol Oates" -> "Jonathan Safran Foer";
+"Sundar V. Nadkarni" -> "S. R. Ekkundi";
+"Sundar V. Nadkarni" -> "Yashwant Vithoba Chittal";
+"Seamus Heaney" -> "Giannina Braschi";
+"Martin Feldstein" -> "James M. Poterba";
+"Michael Moorcock" -> "Alan Moore";
+"Robert Rowthorn" -> "Ha-Joon Chang";
+"John D. Caputo" -> "Peter Rollins";
+"John D. Caputo" -> "Gianni Vattimo";
+"George Akerlof" -> "Robert J. Shiller";
+"Kyriakos Charalambides" -> "Constantine P. Cavafy";
+"Kyriakos Charalambides" -> "Rainer Maria Rilke";
+"Richard Pryor" -> "Eddie Murphy";
+"Richard Pryor" -> "Martin Lawrence";
+"Richard Pryor" -> "Jon Stewart";
+"Richard Pryor" -> "Richard Lewis  comedian ";
+"Richard Pryor" -> "Louis C.K.";
+"Richard Pryor" -> "Eddie Izzard";
+"Richard Pryor" -> "Lewis Black";
+"Hagen Kleinert" -> "Richard Feynman";
+"David Lewis  philosopher " -> "Robert Brandom";
+"Paul Mooney  comedian " -> "Eddie Griffin";
+"Bas van Fraassen" -> "Alvin Plantinga";
+"Robert F. Engle" -> "Mark Watson  economist ";
+"Samuel R. Delany" -> "Bruce Sterling";
+"Samuel R. Delany" -> "William Gibson";
+"Robert Klein" -> "Jay Leno";
+"Billy Connolly" -> "Eddie Izzard";
+"Billy Connolly" -> "Peter Kay";
+"Mazhar Kaleem" -> "Ibn-e-Safi";
+"David Forbes Hendry" -> "Robert F. Engle";
+"David Forbes Hendry" -> "Clive Granger";
+"Joy Williams  American writer " -> "Tao Lin";
+"Bernard Cornwell" -> "George R. R. Martin";
+"Yadin Dudai" -> "Seymour Benzer";
+"Wlad Godzich" -> "Theodor W. Adorno";
+"M. John Harrison" -> "Iain Banks";
+"Reg Hartt" -> "Emo Philips";
+"Jerry A. Hausman" -> "Halbert White";
+"Predrag Finci" -> "Martin Heidegger";
+"Predrag Finci" -> "Theodor W. Adorno";
+"Predrag Finci" -> "Maurice Blanchot";
+"Predrag Finci" -> "Blaise Pascal";
+"Predrag Finci" -> "Georg Wilhelm Friedrich Hegel";
+"Predrag Finci" -> "Immanuel Kant";
+"Predrag Finci" -> "Ludwig Wittgenstein";
+"Predrag Finci" -> "Plato";
+"Predrag Finci" -> "Rainer Maria Rilke";
+"David Letterman" -> "Conan O'Brien";
+"David Letterman" -> "Jon Stewart";
+"David Letterman" -> "Stephen Colbert";
+"Gillian Rose" -> "John Milbank";
+"Salman Rushdie" -> "Christopher Hitchens";
+"Larry David" -> "Jack Dee";
+"Larry David" -> "Sarah Silverman";
+"Lydia Davis" -> "Tao Lin";
+"Ann Beattie" -> "Tao Lin";
+"Hal Varian" -> "Carl Shapiro";
+"George Lam" -> "Jacky Cheung";
+"George Lam" -> "Alan Tam";
+"Humayun Azad" -> "Simone de Beauvoir";
+"Humayun Azad" -> "Gustave Flaubert";
+"Dan Simmons" -> "Iain Banks";
+"George R. R. Martin" -> "Daniel Abraham  author ";
+"William Gibson" -> "Neal Stephenson";
+"Robert B. Pippin" -> "Robert Brandom";
+"Samuel Hui" -> "Jacky Cheung";
+"Kyoko Mizuki" -> "Lucy Maud Montgomery";
+"Garry Shandling" -> "Jon Stewart";
+"Garry Shandling" -> "Louis C.K.";
+"R. Radhakrishnan" -> "David Harvey";
+"Michael Kwan" -> "Jacky Cheung";
+"Jay Leno" -> "Dennis Miller";
+"Eve Kosofsky Sedgwick" -> "Judith Butler";
+"Bob Black" -> "David Graeber";
+"Don Lavoie" -> "Peter Boettke";
+"John Milbank" -> "Phillip Blond";
+"Marc Lavoie" -> "Wynne Godley";
+"Rowan Atkinson" -> "Rik Mayall";
+"Carl Shapiro" -> "Hal Varian";
+"Carl Shapiro" -> "Hal Varian";
+"Frank Skinner" -> "Al Murray";
+"Frank Skinner" -> "Al Murray";
+"James M. Poterba" -> "Steven Levitt";
+"Jonathan Dordick" -> "Shirley Jackson";
+"Jonathan Dordick" -> "Shirley Jackson";
+"Vic Reeves" -> "Harry Hill";
+"Muhammad Iqbal Choudhary" -> "Atta ur Rahman  scientist ";
+"Abhijit Banerjee" -> "Esther Duflo";
+"David Leavitt" -> "Bret Easton Ellis";
+"Jerry Sadowitz" -> "Alexei Sayle";
+"Jerry Sadowitz" -> "Eddie Izzard";
+"John Luke Gallup" -> "David Landes";
+"John Luke Gallup" -> "Jeffrey Sachs";
+"Jon Stewart" -> "Stephen Colbert";
+"Eddie Izzard" -> "Harry Hill";
+"Pauline Marcelle" -> "Bruce Nauman";
+"Michael Kremer" -> "Esther Duflo";
+"Bret Easton Ellis" -> "Tao Lin";
+"Harry Hill" -> "Al Murray";
+"Ji Suk-jin" -> "Yoo Jae-suk";
+"Ted Chiang" -> "Daniel Abraham  author ";
+"Rose Tang" -> "Liu Dao";
+"Rose Tang" -> "Wang Dongma";
+"Idris Azad" -> "Muhammad Iqbal";
+"Park Myeong-su" -> "Jeong Hyeong-don";
+"Park Myeong-su" -> "Jeong Jun-ha";
+"Park Myeong-su" -> "Noh Hong-chul";
+"Jeong Jun-ha" -> "Jeong Hyeong-don";
+"Jeong Jun-ha" -> "Noh Hong-chul";
+"Alessandro Piperno" -> "Philip Roth";
+"Yoo Jae-suk" -> "Jeong Hyeong-don";
+"Yoo Jae-suk" -> "Noh Hong-chul";
+"Giada Trebeschi" -> "Italo Calvino";
+"Giada Trebeschi" -> "Victor Hugo";
+"Jeong Hyeong-don" -> "Noh Hong-chul";
+"Bryce Hudson" -> "Ilya Bolotowsky";
+"Zhang Deli" -> "Liu Dao";
+"Zhang Deli" -> "Wang Dongma";
+"Zhang Deli" -> "Rose Tang";
+"Wang Dongma" -> "Liu Dao";
+"Wang Dongma" -> "Rose Tang";
+"Wang Dongma" -> "Zhang Deli";
+"Liu Dao" -> "Wang Dongma";
+"Liu Dao" -> "Rose Tang";
+"Liu Dao" -> "Zhang Deli";
+}

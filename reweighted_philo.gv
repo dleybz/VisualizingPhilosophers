@@ -1,5 +1,5 @@
 digraph timeline { 
- ranksep=2; splines=polyline; nodesep=.01; fixedsize=false; size = "1000,200";
+ ranksep=1; splines=polyline; nodesep=.01; fixedsize=false; size = "1000,200";
 
  { 
 node [shape=plaintext, fontsize=16];
@@ -7,50 +7,38 @@ node [shape=plaintext, fontsize=16];
  
 }
 
- node [shape=plaintext, fontsize=1.23076923076923];{
-"Thales"; "Speusippus"; "Leucippus"; "Al-Kindi"; "Bayazid Bastami"; "Dawud al-Zahiri"; "Meister Eckhart"; "Mulla Sadra"; "Hong Dae-yong"; "Ghulam Ali Dihlawi"; "Christian Jakob Kraus"; "Maine de Biran"; "Josiah Warren"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "George Boole"; "Kuno Fischer"; "Friedrich Albert Lange"; "Joseph Dietzgen"; "George Sylvester Morris"; "Richard Avenarius"; "Vladimir Solovyov  philosopher "; "Shibli Nomani"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Georges Palante"; "Nikolay Lossky"; "Ernst Cassirer"; "W. D. Ross"; "Othmar Spann"; "Muhammad Sirajuddin Naqshbandi"; "Otto Weininger"; "Jacques Maritain"; "Norbert Elias"; "Lon L. Fuller"; "Georg Henrik von Wright"; "P. F. Strawson"; "Philippa Foot"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Burton Dreben"; "Pierre Clastres"; "Richard Swinburne"; "Robert B. Pippin"; }
-node [shape=plaintext, fontsize=2.46153846153846];{
-"Anaximander"; "Confucius"; "Empedocles"; "Aristippus"; "Arcesilaus"; "Panaetius"; "Porphyry  philosopher "; "Iamblichus"; "Zhou Dunyi"; "Cheng Yi  philosopher "; "Peter Abelard"; "Averroes"; "John Wycliffe"; "John Colet"; "Alexander Gottlieb Baumgarten"; "Moses Mendelssohn"; "Johann Gottfried Herder"; "Sir William Hamilton, 9th Baronet"; "John Austin  legal philosopher "; "Giacomo Leopardi"; "Charles Bernard Renouvier"; "August Schleicher"; "August Leskien"; "Karl Robert Eduard von Hartmann"; "Antonio Labriola"; "Carl Stumpf"; "Samuel Alexander"; "Charles Cooley"; "J. M. E. McTaggart"; "Nikolai Berdyaev"; "Giovanni Gentile"; "Emil Lask"; "Oswald Spengler"; "Nicolai Hartmann"; "Kurt Koffka"; "Franz Rosenzweig"; "C. D. Broad"; "Carl Schmitt"; "Georges Bataille"; "Qalandar Baba Auliya"; "Richard McKeon"; "Ernest Nagel"; "Henri Lefebvre"; "Simone de Beauvoir"; "Marshall McLuhan"; "Imre Lakatos"; "Jacob Taubes"; "Gilbert Simondon"; "Kostas Axelos"; "Dieter Henrich"; "Hubert Dreyfus"; "Michael Walzer"; "John D. Caputo"; "Bas van Fraassen"; }
-node [shape=plaintext, fontsize=11.0769230769231];{
-"Heraclitus"; "George Berkeley"; "Montesquieu"; "Thomas Reid"; "Charles Fourier"; "Wilhelm Dilthey"; "Gottlob Frege"; "Ferdinand de Saussure"; "Jean-Paul Sartre"; "Hilary Putnam"; }
-node [shape=plaintext, fontsize=8.61538461538461];{
-"Parmenides"; "Hugo Grotius"; "Christian Wolff  philosopher "; "Edmund Burke"; "Pierre-Joseph Proudhon"; "Henri Bergson"; "Gaston Bachelard"; "Gilbert Ryle"; "Louis Althusser"; }
-node [shape=plaintext, fontsize=6.15384615384614];{
-"Protagoras"; "Pyrrho"; "Michel de Montaigne"; "David Hartley  philosopher "; "Thomas Paine"; "Louis Gabriel Ambroise de Bonald"; "Franz Brentano"; "Henry Sidgwick"; "Walter Benjamin"; "Jacques Lacan"; "Georges Canguilhem"; "Hannah Arendt"; "A. J. Ayer"; "R. M. Hare"; "Cornelius Castoriadis"; "Nicholas Rescher"; }
-node [shape=plaintext, fontsize=4.92307692307693];{
-"Zeno of Elea"; "Gorgias"; "Socrates"; "Zeno of Citium"; "William of Ockham"; "Giordano Bruno"; "John Selden"; "Pierre Gassendi"; "Gabriel Wagner"; "Bernard Mandeville"; "Francis Hutcheson  philosopher "; "Johann Georg Hamann"; "Johannes Nikolaus Tetens"; "Jeremy Bentham"; "Karl Leonhard Reinhold"; "Claude Henri de Rouvroy, comte de Saint-Simon"; "Wilhelm von Humboldt"; "Friedrich Schleiermacher"; "Friedrich Wilhelm Joseph Schelling"; "Johann Friedrich Herbart"; "Ralph Waldo Emerson"; "Alexis de Tocqueville"; "Herbert Spencer"; "Hans Vaihinger"; "Josiah Royce"; "Max Scheler"; "Morris Raphael Cohen"; "Karl Jaspers"; "Clarence Irving Lewis"; "Roman Jakobson"; "Herbert Marcuse"; "Emmanuel Levinas"; "Jacques Ellul"; "Wilfrid Sellars"; "Donald Davidson  philosopher "; "Ivan Illich"; "Charles Taylor  philosopher "; "Alvin Plantinga"; "David Lewis  philosopher "; }
-node [shape=plaintext, fontsize=3.69230769230768];{
-"Democritus"; "Carneades"; "Epictetus"; "Boethius"; "Johannes Scotus Eriugena"; "Ibn Hazm"; "Duns Scotus"; "Giovanni Pico della Mirandola"; "Jean Bodin"; "Pierre Bayle"; "Baron d'Holbach"; "Joseph de Maistre"; "Salomon Maimon"; "James Mill"; "Bernard Bolzano"; "Alexander Herzen"; "Mikhail Bakunin"; "Jules Lequier"; "Henry David Thoreau"; "Christoph von Sigwart"; "Thomas Hill Green"; "Alexius Meinong"; "George Herbert Mead"; "Heinrich Rickert"; "George Santayana"; "F. C. S. Schiller"; "Benedetto Croce"; "G. E. Moore"; "Hans Kelsen"; "Muhammad Husayn Tabataba'i"; "John Anderson  philosopher "; "Max Horkheimer"; "Charles Hartshorne"; "Frank P. Ramsey"; "Hans Jonas"; "J. L. Austin"; "Roland Barthes"; "Peter Geach"; "Paul Feyerabend"; "Luce Irigaray"; "Nicholas Wolterstorff"; "Gianni Vattimo"; "Alain Badiou"; }
-node [shape=plaintext, fontsize=17.2307692307692];{
-"Epicurus"; "Immanuel Kant"; "Georg Wilhelm Friedrich Hegel"; "Ludwig Wittgenstein"; "Gilles Deleuze"; }
-node [shape=plaintext, fontsize=9.84615384615386];{
-"Sextus Empiricus"; "Johann Gottlieb Fichte"; "Hermann Lotze"; "African Spir"; "Nelson Goodman"; "Noam Chomsky"; "Richard Rorty"; "Predrag Finci"; }
-node [shape=plaintext, fontsize=12.3076923076923];{
-"Plotinus"; "Max Stirner"; "Rudolf Steiner"; "Willard Van Orman Quine"; "Michel Foucault"; }
-node [shape=plaintext, fontsize=7.38461538461539];{
-"Maimonides"; "Nicholas of Cusa"; "William Petty"; "Nicolas Malebranche"; "Friedrich Heinrich Jacobi"; "Auguste Comte"; "Friedrich Adolf Trendelenburg"; "Ludwig Feuerbach"; "Bruno Bauer"; "Martin Buber"; "Rudolf Carnap"; "H. L. A. Hart"; "Stanley Cavell"; }
-node [shape=plaintext, fontsize=23.3846153846154];{
-"Baruch Spinoza"; "Friedrich Nietzsche"; }
+ node [shape=plaintext, fontsize=1.77777777777778];{
+"Thales"; "Democritus"; "Aristippus"; "Speusippus"; "Arcesilaus"; "Carneades"; "Panaetius"; "Leucippus"; "Epictetus"; "Porphyry  philosopher "; "Iamblichus"; "Boethius"; "Al-Kindi"; "Bayazid Bastami"; "Dawud al-Zahiri"; "Cheng Yi  philosopher "; "Peter Abelard"; "Meister Eckhart"; "John Wycliffe"; "John Colet"; "Mulla Sadra"; "Gabriel Wagner"; "Bernard Mandeville"; "Alexander Gottlieb Baumgarten"; "Immanuel Kant"; "Moses Mendelssohn"; "Hong Dae-yong"; "Johannes Nikolaus Tetens"; "Ghulam Ali Dihlawi"; "Johann Gottfried Herder"; "Jeremy Bentham"; "Joseph de Maistre"; "Christian Jakob Kraus"; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "Maine de Biran"; "Georg Wilhelm Friedrich Hegel"; "James Mill"; "Josiah Warren"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "Charles Bernard Renouvier"; "George Boole"; "August Schleicher"; "Kuno Fischer"; "Friedrich Albert Lange"; "Joseph Dietzgen"; "August Leskien"; "George Sylvester Morris"; "Richard Avenarius"; "Antonio Labriola"; "Friedrich Nietzsche"; "Carl Stumpf"; "Hans Vaihinger"; "Vladimir Solovyov  philosopher "; "Shibli Nomani"; "Henri Bergson"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Georges Palante"; "George Santayana"; "F. C. S. Schiller"; "Benedetto Croce"; "Nikolay Lossky"; "Bertrand Russell"; "G. E. Moore"; "Nikolai Berdyaev"; "Ernst Cassirer"; "Giovanni Gentile"; "Emil Lask"; "W. D. Ross"; "Othmar Spann"; "Muhammad Sirajuddin Naqshbandi"; "Oswald Spengler"; "Otto Weininger"; "Jacques Maritain"; "Nicolai Hartmann"; "Kurt Koffka"; "Franz Rosenzweig"; "C. D. Broad"; "Carl Schmitt"; "Martin Heidegger"; "Walter Benjamin"; "Georges Bataille"; "Norbert Elias"; "Charles Hartshorne"; "Qalandar Baba Auliya"; "Ernest Nagel"; "Henri Lefebvre"; "Lon L. Fuller"; "Emmanuel Levinas"; "Hannah Arendt"; "Simone de Beauvoir"; "A. J. Ayer"; "Marshall McLuhan"; "Roland Barthes"; "Georg Henrik von Wright"; "Peter Geach"; "Donald Davidson  philosopher "; "Louis Althusser"; "P. F. Strawson"; "Philippa Foot"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Imre Lakatos"; "Paul Feyerabend"; "Michel Foucault"; "Dieter Henrich"; "Burton Dreben"; "Nicholas Wolterstorff"; "Pierre Clastres"; "Richard Swinburne"; "Michael Walzer"; "Gianni Vattimo"; "Alain Badiou"; "David Lewis  philosopher "; "Bas van Fraassen"; "Robert B. Pippin"; }
+node [shape=plaintext, fontsize=3.55555555555555];{
+"Anaximander"; "Confucius"; "Empedocles"; "Gorgias"; "Johannes Scotus Eriugena"; "Ibn Hazm"; "Zhou Dunyi"; "Averroes"; "William of Ockham"; "Giovanni Pico della Mirandola"; "Jean Bodin"; "Baron dHolbach"; "Edmund Burke"; "Thomas Paine"; "Friedrich Wilhelm Joseph Schelling"; "Sir William Hamilton, 9th Baronet"; "John Austin  legal philosopher "; "Giacomo Leopardi"; "Alexis de Tocqueville"; "Mikhail Bakunin"; "Henry David Thoreau"; "Herbert Spencer"; "Thomas Hill Green"; "Karl Robert Eduard von Hartmann"; "Alexius Meinong"; "Samuel Alexander"; "George Herbert Mead"; "Charles Cooley"; "J. M. E. McTaggart"; "Max Scheler"; "Martin Buber"; "Morris Raphael Cohen"; "Hans Kelsen"; "Muhammad Husayn Tabatabai"; "John Anderson  philosopher "; "Herbert Marcuse"; "Richard McKeon"; "Frank P. Ramsey"; "Hans Jonas"; "J. L. Austin"; "R. M. Hare"; "Jacob Taubes"; "Gilbert Simondon"; "Kostas Axelos"; "Ivan Illich"; "Nicholas Rescher"; "Hubert Dreyfus"; "Luce Irigaray"; "Richard Rorty"; "Alvin Plantinga"; "John D. Caputo"; }
 node [shape=plaintext, fontsize=16];{
-"John Locke"; "Alfred North Whitehead"; }
-node [shape=plaintext, fontsize=25.8461538461539];{
-"Gottfried Wilhelm Leibniz"; }
-node [shape=plaintext, fontsize=18.4615384615385];{
-"Damaris Cudworth Masham"; "Martin Heidegger"; }
-node [shape=plaintext, fontsize=32];{
+"Heraclitus"; "Ferdinand de Saussure"; }
+node [shape=plaintext, fontsize=10.6666666666667];{
+"Parmenides"; "Sextus Empiricus"; "William Petty"; "Nicolas Malebranche"; "Gilbert Ryle"; "Nelson Goodman"; }
+node [shape=plaintext, fontsize=7.1111111111111];{
+"Protagoras"; "Zeno of Citium"; "Nicholas of Cusa"; "Michel de Montaigne"; "Christian Wolff  philosopher "; "David Hartley  philosopher "; "Johann Georg Hamann"; "Claude Henri de Rouvroy, comte de Saint-Simon"; "Friedrich Schleiermacher"; "Johann Friedrich Herbart"; "Friedrich Adolf Trendelenburg"; "Franz Brentano"; "Henry Sidgwick"; "Rudolf Steiner"; "Georges Canguilhem"; "Willard Van Orman Quine"; "Gilles Deleuze"; }
+node [shape=plaintext, fontsize=5.33333333333334];{
+"Zeno of Elea"; "Socrates"; "Duns Scotus"; "Giordano Bruno"; "John Selden"; "Pierre Gassendi"; "Pierre Bayle"; "Francis Hutcheson  philosopher "; "Karl Leonhard Reinhold"; "Johann Gottlieb Fichte"; "Wilhelm von Humboldt"; "Bernard Bolzano"; "Ralph Waldo Emerson"; "Pierre-Joseph Proudhon"; "Alexander Herzen"; "Jules Lequier"; "Christoph von Sigwart"; "Josiah Royce"; "Heinrich Rickert"; "Karl Jaspers"; "Clarence Irving Lewis"; "Rudolf Carnap"; "Max Horkheimer"; "Roman Jakobson"; "Jacques Lacan"; "H. L. A. Hart"; "Jacques Ellul"; "Wilfrid Sellars"; "Cornelius Castoriadis"; "Stanley Cavell"; "Noam Chomsky"; "Charles Taylor  philosopher "; }
+node [shape=plaintext, fontsize=8.8888888888889];{
+"Pyrrho"; "Maimonides"; "Friedrich Heinrich Jacobi"; "Auguste Comte"; "Ludwig Feuerbach"; "Bruno Bauer"; "Wilhelm Dilthey"; "Gottlob Frege"; "Jean-Paul Sartre"; "Hilary Putnam"; }
+node [shape=plaintext, fontsize=19.5555555555556];{
+"Epicurus"; "Alfred North Whitehead"; }
+node [shape=plaintext, fontsize=17.7777777777778];{
+"Plotinus"; "John Locke"; "William James"; "Edmund Husserl"; }
+node [shape=plaintext, fontsize=12.4444444444444];{
+"Hugo Grotius"; "George Berkeley"; "Montesquieu"; "Thomas Reid"; "Hermann Lotze"; "Gaston Bachelard"; "Ludwig Wittgenstein"; }
+node [shape=plaintext, fontsize=26.6666666666667];{
+"Baruch Spinoza"; "Gottfried Wilhelm Leibniz"; "Damaris Cudworth Masham"; }
+node [shape=plaintext, fontsize=24.8888888888889];{
 "David Hume"; }
-node [shape=plaintext, fontsize=27.0769230769231];{
+node [shape=plaintext, fontsize=32];{
 "Jean-Jacques Rousseau"; }
-node [shape=plaintext, fontsize=28.3076923076923];{
+node [shape=plaintext, fontsize=14.2222222222222];{
+"Charles Fourier"; "Max Stirner"; "African Spir"; "Predrag Finci"; }
+node [shape=plaintext, fontsize=21.3333333333333];{
 "John Stuart Mill"; }
-node [shape=plaintext, fontsize=30.7692307692308];{
-"William James"; }
-node [shape=plaintext, fontsize=24.6153846153846];{
-"Edmund Husserl"; }
-node [shape=plaintext, fontsize=19.6923076923077];{
-"Bertrand Russell"; }
  
- node [shape=box]; 
+ node [shape=plaintext, fontsize= 1.77777777777778 ]; 
   { rank = same; -624; "Thales"; }
  { rank = same; -610; "Anaximander"; }
  { rank = same; -551; "Confucius"; }
@@ -115,7 +103,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
  { rank = same; 1711; "David Hume"; }
  { rank = same; 1712; "Jean-Jacques Rousseau"; }
  { rank = same; 1714; "Alexander Gottlieb Baumgarten"; }
- { rank = same; 1723; "Baron d'Holbach"; }
+ { rank = same; 1723; "Baron dHolbach"; }
  { rank = same; 1724; "Immanuel Kant"; }
  { rank = same; 1729; "Moses Mendelssohn"; "Edmund Burke"; }
  { rank = same; 1730; "Johann Georg Hamann"; }
@@ -195,7 +183,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
  { rank = same; 1888; "Carl Schmitt"; }
  { rank = same; 1889; "Martin Heidegger"; "Ludwig Wittgenstein"; }
  { rank = same; 1891; "Rudolf Carnap"; }
- { rank = same; 1892; "Walter Benjamin"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1892; "Walter Benjamin"; "Muhammad Husayn Tabatabai"; }
  { rank = same; 1893; "John Anderson  philosopher "; }
  { rank = same; 1895; "Max Horkheimer"; }
  { rank = same; 1896; "Roman Jakobson"; }
@@ -204,7 +192,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
  { rank = same; 1900; "Richard McKeon"; "Gilbert Ryle"; }
  { rank = same; 1901; "Jacques Lacan"; "Ernest Nagel"; "Henri Lefebvre"; }
  { rank = same; 1902; "Lon L. Fuller"; }
- { rank = same; 1903; "Frank P. Ramsey"; "Hans Jonas"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1903; "Frank P. Ramsey"; "Hans Jonas"; "Muhammad Husayn Tabatabai"; }
  { rank = same; 1904; "Georges Canguilhem"; }
  { rank = same; 1905; "Jean-Paul Sartre"; }
  { rank = same; 1906; "Emmanuel Levinas"; "Hannah Arendt"; "Nelson Goodman"; }
@@ -362,7 +350,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "Giordano Bruno" -> "Gottfried Wilhelm Leibniz";
 "Giordano Bruno" -> "Arthur Schopenhauer";
 "Giordano Bruno" -> "Baruch Spinoza";
-"Mulla Sadra" -> "Muhammad Husayn Tabataba'i";
+"Mulla Sadra" -> "Muhammad Husayn Tabatabai";
 "Hugo Grotius" -> "Emer de Vattel";
 "Hugo Grotius" -> "Pierre-Joseph Proudhon";
 "Hugo Grotius" -> "Immanuel Kant";
@@ -489,7 +477,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "David Hume" -> "J. L. Mackie";
 "David Hume" -> "Jerry Fodor";
 "David Hume" -> "Arthur Schopenhauer";
-"David Hume" -> "Baron d'Holbach";
+"David Hume" -> "Baron dHolbach";
 "David Hume" -> "Bertrand Russell";
 "David Hume" -> "Immanuel Kant";
 "David Hume" -> "John Stuart Mill";
@@ -513,8 +501,8 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "Jean-Jacques Rousseau" -> "Thomas Paine";
 "Jean-Jacques Rousseau" -> "Jacques Derrida";
 "Alexander Gottlieb Baumgarten" -> "Immanuel Kant";
-"Baron d'Holbach" -> "Adam Weishaupt";
-"Baron d'Holbach" -> "Karl Marx";
+"Baron dHolbach" -> "Adam Weishaupt";
+"Baron dHolbach" -> "Karl Marx";
 "Immanuel Kant" -> "Johann Gottlieb Fichte";
 "Moses Mendelssohn" -> "Salomon Maimon";
 "Edmund Burke" -> "Hannah Arendt";
@@ -817,7 +805,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "Rudolf Carnap" -> "Thomas Kuhn";
 "Rudolf Carnap" -> "Nelson Goodman";
 "Walter Benjamin" -> "Theodor W. Adorno";
-"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
+"Muhammad Husayn Tabatabai" -> "Henry Corbin";
 "John Anderson  philosopher " -> "David Stove";
 "John Anderson  philosopher " -> "J. L. Mackie";
 "Max Horkheimer" -> "Theodor W. Adorno";
@@ -850,7 +838,7 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "Frank P. Ramsey" -> "Ludwig Wittgenstein";
 "Hans Jonas" -> "Hannah Arendt";
 "Hans Jonas" -> "Eric Voegelin";
-"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
+"Muhammad Husayn Tabatabai" -> "Henry Corbin";
 "Georges Canguilhem" -> "Gilles Deleuze";
 "Georges Canguilhem" -> "Louis Althusser";
 "Georges Canguilhem" -> "Michel Foucault";
@@ -960,5 +948,4 @@ node [shape=plaintext, fontsize=19.6923076923077];{
 "Predrag Finci" -> "Ludwig Wittgenstein";
 "Predrag Finci" -> "Plato";
 "Robert B. Pippin" -> "Robert Brandom";
- 
 }

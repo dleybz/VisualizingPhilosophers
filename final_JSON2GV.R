@@ -1,7 +1,4 @@
 ###This program converts a slightly-modified JSON file obtained from sparql (a Wikipedia database query tool) to a .dot file, with formatting obtained from page 17 of http://www.graphviz.org/pdf/dotguide.pdf
-###Issues on lines 100 (error relating to persons with parenthesis in name), 127 (should the weighting system be more complex? Maybe PageRank?)
-###Currently, persons who are influenced but don't influence have weight of 1
-###Fontsize is weighted but nodes aren't
 
 ##Packages:
 #These lines will check if you have the necessary package installed, installs it if it is not already installed, and opens it
@@ -15,7 +12,7 @@ library(jsonlite)
 #These lines create a  extract the three columns which have the info we require 
 json_file <- fromJSON('philosophers.json')
 json_file <- json_file[2]$results$bindings
-json_file <- data.frame(json_file$Person$value, json_file$influenced$value, json_file$birthDate$value)
+json_file <- data.frame(json_file$Philosopher$value, json_file$influenced$value, json_file$birthDate$value)
 #This line renames the columns so that they are easier to work with
 colnames(json_file) <- c("Name", "Influenced", "Year")
 
@@ -41,6 +38,34 @@ json_file<-json_file[order(json_file$Year),]
 
 #This line removes the rows in which the influenced person is not an influencer
 json_file<-subset(json_file, Influenced %in% Name)
+
+##Weight(Simple):
+for(i in 1:nrow(json_file)){
+  json_file$WeightS[i] <- length(grep(json_file$Name[i], json_file$Name))
+}
+
+json_file$WeightS <- json_file$WeightS / max(json_file$WeightS)
+
+weight_size<-as.data.frame(matrix(ncol=length(unique(json_file$WeightS)), nrow=max(table(json_file$WeightS))))
+b<-1
+for(i in unique(json_file$WeightS)) {
+  weight <- as.vector(unique(subset(json_file, WeightS == i, select=Name)))
+  weight_size[1:dim(weight)[1],b] <- weight
+  b<-b+1
+}
+
+names(weight_size) <- unique(json_file$WeightS)
+
+weight_char_string <- paste("")
+for(i in 1:ncol(weight_size)){
+  weight_char_string <- paste(weight_char_string, "node [shape=plaintext, fontsize=", (32*as.numeric(names(weight_size)[i])), "];{\n", sep="")
+  for(j in 1:nrow(weight_size)){
+    if(!(is.na(weight_size[j,i]))){
+      weight_char_string <- paste(weight_char_string, "\"", weight_size[j,i] , "\"; ", sep="")
+    }
+  }
+  weight_char_string <- paste(weight_char_string, "}\n", sep="")
+}
 
 ##Ranking:
 #This line creates a data frame "year_rank" which is filled with NAs, has the number of columns equal to the number of unique birthyears and rows equal to the maximum number of people in our dataset born in any given year
@@ -88,39 +113,11 @@ for(i in 2:length(unique(json_file$Year))){
 #This line adds a newline character to the end of this character string
 timeline<-paste(timeline, ";\n")
 
-##Weight(Simple):
-for(i in 1:nrow(json_file)){
-  json_file$WeightS[i] <- length(grep(json_file$Name[i], json_file$Name)) + length(grep(json_file$Name[i], json_file$Influenced))
-}
-
-json_file$WeightS <- json_file$WeightS / max(json_file$WeightS)
-
-weight_size<-as.data.frame(matrix(ncol=length(unique(json_file$WeightS)), nrow=max(table(json_file$WeightS))))
-b<-1
-for(i in unique(json_file$WeightS)) {
-  weight <- as.vector(unique(subset(json_file, WeightS == i, select=Name)))
-  weight_size[1:dim(weight)[1],b] <- weight
-  b<-b+1
-}
-
-names(weight_size) <- unique(json_file$WeightS)
-
-weight_char_string <- paste("")
-for(i in 1:ncol(weight_size)){
-  weight_char_string <- paste(weight_char_string, "node [shape=plaintext, fontsize=", (32*as.numeric(names(weight_size)[i])), "];{\n", sep="")
-  for(j in 1:nrow(weight_size)){
-    if(!(is.na(weight_size[j,i]))){
-      weight_char_string <- paste(weight_char_string, "\"", weight_size[j,i] , "\"; ", sep="")
-    }
-  }
-  weight_char_string <- paste(weight_char_string, "}\n", sep="")
-}
-
 
 ##Final:
 #This line will combine all of the strings we have created, along with general formatting information
-final<-(paste("digraph timeline { \n ranksep=2; splines=polyline; nodesep=.01; fixedsize=false; size = \"1000,200\";\n\n { \nnode [shape=plaintext, fontsize=16];\n", timeline, "\n}\n\n", weight_char_string, "\n", "node [shape=box]; \n", year_char_string, "\n", relationships, "\n}"))
+final<-(paste("digraph timeline { \n ranksep=1; splines=polyline; nodesep=.01; fixedsize=false; size = \"1000,200\";\n\n { \nnode [shape=plaintext, fontsize=16];\n", timeline, "\n}\n\n", weight_char_string, "\n", "node [shape=plaintext, fontsize=", as.numeric(min(names(weight_size)))*32, "]; \n", year_char_string, "\n", relationships, "\n}"))
 #This line prints out the combination of all the strings we have created with general formatting information
-sink('wip2_weighted_philo.gv')
+sink('wip2_weighted_come.gv')
 cat(final)
 sink()
