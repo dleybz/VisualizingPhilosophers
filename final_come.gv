@@ -1,0 +1,482 @@
+digraph timeline { 
+ ranksep=1; splines=line; nodesep=.01; fixedsize=false;
+
+ { 
+node [shape=plaintext, fontsize=16];
+ 1886 -> 1888 -> 1890 -> 1893 -> 1894 -> 1906 -> 1910 -> 1911 -> 1914 -> 1918 -> 1921 -> 1925 -> 1926 -> 1927 -> 1929 -> 1933 -> 1934 -> 1936 -> 1937 -> 1940 -> 1941 -> 1942 -> 1943 -> 1944 -> 1946 -> 1947 -> 1948 -> 1949 -> 1950 -> 1951 -> 1952 -> 1953 -> 1955 -> 1956 -> 1957 -> 1958 -> 1959 -> 1960 -> 1961 -> 1962 -> 1963 -> 1964 -> 1965 -> 1966 -> 1967 -> 1968 -> 1970 -> 1971 -> 1972 -> 1973 -> 1974 -> 1978 -> 1979 -> 1980 ;
+ 
+}
+
+ node [shape=plaintext, fontsize=15.3333333333333];{
+"Ed Wynn"; "Soupy Sales"; "Ken Dodd"; "Bill Saluga"; "Lewis Black"; "Garry Shandling"; "Dennis Miller"; "Jon Stewart"; "Jeong Jun-ha"; }
+node [shape=plaintext, fontsize=16.6666666666667];{
+"Will Hay"; "Rodney Dangerfield"; "David Brenner"; "Kenny Everett"; "Peter Richardson  English director "; "Eddie Izzard"; "Armando Iannucci"; "Park Myeong-su"; }
+node [shape=plaintext, fontsize=18];{
+"Groucho Marx"; "Emo Philips"; "Frank Skinner"; "Rik Mayall"; "Yoo Jae-suk"; }
+node [shape=plaintext, fontsize=11.3333333333333];{
+"Harold Lloyd"; "Charlie Cairoli"; "Belle Barth"; "Wim Kan"; "Nipsey Russell"; "Johnny Carson"; "Jerry Clower"; "Charlie Callas"; "Grady Nutt"; "Cardis Cardell Willis"; "Blake Clark"; "Ronnie Shakes"; "Richard Lewis "; "Jay Leno"; "Ian Macpherson "; "Tom Davis "; "Jim Krenn"; "Brad Stine"; "Kathy Griffin"; "Shaun Micallef"; "Larry the Cable Guy"; "David Baddiel"; "Andreu Buenafuente"; "Doug Stanhope"; "Louis C.K."; "Eddie Griffin"; "Adam Hills"; "Stephen Lynch  musician "; "Peter Kay"; "Kim Min-kyo"; "Steve Byrne"; "Chris D'Elia"; }
+node [shape=plaintext, fontsize=23.3333333333333];{
+"Moms Mabley"; "Don Rickles"; "Mort Sahl"; "Bob Newhart"; "Chevy Chase"; }
+node [shape=plaintext, fontsize=12.6666666666667];{
+"Henny Youngman"; "Phil Silvers"; "Irwin Corey"; "Spike Milligan"; "Rip Taylor"; "Chris Rush"; "Alexei Sayle"; "Dana Carvey"; "Eddie Murphy"; "Harry Enfield"; "Jack Dee"; "Ted Chippington"; "Conan O'Brien"; "Harry Hill"; "Ji Suk-jin"; "Al Murray"; "Vernon Chatman"; }
+node [shape=plaintext, fontsize=28.6666666666667];{
+"Jack Paar"; }
+node [shape=plaintext, fontsize=50];{
+"Lenny Bruce"; }
+node [shape=plaintext, fontsize=20.6666666666667];{
+"Jonathan Winters"; "Larry David"; }
+node [shape=plaintext, fontsize=14];{
+"Flip Wilson"; "Paul Mooney "; "Robert Klein"; "John Belushi"; "Stephen Colbert"; "Martin Lawrence"; "Sarah Silverman"; "Jeong Hyeong-don"; "Noh Hong-chul"; }
+node [shape=plaintext, fontsize=38];{
+"Richard Pryor"; }
+node [shape=plaintext, fontsize=32.6666666666667];{
+"Billy Connolly"; }
+node [shape=plaintext, fontsize=19.3333333333333];{
+"David Letterman"; "Rowan Atkinson"; "Paul Merton"; "Vic Reeves"; }
+node [shape=plaintext, fontsize=24.6666666666667];{
+"Jerry Sadowitz"; }
+ 
+ node [shape=plaintext, fontsize= 11.3333333333333 ]; 
+  { rank = same; 1886; "Ed Wynn"; }
+ { rank = same; 1888; "Will Hay"; }
+ { rank = same; 1890; "Groucho Marx"; }
+ { rank = same; 1893; "Harold Lloyd"; }
+ { rank = same; 1894; "Moms Mabley"; }
+ { rank = same; 1906; "Henny Youngman"; }
+ { rank = same; 1910; "Charlie Cairoli"; }
+ { rank = same; 1911; "Belle Barth"; "Phil Silvers"; "Wim Kan"; }
+ { rank = same; 1914; "Irwin Corey"; }
+ { rank = same; 1918; "Spike Milligan"; "Jack Paar"; "Nipsey Russell"; }
+ { rank = same; 1921; "Rodney Dangerfield"; }
+ { rank = same; 1925; "Lenny Bruce"; "Johnny Carson"; "Jonathan Winters"; }
+ { rank = same; 1926; "Jerry Clower"; "Soupy Sales"; "Don Rickles"; }
+ { rank = same; 1927; "Charlie Callas"; "Ken Dodd"; "Mort Sahl"; }
+ { rank = same; 1929; "Bob Newhart"; }
+ { rank = same; 1933; "Flip Wilson"; }
+ { rank = same; 1934; "Grady Nutt"; "Rip Taylor"; }
+ { rank = same; 1936; "David Brenner"; }
+ { rank = same; 1937; "Cardis Cardell Willis"; "Bill Saluga"; }
+ { rank = same; 1940; "Richard Pryor"; }
+ { rank = same; 1941; "Paul Mooney "; }
+ { rank = same; 1942; "Robert Klein"; "Billy Connolly"; "Chevy Chase"; }
+ { rank = same; 1943; "Chevy Chase"; }
+ { rank = same; 1944; "Kenny Everett"; }
+ { rank = same; 1946; "Blake Clark"; "Chris Rush"; }
+ { rank = same; 1947; "David Letterman"; "Ronnie Shakes"; "Larry David"; "Richard Lewis "; }
+ { rank = same; 1948; "Lewis Black"; }
+ { rank = same; 1949; "John Belushi"; "Garry Shandling"; }
+ { rank = same; 1950; "Jay Leno"; }
+ { rank = same; 1951; "Ian Macpherson "; "Peter Richardson  English director "; }
+ { rank = same; 1952; "Tom Davis "; "Alexei Sayle"; }
+ { rank = same; 1953; "Dennis Miller"; }
+ { rank = same; 1955; "Dana Carvey"; "Rowan Atkinson"; }
+ { rank = same; 1956; "Emo Philips"; }
+ { rank = same; 1957; "Frank Skinner"; "Paul Merton"; }
+ { rank = same; 1958; "Rik Mayall"; }
+ { rank = same; 1959; "Jim Krenn"; "Vic Reeves"; }
+ { rank = same; 1960; "Brad Stine"; "Kathy Griffin"; }
+ { rank = same; 1961; "Eddie Murphy"; "Harry Enfield"; "Jack Dee"; "Jerry Sadowitz"; }
+ { rank = same; 1962; "Jack Dee"; "Jon Stewart"; "Shaun Micallef"; "Ted Chippington"; "Eddie Izzard"; }
+ { rank = same; 1963; "Armando Iannucci"; "Conan O'Brien"; "Larry the Cable Guy"; }
+ { rank = same; 1964; "David Baddiel"; "Stephen Colbert"; "Harry Hill"; }
+ { rank = same; 1965; "Andreu Buenafuente"; "Martin Lawrence"; }
+ { rank = same; 1966; "Ji Suk-jin"; }
+ { rank = same; 1967; "Doug Stanhope"; "Louis C.K."; }
+ { rank = same; 1968; "Eddie Griffin"; "Al Murray"; }
+ { rank = same; 1970; "Sarah Silverman"; "Adam Hills"; "Park Myeong-su"; }
+ { rank = same; 1971; "Stephen Lynch  musician "; "Jeong Jun-ha"; }
+ { rank = same; 1972; "Vernon Chatman"; "Yoo Jae-suk"; }
+ { rank = same; 1973; "Peter Kay"; }
+ { rank = same; 1974; "Kim Min-kyo"; "Steve Byrne"; }
+ { rank = same; 1978; "Jeong Hyeong-don"; }
+ { rank = same; 1979; "Noh Hong-chul"; }
+ { rank = same; 1980; "Chris D'Elia"; }
+ 
+ "Ed Wynn" -> "Kevin James";
+"Ed Wynn" -> "Red Skelton";
+"Ed Wynn" -> "Daws Butler";
+"Ed Wynn" -> "Ralph Garman";
+"Will Hay" -> "Tony Hancock";
+"Will Hay" -> "David Croft  TV producer ";
+"Will Hay" -> "Ken Dodd";
+"Will Hay" -> "Jimmy Perry";
+"Will Hay" -> "John Cleese";
+"Groucho Marx" -> "Brendon Small";
+"Groucho Marx" -> "Woody Allen";
+"Groucho Marx" -> "Ricky Gervais";
+"Groucho Marx" -> "Milton Berle";
+"Groucho Marx" -> "Johnny Carson";
+"Groucho Marx" -> "Bill Cosby";
+"Harold Lloyd" -> "Buster Keaton";
+"Moms Mabley" -> "Bernie Mac";
+"Moms Mabley" -> "Bill Cosby";
+"Moms Mabley" -> "Richard Pryor";
+"Moms Mabley" -> "Eddie Murphy";
+"Moms Mabley" -> "Phyllis Diller";
+"Moms Mabley" -> "Wanda Sykes";
+"Moms Mabley" -> "Howard Stern";
+"Moms Mabley" -> "Kathy Griffin";
+"Moms Mabley" -> "Whoopi Goldberg";
+"Moms Mabley" -> "Sarah Silverman";
+"Henny Youngman" -> "Mitch Hedberg";
+"Henny Youngman" -> "Rodney Dangerfield";
+"Charlie Cairoli" -> "Mooky the Clown";
+"Belle Barth" -> "Bette Midler";
+"Phil Silvers" -> "Larry David";
+"Phil Silvers" -> "Dana Snyder";
+"Wim Kan" -> "Youp van 't Hek";
+"Irwin Corey" -> "Tom Smothers";
+"Irwin Corey" -> "Lenny Bruce";
+"Spike Milligan" -> "Monty Python";
+"Spike Milligan" -> "Robin Williams";
+"Jack Paar" -> "Ben Stiller";
+"Jack Paar" -> "Robin Williams";
+"Jack Paar" -> "Bob Costas";
+"Jack Paar" -> "David Letterman";
+"Jack Paar" -> "Jay Leno";
+"Jack Paar" -> "Jerry Seinfeld";
+"Jack Paar" -> "Alan King ";
+"Jack Paar" -> "Robert Klein";
+"Jack Paar" -> "George Carlin";
+"Jack Paar" -> "Merv Griffin";
+"Jack Paar" -> "Tom Snyder";
+"Jack Paar" -> "Julia Louis-Dreyfus";
+"Jack Paar" -> "Don Rickles";
+"Jack Paar" -> "Johnny Carson";
+"Nipsey Russell" -> "Bernie Mac";
+"Rodney Dangerfield" -> "Conan O'Brien";
+"Rodney Dangerfield" -> "Robert Klein";
+"Rodney Dangerfield" -> "Norm Macdonald";
+"Rodney Dangerfield" -> "Bob Saget";
+"Rodney Dangerfield" -> "Chris Rock";
+"Lenny Bruce" -> "Abbie Hoffman";
+"Lenny Bruce" -> "Bill Hicks";
+"Lenny Bruce" -> "Lou Reed";
+"Lenny Bruce" -> "Dave Chappelle";
+"Lenny Bruce" -> "Tommy Chong";
+"Lenny Bruce" -> "Denis Leary";
+"Lenny Bruce" -> "John Belushi";
+"Lenny Bruce" -> "Cardis Cardell Willis";
+"Lenny Bruce" -> "Peter Cook";
+"Lenny Bruce" -> "Jerry Seinfeld";
+"Lenny Bruce" -> "Jon Stewart";
+"Lenny Bruce" -> "George Carlin";
+"Lenny Bruce" -> "Andrew Dice Clay";
+"Lenny Bruce" -> "Howard Stern";
+"Lenny Bruce" -> "Louis C.K.";
+"Lenny Bruce" -> "Nick DiPaolo";
+"Lenny Bruce" -> "Rich Vos";
+"Lenny Bruce" -> "Rick Shapiro";
+"Lenny Bruce" -> "David Cross";
+"Lenny Bruce" -> "Emery Emery";
+"Lenny Bruce" -> "Jerry Sadowitz";
+"Lenny Bruce" -> "Bill Cosby";
+"Lenny Bruce" -> "Eddie Izzard";
+"Lenny Bruce" -> "Joan Rivers";
+"Lenny Bruce" -> "Joe Rogan";
+"Lenny Bruce" -> "Lewis Black";
+"Lenny Bruce" -> "Paul Krassner";
+"Lenny Bruce" -> "Richard Pryor";
+"Lenny Bruce" -> "Sam Kinison";
+"Lenny Bruce" -> "Stewart Lee";
+"Johnny Carson" -> "David Letterman";
+"Jonathan Winters" -> "Andy Kaufman";
+"Jonathan Winters" -> "Jim Carrey";
+"Jonathan Winters" -> "Robin Williams";
+"Jonathan Winters" -> "Conan O'Brien";
+"Jonathan Winters" -> "Richard Lewis ";
+"Jonathan Winters" -> "George Carlin";
+"Jonathan Winters" -> "Bill Cosby";
+"Jonathan Winters" -> "Lewis Black";
+"Jerry Clower" -> "Jeff Foxworthy";
+"Soupy Sales" -> "Howard Stern";
+"Soupy Sales" -> "Pee-wee Herman";
+"Soupy Sales" -> "Andy Kaufman";
+"Soupy Sales" -> "Saturday Night Live";
+"Don Rickles" -> "David Letterman";
+"Don Rickles" -> "Jay Leno";
+"Don Rickles" -> "Howard Stern";
+"Don Rickles" -> "Larry the Cable Guy";
+"Don Rickles" -> "Russell Peters";
+"Don Rickles" -> "Norm Macdonald";
+"Don Rickles" -> "Dave Attell";
+"Don Rickles" -> "Kathy Griffin";
+"Don Rickles" -> "Lisa Lampanelli";
+"Don Rickles" -> "Robert Smigel";
+"Charlie Callas" -> "Larry the Cable Guy";
+"Ken Dodd" -> "Jason Byrne ";
+"Ken Dodd" -> "Joe Pasquale";
+"Ken Dodd" -> "Harry Hill";
+"Ken Dodd" -> "Peter Kay";
+"Mort Sahl" -> "Bill Hicks";
+"Mort Sahl" -> "Lenny Bruce";
+"Mort Sahl" -> "Jay Leno";
+"Mort Sahl" -> "Cardis Cardell Willis";
+"Mort Sahl" -> "Woody Allen";
+"Mort Sahl" -> "Jon Stewart";
+"Mort Sahl" -> "George Carlin";
+"Mort Sahl" -> "Will Durst";
+"Mort Sahl" -> "Chris Rock";
+"Mort Sahl" -> "Dick Gregory";
+"Bob Newhart" -> "Tom Rhodes";
+"Bob Newhart" -> "Jay Leno";
+"Bob Newhart" -> "Jim Parsons";
+"Bob Newhart" -> "Conan O'Brien";
+"Bob Newhart" -> "David Steinberg";
+"Bob Newhart" -> "Chris Rush";
+"Bob Newhart" -> "Norm Macdonald";
+"Bob Newhart" -> "Lewis Black";
+"Bob Newhart" -> "Ray Romano";
+"Bob Newhart" -> "Ellen DeGeneres";
+"Flip Wilson" -> "Chris Rock";
+"Flip Wilson" -> "Arsenio Hall";
+"Flip Wilson" -> "Paul Mooney ";
+"Grady Nutt" -> "Jerry Clower";
+"Rip Taylor" -> "Carrot Top";
+"Rip Taylor" -> "Dana Snyder";
+"David Brenner" -> "Paul Reiser";
+"David Brenner" -> "David Letterman";
+"David Brenner" -> "Jay Leno";
+"David Brenner" -> "Jerry Seinfeld";
+"David Brenner" -> "Richard Lewis ";
+"Cardis Cardell Willis" -> "Will Durst";
+"Bill Saluga" -> "Jerry Seinfeld";
+"Bill Saluga" -> "Tim Allen";
+"Bill Saluga" -> "Robert Townsend  actor ";
+"Bill Saluga" -> "David Steinberg";
+"Richard Pryor" -> "Bill Hicks";
+"Richard Pryor" -> "Eddie Murphy";
+"Richard Pryor" -> "Margaret Cho";
+"Richard Pryor" -> "Robin Williams";
+"Richard Pryor" -> "Whoopi Goldberg";
+"Richard Pryor" -> "Dave Chappelle";
+"Richard Pryor" -> "Denis Leary";
+"Richard Pryor" -> "Martin Lawrence";
+"Richard Pryor" -> "Jon Stewart";
+"Richard Pryor" -> "Richard Lewis ";
+"Richard Pryor" -> "George Carlin";
+"Richard Pryor" -> "Bernie Mac";
+"Richard Pryor" -> "Jim Norton ";
+"Richard Pryor" -> "Louis C.K.";
+"Richard Pryor" -> "Patton Oswalt";
+"Richard Pryor" -> "Chris Rock";
+"Richard Pryor" -> "Chris Tucker";
+"Richard Pryor" -> "Eddie Izzard";
+"Richard Pryor" -> "George Lopez";
+"Richard Pryor" -> "Joe Rogan";
+"Richard Pryor" -> "Lewis Black";
+"Paul Mooney " -> "George Lopez";
+"Paul Mooney " -> "Sandra Bernhard";
+"Paul Mooney " -> "Eddie Griffin";
+"Robert Klein" -> "Nick DiPaolo";
+"Robert Klein" -> "Jay Leno";
+"Robert Klein" -> "Jerry Seinfeld";
+"Billy Connolly" -> "Jason Byrne ";
+"Billy Connolly" -> "Kevin Bridges";
+"Billy Connolly" -> "Jason Manford";
+"Billy Connolly" -> "Chris Addison";
+"Billy Connolly" -> "Craig Ferguson";
+"Billy Connolly" -> "Jimmy Carr";
+"Billy Connolly" -> "Sean Lock";
+"Billy Connolly" -> "Michael McIntyre";
+"Billy Connolly" -> "Russell Howard";
+"Billy Connolly" -> "Tim Vine";
+"Billy Connolly" -> "Bill Bailey";
+"Billy Connolly" -> "Eddie Izzard";
+"Billy Connolly" -> "Peter Kay";
+"Billy Connolly" -> "Ricky Gervais";
+"Billy Connolly" -> "Ross Noble";
+"Billy Connolly" -> "Stewart Lee";
+"Billy Connolly" -> "Ronnie Golden";
+"Chevy Chase" -> "Will Ferrell";
+"Chevy Chase" -> "Ryan Reynolds";
+"Chevy Chase" -> "Mike Myers";
+"Chevy Chase" -> "Will Arnett";
+"Chevy Chase" -> "Tim Allen";
+"Chevy Chase" -> "Will Ferrell";
+"Chevy Chase" -> "Ryan Reynolds";
+"Chevy Chase" -> "Mike Myers";
+"Chevy Chase" -> "Will Arnett";
+"Chevy Chase" -> "Tim Allen";
+"Kenny Everett" -> "Chris Moyles";
+"Kenny Everett" -> "Noel Fielding";
+"Kenny Everett" -> "Steve Wright  DJ ";
+"Kenny Everett" -> "Stephanie Hirst";
+"Kenny Everett" -> "Chris Tarrant";
+"Blake Clark" -> "Adam Sandler";
+"Chris Rush" -> "Adam Ferrara";
+"Chris Rush" -> "Adam Sandler";
+"David Letterman" -> "Conan O'Brien";
+"David Letterman" -> "Jimmy Fallon";
+"David Letterman" -> "Jon Stewart";
+"David Letterman" -> "Seth Meyers";
+"David Letterman" -> "Jimmy Kimmel";
+"David Letterman" -> "Stephen Colbert";
+"David Letterman" -> "Jim Gaffigan";
+"Ronnie Shakes" -> "Jonathan Katz";
+"Larry David" -> "Jeff Garlin";
+"Larry David" -> "Sarah Silverman";
+"Larry David" -> "Jack Dee";
+"Larry David" -> "Casper Christensen";
+"Larry David" -> "Sean Lock";
+"Larry David" -> "Jerry Seinfeld";
+"Larry David" -> "Ricky Gervais";
+"Larry David" -> "Graham Linehan";
+"Richard Lewis " -> "Artie Lange";
+"Lewis Black" -> "Ralph Garman";
+"Lewis Black" -> "Jimmy Fallon";
+"Lewis Black" -> "That Guy with the Glasses";
+"Lewis Black" -> "Dara Ó Briain";
+"John Belushi" -> "Chris Farley";
+"John Belushi" -> "Horatio Sanz";
+"John Belushi" -> "Artie Lange";
+"Garry Shandling" -> "Judd Apatow";
+"Garry Shandling" -> "Jon Stewart";
+"Garry Shandling" -> "Louis C.K.";
+"Garry Shandling" -> "Ricky Gervais";
+"Jay Leno" -> "Dennis Miller";
+"Ian Macpherson " -> "Malcolm Hardee";
+"Peter Richardson  English director " -> "Matt Lucas";
+"Peter Richardson  English director " -> "Steve Coogan";
+"Peter Richardson  English director " -> "Caroline Aherne";
+"Peter Richardson  English director " -> "David Walliams";
+"Peter Richardson  English director " -> "Ricky Gervais";
+"Tom Davis " -> "Dan Aykroyd";
+"Alexei Sayle" -> "Robin Ince";
+"Alexei Sayle" -> "Mark Steel";
+"Dennis Miller" -> "Seth Meyers";
+"Dennis Miller" -> "David Spade";
+"Dennis Miller" -> "Norm Macdonald";
+"Dennis Miller" -> "Jay Mohr";
+"Dana Carvey" -> "Jimmy Fallon";
+"Dana Carvey" -> "Frank Caliendo";
+"Rowan Atkinson" -> "Henry Naylor";
+"Rowan Atkinson" -> "David Walliams";
+"Rowan Atkinson" -> "Mitchell and Webb";
+"Rowan Atkinson" -> "Sacha Baron Cohen";
+"Rowan Atkinson" -> "Steve Punt";
+"Rowan Atkinson" -> "Rik Mayall";
+"Rowan Atkinson" -> "Steve Pemberton";
+"Emo Philips" -> "Bo Burnham";
+"Emo Philips" -> "Demetri Martin";
+"Emo Philips" -> "Jimmy Carr";
+"Emo Philips" -> "Patton Oswalt";
+"Emo Philips" -> "Milton Jones";
+"Emo Philips" -> "Mitch Hedberg";
+"Frank Skinner" -> "Kevin Bridges";
+"Frank Skinner" -> "Kevin Bridges";
+"Frank Skinner" -> "Sean Lock";
+"Frank Skinner" -> "Sean Lock";
+"Frank Skinner" -> "Al Murray";
+"Frank Skinner" -> "Al Murray";
+"Paul Merton" -> "Noel Fielding";
+"Paul Merton" -> "Daniel Kitson";
+"Paul Merton" -> "Jimmy Carr";
+"Paul Merton" -> "Sean Lock";
+"Paul Merton" -> "Ricky Gervais";
+"Paul Merton" -> "Neil Mullarkey";
+"Paul Merton" -> "Dara Ó Briain";
+"Rik Mayall" -> "Simon Pegg";
+"Rik Mayall" -> "Kevin Bridges";
+"Rik Mayall" -> "Jason Manford";
+"Rik Mayall" -> "Greg Davies";
+"Rik Mayall" -> "David Walliams";
+"Rik Mayall" -> "Ricky Gervais";
+"Jim Krenn" -> "Bill Crawford ";
+"Vic Reeves" -> "Paul Whitehouse";
+"Vic Reeves" -> "Matt Lucas";
+"Vic Reeves" -> "Jack Carroll ";
+"Vic Reeves" -> "Charlie Higson";
+"Vic Reeves" -> "Noel Fielding";
+"Vic Reeves" -> "David Walliams";
+"Vic Reeves" -> "Harry Hill";
+"Brad Stine" -> "Daren Streblow";
+"Kathy Griffin" -> "Amy Schumer";
+"Eddie Murphy" -> "Russell Brand";
+"Eddie Murphy" -> "Patrice O'Neal";
+"Harry Enfield" -> "Kathy Burke";
+"Harry Enfield" -> "Paul Whitehouse";
+"Jack Dee" -> "Jack Whitehall";
+"Jerry Sadowitz" -> "Janey Godley";
+"Jerry Sadowitz" -> "Alexei Sayle";
+"Jerry Sadowitz" -> "Ricky Gervais";
+"Jerry Sadowitz" -> "Roy 'Chubby' Brown";
+"Jerry Sadowitz" -> "Richard Herring";
+"Jerry Sadowitz" -> "Stewart Lee";
+"Jerry Sadowitz" -> "Frankie Boyle";
+"Jerry Sadowitz" -> "Jim Jefferies ";
+"Jerry Sadowitz" -> "Ali Cook";
+"Jerry Sadowitz" -> "Eddie Izzard";
+"Jerry Sadowitz" -> "Jimmy Carr";
+"Jack Dee" -> "Jack Whitehall";
+"Jon Stewart" -> "Larry Wilmore";
+"Jon Stewart" -> "Bassem Youssef";
+"Jon Stewart" -> "Stephen Colbert";
+"Jon Stewart" -> "John Oliver ";
+"Shaun Micallef" -> "Sammy J";
+"Ted Chippington" -> "Stewart Lee";
+"Ted Chippington" -> "Richard Herring";
+"Eddie Izzard" -> "Rhod Gilbert";
+"Eddie Izzard" -> "Sean Lock";
+"Eddie Izzard" -> "Hal Sparks";
+"Eddie Izzard" -> "Harry Hill";
+"Eddie Izzard" -> "Dara Ó Briain";
+"Armando Iannucci" -> "Iain Morris";
+"Armando Iannucci" -> "John Oliver ";
+"Armando Iannucci" -> "Steve Coogan";
+"Armando Iannucci" -> "Chris Addison";
+"Armando Iannucci" -> "Damon Beesley";
+"Conan O'Brien" -> "Mindy Kaling";
+"Conan O'Brien" -> "Pete Holmes";
+"Larry the Cable Guy" -> "Robert Kelly ";
+"David Baddiel" -> "Sean Lock";
+"Stephen Colbert" -> "Aasif Mandvi";
+"Stephen Colbert" -> "Rob Corddry";
+"Stephen Colbert" -> "Ed Helms";
+"Harry Hill" -> "Al Murray";
+"Harry Hill" -> "Paul Burling";
+"Andreu Buenafuente" -> "Berto Romero";
+"Martin Lawrence" -> "Dave Chappelle";
+"Martin Lawrence" -> "Tracy Morgan";
+"Martin Lawrence" -> "Chris Tucker";
+"Ji Suk-jin" -> "Lee Chae-young";
+"Ji Suk-jin" -> "Yoo Jae-suk";
+"Doug Stanhope" -> "Andy Andrist";
+"Louis C.K." -> "Patton Oswalt";
+"Eddie Griffin" -> "Loni Love";
+"Al Murray" -> "Prince Harry";
+"Al Murray" -> "Two Pints of Lager and a Packet of Crisps";
+"Sarah Silverman" -> "Amy Schumer";
+"Sarah Silverman" -> "Daniel Dickey";
+"Sarah Silverman" -> "Erez Ben–Ari";
+"Adam Hills" -> "Sammy J";
+"Park Myeong-su" -> "Jeong Hyeong-don";
+"Park Myeong-su" -> "Gil Seong-joon";
+"Park Myeong-su" -> "Jeong Jun-ha";
+"Park Myeong-su" -> "Noh Hong-chul";
+"Park Myeong-su" -> "Shin Bong-sun";
+"Stephen Lynch  musician " -> "Bo Burnham";
+"Jeong Jun-ha" -> "Jeong Hyeong-don";
+"Jeong Jun-ha" -> "Haha  entertainer ";
+"Jeong Jun-ha" -> "Gil Seong-joon";
+"Jeong Jun-ha" -> "Noh Hong-chul";
+"Vernon Chatman" -> "Adult Swim";
+"Vernon Chatman" -> "Adult Swim";
+"Yoo Jae-suk" -> "Gary  rapper ";
+"Yoo Jae-suk" -> "Lee Kwang-soo";
+"Yoo Jae-suk" -> "Noh Hong-chul";
+"Yoo Jae-suk" -> "Jeong Hyeong-don";
+"Yoo Jae-suk" -> "Gil Seong-joon";
+"Yoo Jae-suk" -> "Haha  entertainer ";
+"Peter Kay" -> "Jason Manford";
+"Kim Min-kyo" -> "Kim Seul-gie";
+"Steve Byrne" -> "Fahad Albutairi";
+"Jeong Hyeong-don" -> "Jeong Ga-eun";
+"Jeong Hyeong-don" -> "Leessang";
+"Jeong Hyeong-don" -> "Noh Hong-chul";
+"Noh Hong-chul" -> "Dynamic Duo";
+"Noh Hong-chul" -> "Haha  entertainer ";
+"Noh Hong-chul" -> "Gil Seong-joon";
+"Chris D'Elia" -> "Bryan Callen";
+ 
+}

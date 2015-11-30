@@ -1,7 +1,9 @@
 ###This program converts a slightly-modified JSON file obtained from sparql (a Wikipedia database query tool) to a .dot file, with formatting obtained from page 17 of http://www.graphviz.org/pdf/dotguide.pdf
 
-in_file = 'philosophers.json'
-out_file = 'reweighted_philo.gv'
+setwd("C:/Users/Daniel/Documents/GitHub/VisualizingPhilosophers")
+in_file = 'comedians.json'
+out_file = 'final_come.gv'
+font_size=40
 
 ##Packages:
 #These lines will check if you have the necessary package installed, installs it if it is not already installed, and opens it
@@ -66,15 +68,12 @@ for(j in 1:ncol(year_rank)){
   year_char_string <- paste(year_char_string, "; }\n", sep="")
 }
 
-#This line removes the rows in which the influenced person is not an influencer
-json_file<-subset(json_file, Influenced %in% Name)
-
 ##Weight(Simple):
 for(i in 1:nrow(json_file)){
   json_file$WeightS[i] <- length(grep(json_file$Name[i], json_file$Name))
 }
 
-json_file$WeightS <- json_file$WeightS / max(json_file$WeightS)
+json_file$WeightS <- (json_file$WeightS / max(json_file$WeightS)) + .25
 
 weight_size<-as.data.frame(matrix(ncol=length(unique(json_file$WeightS)), nrow=max(table(json_file$WeightS))))
 b<-1
@@ -88,7 +87,7 @@ names(weight_size) <- unique(json_file$WeightS)
 
 weight_char_string <- paste("")
 for(i in 1:ncol(weight_size)){
-  weight_char_string <- paste(weight_char_string, "node [shape=plaintext, fontsize=", (32*as.numeric(names(weight_size)[i])), "];{\n", sep="")
+  weight_char_string <- paste(weight_char_string, "node [shape=plaintext, fontsize=", (font_size*as.numeric(names(weight_size)[i])), "];{\n", sep="")
   for(j in 1:nrow(weight_size)){
     if(!(is.na(weight_size[j,i]))){
       weight_char_string <- paste(weight_char_string, "\"", weight_size[j,i] , "\"; ", sep="")
@@ -118,7 +117,7 @@ timeline<-paste(timeline, ";\n")
 
 ##Final:
 #This line will combine all of the strings we have created, along with general formatting information
-final<-(paste("digraph timeline { \n ranksep=1; splines=polyline; nodesep=.01; fixedsize=false; size = \"1000,200\";\n\n { \nnode [shape=plaintext, fontsize=16];\n", timeline, "\n}\n\n", weight_char_string, "\n", "node [shape=plaintext, fontsize=", as.numeric(min(names(weight_size)))*32, "]; \n", year_char_string, "\n", relationships, "\n}"))
+final<-(paste("digraph timeline { \n ranksep=1; splines=line; nodesep=.01; fixedsize=false;\n\n { \nnode [shape=plaintext, fontsize=16];\n", timeline, "\n}\n\n", weight_char_string, "\n", "node [shape=plaintext, fontsize=", as.numeric(min(names(weight_size)))*font_size, "]; \n", year_char_string, "\n", relationships, "\n}"))
 #This line prints out the combination of all the strings we have created with general formatting information
 sink(out_file)
 cat(final)
