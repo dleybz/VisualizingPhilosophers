@@ -8,7 +8,7 @@ node [shape=plaintext, fontsize=16];
 }
 
  node [shape=plaintext, fontsize=10.6779661016949];{
-"Thales"; "Pythagoras"; "Mozi"; "Democritus"; "Plato"; "Speusippus"; "Mencius"; "Pseudo-Dionysius the Areopagite"; "Leucippus"; "Homer"; "Hypatia"; "Proclus"; "Hisham ibn Urwah"; "Ali ibn al-Madini"; "Cheng Yi  philosopher "; "Yusuf ibn Abd al-Rahman al-Mizzi"; "Al-Dhahabi"; "John Wycliffe"; "John Colet"; "Lucilio Vanini"; "Blaise Pascal"; "Gabriel Wagner"; "Denis Diderot"; "George Campbell  minister "; "William Cleghorn"; "Miura Baien"; "Johannes Nikolaus Tetens"; "Ghulam Ali Dihlawi"; "Jeremy Bentham"; "Adamantios Korais"; "Joseph de Maistre"; "Christian Jakob Kraus"; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "Muhammad ash-Shawkani"; "Georg Wilhelm Friedrich Hegel"; "James Mill"; "Friedrich Carl von Savigny"; "Arthur Schopenhauer"; "Hermann Ulrici"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "Charles Bernard Renouvier"; "Rudolf von Jhering"; "Karl Marx"; "Friedrich Engels"; "August Schleicher"; "Jyotirao Phule"; "August Leskien"; "George Sylvester Morris"; "Josef Breuer"; "Peter Kropotkin"; "Friedrich Nietzsche"; "F. H. Bradley"; "Georges Sorel"; "A. D. Gordon"; "Christian von Ehrenfels"; "Henri Bergson"; "John Dewey"; "Tajuddin Muhammad Badruddin"; "George Santayana"; "Lev Shestov"; "Charles Maurras"; "Edward Abramowski"; "Emma Goldman"; "Upasni Maharaj"; "Harold Arthur Prichard"; "Bertrand Russell"; "G. E. Moore"; "Ghulam Bhik Nairang"; "Muhammad ibn al-Habib"; "Maurice Halbwachs"; "Husain Ahmad Madani"; "Oswald Spengler"; "Zechariah Chafee"; "Wilfred Talbot Smith"; "C. D. Broad"; "Carl Schmitt"; "Martin Heidegger"; "Gabriel Marcel"; "Tetsuro Watsuji"; "Hans Lipps"; "Edwin Arthur Burtt"; "Walter Benjamin"; "Georges Bataille"; "Muhammad Taqi-ud-Din al-Hilali"; "Qalandar Baba Auliya"; "Peter Wessel Zapffe"; "Leo Strauss"; "Hans-Georg Gadamer"; "Henri Lefebvre"; "Karl Popper"; "Theodor W. Adorno"; "Henry Corbin"; "Karl Rahner"; "Carl Gustav Hempel"; "Maurice Blanchot"; "Simone de Beauvoir"; "Muhammad Hamidullah"; "Maurice Merleau-Ponty"; "Hamka"; "Isaiah Berlin"; "Norberto Bobbio"; "A. J. Ayer"; "Norman Malcolm"; "Paul Grice"; "George Hourani"; "Roland Barthes"; "Alan Watts"; "Roderick Chisholm"; "Louis Althusser"; "William A. Earle"; "John Rawls"; "Thomas Kuhn"; "Pierre Hadot"; "Patrick Suppes"; "Richard Popkin"; "Paul Feyerabend"; "Evald Ilyenkov"; "Michael Dummett"; "Michel Foucault"; "Herbert McCabe"; "David Stove"; "Burton Dreben"; "Odo Marquard"; "Mary Daly"; "Bernard Williams"; "Jean Baudrillard"; "Wolfgang Smith"; "Jacques Derrida"; "Pierre Bourdieu"; "Guy Debord"; "Ronald Dworkin"; "Nicholas Wolterstorff"; "Sayyid Ghulam Hussain Shah Bukhari"; "Antonio Negri"; "Don Ihde"; "Pierre Clastres"; "Fredric Jameson"; "Evandro Agazzi"; "Ernesto Laclau"; "Jerry Fodor"; "Peter Achinstein"; "Arthur Fine"; "Robert Nozick"; "David B. Zilberman"; "Joseph Raz"; "Saul Kripke"; "Hans Kamp"; "Syed Shujaat Ali Qadri"; "Bas van Fraassen"; "Daniel Dennett"; "Chris Harman"; "Crispin Wright"; "Abu Abd al-Rahman Ibn Aqil al-Zahiri"; "Derek Parfit"; "Martha Albertson Fineman"; "Costanzo Preve"; "Peter Lamborn Wilson"; "Manfred Frank"; "Peter Singer"; "Claude Vorilhon"; "Axel Honneth"; "Paul Thagard"; "Robert Brandom"; "Bob Black"; "Bernard Stiegler"; "Christine Korsgaard"; "Michael J. Sandel"; "Timothy Williamson"; "David Schmidtz"; "Judith Butler"; "Peter Ludlow"; "Phillip Blond"; "Quentin Meillassoux"; "Alexander Pruss"; }
+"Thales"; "Pythagoras"; "Mozi"; "Democritus"; "Plato"; "Speusippus"; "Mencius"; "Pseudo-Dionysius the Areopagite"; "Leucippus"; "Homer"; "Hypatia"; "Proclus"; "Hisham ibn Urwah"; "Ali ibn al-Madini"; "Cheng Yi  philosopher "; "Yusuf ibn Abd al-Rahman al-Mizzi"; "Al-Dhahabi"; "John Wycliffe"; "John Colet"; "Lucilio Vanini"; "Blaise Pascal"; "Gabriel Wagner"; "Denis Diderot"; "George Campbell  minister "; "William Cleghorn"; "Miura Baien"; "Johannes Nikolaus Tetens"; "Ghulam Ali Dihlawi"; "Jeremy Bentham"; "Adamantios Korais"; "Joseph de Maistre"; "Christian Jakob Kraus"; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "Muhammad ash-Shawkani"; "Georg Wilhelm Friedrich Hegel"; "James Mill"; "Friedrich Carl von Savigny"; "Arthur Schopenhauer"; "Hermann Ulrici"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "Charles Bernard Renouvier"; "Rudolf von Jhering"; "Karl Marx"; "Friedrich Engels"; "August Schleicher"; "Jyotirao Phule"; "August Leskien"; "George Sylvester Morris"; "Josef Breuer"; "Peter Kropotkin"; "Friedrich Nietzsche"; "F. H. Bradley"; "Georges Sorel"; "A. D. Gordon"; "Christian von Ehrenfels"; "Henri Bergson"; "John Dewey"; "Tajuddin Muhammad Badruddin"; "George Santayana"; "Lev Shestov"; "Charles Maurras"; "Edward Abramowski"; "Emma Goldman"; "Upasni Maharaj"; "Harold Arthur Prichard"; "Bertrand Russell"; "G. E. Moore"; "Ghulam Bhik Nairang"; "Muhammad ibn al-Habib"; "Maurice Halbwachs"; "Husain Ahmad Madani"; "Oswald Spengler"; "Zechariah Chafee"; "Wilfred Talbot Smith"; "C. D. Broad"; "Carl Schmitt"; "Martin Heidegger"; "Gabriel Marcel"; "Tetsuro Watsuji"; "Hans Lipps"; "Edwin Arthur Burtt"; "Walter Benjamin"; "Georges Bataille"; "Muhammad Taqi-ud-Din al-Hilali"; "Qalandar Baba Auliya"; "Peter Wessel Zapffe"; "Leo Strauss"; "Hans-Georg Gadamer"; "Henri Lefebvre"; "Karl Popper"; "Theodor W. Adorno"; "Henry Corbin"; "Karl Rahner"; "Carl Gustav Hempel"; "Maurice Blanchot"; "Simone de Beauvoir"; "Muhammad Hamidullah"; "Maurice Merleau-Ponty"; "Hamka"; "Isaiah Berlin"; "Norberto Bobbio"; "A. J. Ayer"; "Norman Malcolm"; "Paul Grice"; "George Hourani"; "Roland Barthes"; "Alan Watts"; "RodErick Chisholm"; "Louis Althusser"; "William A. Earle"; "John Rawls"; "Thomas Kuhn"; "Pierre Hadot"; "Patrick Suppes"; "Richard Popkin"; "Paul Feyerabend"; "Evald Ilyenkov"; "Michael Dummett"; "Michel Foucault"; "Herbert McCabe"; "David Stove"; "Burton Dreben"; "Odo Marquard"; "Mary Daly"; "Bernard Williams"; "Jean Baudrillard"; "Wolfgang Smith"; "Jacques Derrida"; "Pierre Bourdieu"; "Guy Debord"; "Ronald Dworkin"; "Nicholas Wolterstorff"; "Sayyid Ghulam Hussain Shah Bukhari"; "Antonio Negri"; "Don Ihde"; "Pierre Clastres"; "Fredric Jameson"; "Evandro Agazzi"; "Ernesto Laclau"; "Jerry Fodor"; "Peter Achinstein"; "Arthur Fine"; "Robert Nozick"; "David B. Zilberman"; "Joseph Raz"; "Saul Kripke"; "Hans Kamp"; "Syed Shujaat Ali Qadri"; "Bas van Fraassen"; "Daniel Dennett"; "Chris Harman"; "Crispin Wright"; "Abu Abd al-Rahman Ibn Aqil al-Zahiri"; "Derek Parfit"; "Martha Albertson Fineman"; "Costanzo Preve"; "Peter Lamborn Wilson"; "Manfred Frank"; "Peter Singer"; "Claude Vorilhon"; "Axel Honneth"; "Paul Thagard"; "Robert Brandom"; "Bob Black"; "Bernard Stiegler"; "Christine Korsgaard"; "Michael J. Sandel"; "Timothy Williamson"; "David Schmidtz"; "Judith Butler"; "Peter Ludlow"; "Phillip Blond"; "Quentin Meillassoux"; "Alexander Pruss"; }
 node [shape=plaintext, fontsize=12.7118644067797];{
 "Anaximander"; "Empedocles"; "Protagoras"; "Zeno of Elea"; "Antisthenes"; "Zhuang Zhou"; "Arcesilaus"; "Al-Jahiz"; "Ibn Hazm"; "Pierre Gassendi"; "Francis Hutcheson  philosopher "; "Julien Offray de La Mettrie"; "Emer de Vattel"; "Hong Dae-yong"; "Park Ji-won"; "Karl Leonhard Reinhold"; "Johann Gottlieb Fichte"; "Bernard Bolzano"; "Sir William Hamilton, 9th Baronet"; "Josiah Warren"; "Christoph von Sigwart"; "Thomas Hill Green"; "Richard Avenarius"; "Hans Vaihinger"; "Gaetano Mosca"; "Han Ryner"; "Benedetto Croce"; "Nikolai Berdyaev"; "Emil Lask"; "Othmar Spann"; "Karl Jaspers"; "Karl Korsch"; "Rudolf Carnap"; "Suzanne Briet"; "Zaki al-Arsuzi"; "Sidney Hook"; "Raymond Aron"; "J. L. Austin"; "Arthur Prior"; "Donald Davidson  philosopher "; "R. M. Hare"; "Walter Kaufmann  philosopher "; "Peter G. Ossorio"; "Luce Irigaray"; "T. K. Seung"; "Norman Geisler"; "Michael Walzer"; "Gianni Vattimo"; "Giorgio Agamben"; "Gillian Rose"; "Robert B. Pippin"; "Muhammad Tahir"; }
 node [shape=plaintext, fontsize=16.1016949152542];{
@@ -22,7 +22,7 @@ node [shape=plaintext, fontsize=11.3559322033898];{
 node [shape=plaintext, fontsize=12.0338983050848];{
 "Gorgias"; "Carneades"; "Panaetius"; "Bayazid Bastami"; "Al-Mutanabbi"; "Zhou Dunyi"; "William of Ockham"; "Jan Hus"; "Giovanni Pico della Mirandola"; "Jean Bodin"; "Cesare Cremonini  philosopher "; "Mulla Sadra"; "Yamazaki Ansai"; "William Wollaston"; "Alexander Gottlieb Baumgarten"; "Baron d'Holbach"; "Johann Gottfried Herder"; "Rudolf Sutermeister"; "Mikhail Bakunin"; "Jules Lequier"; "Friedrich Albert Lange"; "Joseph Dietzgen"; "Vasile Pogor"; "Antonio Labriola"; "Rudolf Christoph Eucken"; "Wilhelm Windelband"; "Carl Stumpf"; "George Herbert Mead"; "Ernst Cassirer"; "Max Scheler"; "Giovanni Gentile"; "W. D. Ross"; "Muhammad Iqbal"; "Hans Kelsen"; "Otto Neurath"; "Kurt Koffka"; "Franz Rosenzweig"; "Renzo Novatore"; "Roman Ingarden"; "Louis Arnaud Reid"; "Tan Malaka"; "Norbert Elias"; "Ernest Nagel"; "Eric Voegelin"; "Frank P. Ramsey"; "Josef Pieper"; "Antoun Saadeh"; "Emmanuel Levinas"; "Northrop Frye"; "Peter Geach"; "J. L. Mackie"; "Milan Komar"; "Jacob Taubes"; "Ernest Gellner"; "Dieter Henrich"; "Alasdair MacIntyre"; "Israr Ahmed"; "Richard Swinburne"; "Nicos Poulantzas"; "John Zerzan"; "Peter Sloterdijk"; "R. Radhakrishnan"; "William Lane Craig"; "Nick Land"; "Graham Harman"; }
 node [shape=plaintext, fontsize=13.3898305084746];{
-"Socrates"; "Porphyry  philosopher "; "Boethius"; "Averroes"; "Meister Eckhart"; "Gemistus Pletho"; "Giordano Bruno"; "Bruno Bauer"; "Karl Robert Eduard von Hartmann"; "Georg Simmel"; "Pierre Duhem"; "Georges Palante"; "Heinrich Rickert"; "Helena Roerich"; "Moritz Schlick"; "Max Horkheimer"; "Cornelius Van Til"; "Muhammad Asad"; "Gordon Clark"; "Hannah Arendt"; "Imre Lakatos"; "Pino Rauti"; "Michel Serres"; "Richard Rorty"; "John D. Caputo"; "David Lewis  philosopher "; "Gerald Cohen"; "Peter Rollins"; }
+"Socrates"; "Porphyry  philosopher "; "Boethius"; "Averroes"; "Meister Eckhart"; "Gemistus Pletho"; "Giordano Bruno"; "Bruno Bauer"; "Karl Robert Eduard von Hartmann"; "Georg Simmel"; "Pierre Duhem"; "Georges Palante"; "Heinrich Rickert"; "Helena RoErich"; "Moritz Schlick"; "Max Horkheimer"; "Cornelius Van Til"; "Muhammad Asad"; "Gordon Clark"; "Hannah Arendt"; "Imre Lakatos"; "Pino Rauti"; "Michel Serres"; "Richard Rorty"; "John D. Caputo"; "David Lewis  philosopher "; "Gerald Cohen"; "Peter Rollins"; }
 node [shape=plaintext, fontsize=14.7457627118644];{
 "Aristippus"; "Zeno of Citium"; "John Selden"; "Ralph Waldo Emerson"; "Syed Ahmad Khan"; "Franz Brentano"; "Vladimir Solovyov  philosopher "; "Shibli Nomani"; "Martin Buber"; "John Anderson  philosopher "; "Herbert Marcuse"; "Richard McKeon"; "Nelson Goodman"; "H. L. A. Hart"; "Wilfrid Sellars"; "Justus Buchler"; "Kenneth Waltz"; "Ivan Illich"; }
 node [shape=plaintext, fontsize=22.8813559322034];{
@@ -257,7 +257,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
  { rank = same; 1876; "Ghulam Bhik Nairang"; "Muhammad ibn al-Habib"; }
  { rank = same; 1877; "W. D. Ross"; "Muhammad Iqbal"; "Maurice Halbwachs"; }
  { rank = same; 1878; "Martin Buber"; "Othmar Spann"; "Ion Dragoumis"; }
- { rank = same; 1879; "Helena Roerich"; "Muhammad Sirajuddin Naqshbandi"; "Husain Ahmad Madani"; }
+ { rank = same; 1879; "Helena RoErich"; "Muhammad Sirajuddin Naqshbandi"; "Husain Ahmad Madani"; }
  { rank = same; 1880; "Oswald Spengler"; "Otto Weininger"; "Morris Raphael Cohen"; }
  { rank = same; 1881; "Hans Kelsen"; }
  { rank = same; 1882; "Otto Neurath"; "Jacques Maritain"; "Nicolai Hartmann"; "Moritz Schlick"; }
@@ -294,7 +294,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
  { rank = same; 1913; "Paul Grice"; "George Hourani"; }
  { rank = same; 1914; "Arthur Prior"; "Justus Buchler"; }
  { rank = same; 1915; "Ahamed Mohiyudheen Noorishah Jeelani"; "Roland Barthes"; "Alan Watts"; }
- { rank = same; 1916; "Georg Henrik von Wright"; "Peter Geach"; "Roderick Chisholm"; }
+ { rank = same; 1916; "Georg Henrik von Wright"; "Peter Geach"; "RodErick Chisholm"; }
  { rank = same; 1917; "J. L. Mackie"; "Donald Davidson  philosopher "; }
  { rank = same; 1918; "George Grant  philosopher "; "Louis Althusser"; }
  { rank = same; 1919; "William A. Earle"; "P. F. Strawson"; "R. M. Hare"; }
@@ -354,7 +354,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Confucius" -> "Christian Wolff  philosopher ";
 "Confucius" -> "Ezra Pound";
 "Confucius" -> "Mencius";
-"Confucius" -> "François Quesnay";
+"Confucius" -> "Francois Quesnay";
 "Confucius" -> "Chinese philosophy";
 "Confucius" -> "Xuanxue";
 "Heraclitus" -> "Karl Popper";
@@ -378,7 +378,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Parmenides" -> "Baruch Spinoza";
 "Parmenides" -> "Friedrich Nietzsche";
 "Parmenides" -> "Plato";
-"Anaxagoras" -> "Pericles";
+"Anaxagoras" -> "PEricles";
 "Anaxagoras" -> "Archelaus  philosopher ";
 "Empedocles" -> "Gorgias";
 "Empedocles" -> "Aristotle";
@@ -393,7 +393,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Zeno of Elea" -> "Aristotle";
 "Zeno of Elea" -> "Plato";
 "Gorgias" -> "Antisthenes";
-"Gorgias" -> "Pericles";
+"Gorgias" -> "PEricles";
 "Gorgias" -> "Plato";
 "Socrates" -> "Antisthenes";
 "Socrates" -> "Aristotle";
@@ -496,7 +496,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Sextus Empiricus" -> "Friedrich Nietzsche";
 "Sextus Empiricus" -> "Georg Wilhelm Friedrich Hegel";
 "Sextus Empiricus" -> "Michel de Montaigne";
-"Sextus Empiricus" -> "René Descartes";
+"Sextus Empiricus" -> "Rene Descartes";
 "Plotinus" -> "Hierocles of Alexandria";
 "Plotinus" -> "Bonaventure";
 "Plotinus" -> "Simplicius of Cilicia";
@@ -616,9 +616,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Duns Scotus" -> "Gilles Deleuze";
 "Duns Scotus" -> "Martin Heidegger";
 "Duns Scotus" -> "William of Ockham";
-"Duns Scotus" -> "Mário Ferreira dos Santos";
+"Duns Scotus" -> "Mario Ferreira dos Santos";
 "Duns Scotus" -> "Antonius Andreas";
-"Duns Scotus" -> "René Descartes";
+"Duns Scotus" -> "Rene Descartes";
 "Duns Scotus" -> "Lorenz Fuetscher";
 "Al-Dhahabi" -> "Ibn Kathir";
 "William of Ockham" -> "History of science";
@@ -637,7 +637,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jan Hus" -> "Martin Luther";
 "Ibn Hajar al-Asqalani" -> "Al-Sakhawi";
 "Ibn Hajar al-Asqalani" -> "Al-Suyuti";
-"Nicholas of Cusa" -> "Mário Ferreira dos Santos";
+"Nicholas of Cusa" -> "Mario Ferreira dos Santos";
 "Nicholas of Cusa" -> "Giordano Bruno";
 "Nicholas of Cusa" -> "Giovanni Pico della Mirandola";
 "Nicholas of Cusa" -> "Georg Wilhelm Friedrich Hegel";
@@ -653,7 +653,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Desiderius Erasmus" -> "Martin Luther";
 "Desiderius Erasmus" -> "Thomas More";
 "Desiderius Erasmus" -> "William Tyndale";
-"Desiderius Erasmus" -> "Damião de Góis";
+"Desiderius Erasmus" -> "Damião de Gois";
 "John Colet" -> "Desiderius Erasmus";
 "Paracelsus" -> "Thomas Muffet";
 "Paracelsus" -> "Franciscus Sylvius";
@@ -664,9 +664,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jean Bodin" -> "Eric Voegelin";
 "Michel de Montaigne" -> "Gore Vidal";
 "Michel de Montaigne" -> "Eric Hoffer";
-"Michel de Montaigne" -> "José Saramago";
+"Michel de Montaigne" -> "Jose Saramago";
 "Michel de Montaigne" -> "Pierre Charron";
-"Michel de Montaigne" -> "Jean-François Lyotard";
+"Michel de Montaigne" -> "Jean-Francois Lyotard";
 "Michel de Montaigne" -> "Michel Onfray";
 "Michel de Montaigne" -> "Albert Otto Hirschman";
 "Michel de Montaigne" -> "Blaise Pascal";
@@ -675,7 +675,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Michel de Montaigne" -> "Ralph Waldo Emerson";
 "Michel de Montaigne" -> "William Hazlitt";
 "Michel de Montaigne" -> "William Shakespeare";
-"Michel de Montaigne" -> "René Descartes";
+"Michel de Montaigne" -> "Rene Descartes";
 "Giordano Bruno" -> "Gottfried Wilhelm Leibniz";
 "Giordano Bruno" -> "Molière";
 "Giordano Bruno" -> "Arthur Schopenhauer";
@@ -683,7 +683,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Giordano Bruno" -> "James Joyce";
 "Cesare Cremonini  philosopher " -> "Libertine";
 "Cesare Cremonini  philosopher " -> "Theophilos Corydalleus";
-"Cesare Cremonini  philosopher " -> "Gabriel Naudé";
+"Cesare Cremonini  philosopher " -> "Gabriel Naude";
 "Ahmad Sirhindi" -> "Sufism";
 "Ahmad Sirhindi" -> "Sufism";
 "Mulla Sadra" -> "Ruhollah Khomeini";
@@ -774,7 +774,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "John Locke" -> "John Toland";
 "John Locke" -> "Gershom Carmichael";
 "John Locke" -> "Abraham Tucker";
-"John Locke" -> "Étienne Bonnot de Condillac";
+"John Locke" -> "Etienne Bonnot de Condillac";
 "Nicolas Malebranche" -> "Jacob Bernoulli";
 "Nicolas Malebranche" -> "Montesquieu";
 "Nicolas Malebranche" -> "Gottfried Wilhelm Leibniz";
@@ -787,10 +787,10 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gottfried Wilhelm Leibniz" -> "Edmund Husserl";
 "Gottfried Wilhelm Leibniz" -> "Gilles Deleuze";
 "Gottfried Wilhelm Leibniz" -> "Gregory Chaitin";
-"Gottfried Wilhelm Leibniz" -> "Kurt Gödel";
+"Gottfried Wilhelm Leibniz" -> "Kurt Godel";
 "Gottfried Wilhelm Leibniz" -> "Martin Heidegger";
 "Gottfried Wilhelm Leibniz" -> "Theodor W. Adorno";
-"Gottfried Wilhelm Leibniz" -> "Mário Ferreira dos Santos";
+"Gottfried Wilhelm Leibniz" -> "Mario Ferreira dos Santos";
 "Gottfried Wilhelm Leibniz" -> "Bernardino Varisco";
 "Gottfried Wilhelm Leibniz" -> "Charles Bonnet";
 "Gottfried Wilhelm Leibniz" -> "Christian Wolff  philosopher ";
@@ -811,14 +811,14 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gottfried Wilhelm Leibniz" -> "Friedrich Nietzsche";
 "Gottfried Wilhelm Leibniz" -> "Henri Bergson";
 "Gottfried Wilhelm Leibniz" -> "Immanuel Kant";
-"Gottfried Wilhelm Leibniz" -> "Émilie du Châtelet";
+"Gottfried Wilhelm Leibniz" -> "emilie du Châtelet";
 "Gottfried Wilhelm Leibniz" -> "Pierre Louis Maupertuis";
-"Gottfried Wilhelm Leibniz" -> "Félix Ravaisson-Mollien";
+"Gottfried Wilhelm Leibniz" -> "Felix Ravaisson-Mollien";
 "Pierre Bayle" -> "Marquis de Condorcet";
 "Pierre Bayle" -> "Pierre des Maizeaux";
 "Pierre Bayle" -> "Bernard Mandeville";
 "Pierre Bayle" -> "Voltaire";
-"Pierre Bayle" -> "Frederick the Great";
+"Pierre Bayle" -> "FredErick the Great";
 "Pierre Bayle" -> "Giambattista Vico";
 "Pierre Bayle" -> "David Hume";
 "Pierre Bayle" -> "Denis Diderot";
@@ -827,7 +827,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Damaris Cudworth Masham" -> "Edmund Husserl";
 "Damaris Cudworth Masham" -> "Gilles Deleuze";
 "Damaris Cudworth Masham" -> "Gregory Chaitin";
-"Damaris Cudworth Masham" -> "Kurt Gödel";
+"Damaris Cudworth Masham" -> "Kurt Godel";
 "Damaris Cudworth Masham" -> "Martin Heidegger";
 "Damaris Cudworth Masham" -> "Theodor W. Adorno";
 "Damaris Cudworth Masham" -> "Bernardino Varisco";
@@ -850,10 +850,10 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Damaris Cudworth Masham" -> "Friedrich Nietzsche";
 "Damaris Cudworth Masham" -> "Henri Bergson";
 "Damaris Cudworth Masham" -> "Immanuel Kant";
-"Damaris Cudworth Masham" -> "Émilie du Châtelet";
+"Damaris Cudworth Masham" -> "emilie du Châtelet";
 "Damaris Cudworth Masham" -> "John Locke  philosopher ";
 "Damaris Cudworth Masham" -> "Pierre Louis Maupertuis";
-"Damaris Cudworth Masham" -> "Félix Ravaisson-Mollien";
+"Damaris Cudworth Masham" -> "Felix Ravaisson-Mollien";
 "William Wollaston" -> "John Conybeare";
 "William Wollaston" -> "John Clarke  Dean of Salisbury ";
 "William Wollaston" -> "Samuel Johnson";
@@ -880,7 +880,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "George Berkeley" -> "John Stuart Mill";
 "Montesquieu" -> "Hannah Arendt";
 "Montesquieu" -> "United States Constitution";
-"Montesquieu" -> "Émile Durkheim";
+"Montesquieu" -> "Emile Durkheim";
 "Montesquieu" -> "Alexis de Tocqueville";
 "Montesquieu" -> "David Hume";
 "Montesquieu" -> "Edmund Burke";
@@ -899,19 +899,19 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "David Hartley  philosopher " -> "William Wordsworth";
 "Julien Offray de La Mettrie" -> "Michel Onfray";
 "Julien Offray de La Mettrie" -> "Michel Onfray";
-"Julien Offray de La Mettrie" -> "François Picavet";
-"Julien Offray de La Mettrie" -> "François Picavet";
+"Julien Offray de La Mettrie" -> "Francois Picavet";
+"Julien Offray de La Mettrie" -> "Francois Picavet";
 "Thomas Reid" -> "Alvin Plantinga";
 "Thomas Reid" -> "Charles Sanders Peirce";
 "Thomas Reid" -> "G. E. Moore";
 "Thomas Reid" -> "David Hartley  philosopher ";
 "Thomas Reid" -> "George Elder Davie";
-"Thomas Reid" -> "James Frederick Ferrier";
+"Thomas Reid" -> "James FredErick Ferrier";
 "Thomas Reid" -> "Keith DeRose";
 "Thomas Reid" -> "Keith Lehrer";
 "Thomas Reid" -> "Michael Bergmann  philosopher ";
 "Thomas Reid" -> "Nicholas Wolterstorff";
-"Thomas Reid" -> "Roderick Chisholm";
+"Thomas Reid" -> "RodErick Chisholm";
 "Thomas Reid" -> "Victor Cousin";
 "Thomas Reid" -> "William L. Rowe";
 "Thomas Reid" -> "Arthur Schopenhauer";
@@ -947,7 +947,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jean-Jacques Rousseau" -> "Pierre-Joseph Proudhon";
 "Jean-Jacques Rousseau" -> "Louis Althusser";
 "Jean-Jacques Rousseau" -> "John Rawls";
-"Jean-Jacques Rousseau" -> "Émile Durkheim";
+"Jean-Jacques Rousseau" -> "Emile Durkheim";
 "Jean-Jacques Rousseau" -> "Adam Smith";
 "Jean-Jacques Rousseau" -> "Alexis de Tocqueville";
 "Jean-Jacques Rousseau" -> "David Hume";
@@ -962,7 +962,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jean-Jacques Rousseau" -> "Thomas Paine";
 "Jean-Jacques Rousseau" -> "Jacques Derrida";
 "Jean-Jacques Rousseau" -> "Maria Montessori";
-"Denis Diderot" -> "Étienne Bonnot de Condillac";
+"Denis Diderot" -> "Etienne Bonnot de Condillac";
 "Emer de Vattel" -> "Alexander Hamilton";
 "Emer de Vattel" -> "Benjamin Franklin";
 "Emer de Vattel" -> "George Washington";
@@ -972,8 +972,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Alexander Gottlieb Baumgarten" -> "Georg Friedrich Meier";
 "George Campbell  minister " -> "Rhetoric";
 "William Cleghorn" -> "Adam Ferguson";
-"Adam Smith" -> "Frédéric Bastiat";
-"Adam Smith" -> "Frédéric Bastiat";
+"Adam Smith" -> "FredEric Bastiat";
+"Adam Smith" -> "FredEric Bastiat";
 "Baron d'Holbach" -> "Adam Weishaupt";
 "Baron d'Holbach" -> "Michel Onfray";
 "Baron d'Holbach" -> "Karl Marx";
@@ -999,7 +999,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Edmund Burke" -> "Roger Scruton";
 "Edmund Burke" -> "Roger Scruton";
 "Johann Georg Hamann" -> "Johann Gottfried Herder";
-"Johann Georg Hamann" -> "Søren Kierkegaard";
+"Johann Georg Hamann" -> "Soren Kierkegaard";
 "Johann Georg Hamann" -> "Friedrich Wilhelm Joseph Schelling";
 "Johann Georg Hamann" -> "Friedrich Heinrich Jacobi";
 "Johann Georg Hamann" -> "Georg Wilhelm Friedrich Hegel";
@@ -1026,7 +1026,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Thomas Paine" -> "Moncure D. Conway";
 "Ghulam Ali Dihlawi" -> "Muhammad Tahir";
 "Friedrich Heinrich Jacobi" -> "Jakob Friedrich Fries";
-"Friedrich Heinrich Jacobi" -> "Søren Kierkegaard";
+"Friedrich Heinrich Jacobi" -> "Soren Kierkegaard";
 "Friedrich Heinrich Jacobi" -> "Martin Heidegger";
 "Friedrich Heinrich Jacobi" -> "Ludwig Feuerbach";
 "Friedrich Heinrich Jacobi" -> "Victor Cousin";
@@ -1036,7 +1036,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Friedrich Heinrich Jacobi" -> "Johann Gottlieb Fichte";
 "Johann Gottfried Herder" -> "Georg Wilhelm Friedrich Hegel";
 "Johann Gottfried Herder" -> "Johann Wolfgang von Goethe";
-"Johann Gottfried Herder" -> "Ludovít Štúr";
+"Johann Gottfried Herder" -> "Ludovit Stur";
 "Jeremy Bentham" -> "John Stuart Mill";
 "Adam Weishaupt" -> "Robert Anton Wilson";
 "Adam Weishaupt" -> "Percy Bysshe Shelley";
@@ -1050,14 +1050,14 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Karl Leonhard Reinhold" -> "Friedrich Schiller";
 "Karl Leonhard Reinhold" -> "Johann Gottlieb Fichte";
 "Muhammad ash-Shawkani" -> "Albani";
-"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Péreire brothers";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Pereire brothers";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "Pierre-Joseph Proudhon";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "John Stuart Mill";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "Karl Marx";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "Thorstein Veblen";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "Pierre Leroux";
 "Claude Henri de Rouvroy, comte de Saint-Simon" -> "Auguste Comte";
-"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Barthélemy Prosper Enfantin";
+"Claude Henri de Rouvroy, comte de Saint-Simon" -> "Barthelemy Prosper Enfantin";
 "Johann Gottlieb Fichte" -> "Novalis";
 "Johann Gottlieb Fichte" -> "Dieter Henrich";
 "Johann Gottlieb Fichte" -> "Friedrich Wilhelm Joseph Schelling";
@@ -1068,9 +1068,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Maine de Biran" -> "Michel Henry";
 "Maine de Biran" -> "Pierre Janet";
 "Maine de Biran" -> "Henri Bergson";
-"Maine de Biran" -> "Émile Boutroux";
-"Maine de Biran" -> "Félix Ravaisson-Mollien";
-"Maine de Biran" -> "François Picavet";
+"Maine de Biran" -> "Emile Boutroux";
+"Maine de Biran" -> "Felix Ravaisson-Mollien";
+"Maine de Biran" -> "Francois Picavet";
 "Wilhelm von Humboldt" -> "Noam Chomsky";
 "Wilhelm von Humboldt" -> "Alexander Potebnja";
 "Wilhelm von Humboldt" -> "Joxe Azurmendi";
@@ -1095,17 +1095,17 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Charles Fourier" -> "Raoul Vaneigem";
 "Charles Fourier" -> "Herbert Marcuse";
 "Charles Fourier" -> "Pierre-Joseph Proudhon";
-"Charles Fourier" -> "André Breton";
+"Charles Fourier" -> "Andre Breton";
 "Charles Fourier" -> "Karl Marx";
 "Charles Fourier" -> "Peter Kropotkin";
 "Charles Fourier" -> "David Harvey";
 "Charles Fourier" -> "Walter Benjamin";
-"Charles Fourier" -> "Émile Armand";
-"Charles Fourier" -> "Joseph Déjacque";
+"Charles Fourier" -> "Emile Armand";
+"Charles Fourier" -> "Joseph Dejacque";
 "James Mill" -> "John Stuart Mill";
 "Friedrich Wilhelm Joseph Schelling" -> "Charles Sanders Peirce";
-"Friedrich Wilhelm Joseph Schelling" -> "Søren Kierkegaard";
-"Friedrich Wilhelm Joseph Schelling" -> "Slavoj Žižek";
+"Friedrich Wilhelm Joseph Schelling" -> "Soren Kierkegaard";
+"Friedrich Wilhelm Joseph Schelling" -> "Slavoj Zizek";
 "Friedrich Wilhelm Joseph Schelling" -> "Alexandru Hâjdeu";
 "Friedrich Wilhelm Joseph Schelling" -> "Carl Jung";
 "Friedrich Wilhelm Joseph Schelling" -> "Martin Heidegger";
@@ -1119,8 +1119,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Friedrich Wilhelm Joseph Schelling" -> "Johann Wolfgang von Goethe";
 "Friedrich Wilhelm Joseph Schelling" -> "Samuel Taylor Coleridge";
 "Friedrich Wilhelm Joseph Schelling" -> "Iain Hamilton Grant";
-"Friedrich Wilhelm Joseph Schelling" -> "Charles Secrétan";
-"Friedrich Wilhelm Joseph Schelling" -> "Félix Ravaisson-Mollien";
+"Friedrich Wilhelm Joseph Schelling" -> "Charles Secretan";
+"Friedrich Wilhelm Joseph Schelling" -> "Felix Ravaisson-Mollien";
 "Johann Friedrich Herbart" -> "Friedrich Eduard Beneke";
 "Johann Friedrich Herbart" -> "Immanuel Hermann Fichte";
 "Johann Friedrich Herbart" -> "Edmund Husserl";
@@ -1139,8 +1139,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Arthur Schopenhauer" -> "Jorge Luis Borges";
 "John Austin  legal philosopher " -> "H. L. A. Hart";
 "John Austin  legal philosopher " -> "Joseph Raz";
-"Franz Bopp" -> "Michel Bréal";
-"Franz Bopp" -> "Max Müller";
+"Franz Bopp" -> "Michel Breal";
+"Franz Bopp" -> "Max Muller";
 "Giacomo Leopardi" -> "Eugenio Montale";
 "Giacomo Leopardi" -> "Existentialism";
 "Giacomo Leopardi" -> "Umberto Saba";
@@ -1154,9 +1154,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Giacomo Leopardi" -> "Giosuè Carducci";
 "Giacomo Leopardi" -> "Albert Camus";
 "Auguste Comte" -> "Pierre Laffitte";
-"Auguste Comte" -> "Émile Littré";
+"Auguste Comte" -> "Emile Littre";
 "Auguste Comte" -> "Charles Maurras";
-"Auguste Comte" -> "Émile Durkheim";
+"Auguste Comte" -> "Emile Durkheim";
 "Auguste Comte" -> "Friedrich Nietzsche";
 "Auguste Comte" -> "Herbert Spencer";
 "Auguste Comte" -> "John Stuart Mill";
@@ -1168,10 +1168,10 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Josiah Warren" -> "John Stuart Mill";
 "Rudolf Sutermeister" -> "Gustav Siegfried";
 "Rudolf Sutermeister" -> "Johann Jakob Treichler";
-"Rudolf Sutermeister" -> "Karl Bürkli";
+"Rudolf Sutermeister" -> "Karl Burkli";
 "Friedrich Adolf Trendelenburg" -> "Franz Brentano";
 "Friedrich Adolf Trendelenburg" -> "Gottlob Frege";
-"Friedrich Adolf Trendelenburg" -> "Søren Kierkegaard";
+"Friedrich Adolf Trendelenburg" -> "Soren Kierkegaard";
 "Friedrich Adolf Trendelenburg" -> "Hermann Cohen";
 "Friedrich Adolf Trendelenburg" -> "Wilhelm Dilthey";
 "Friedrich Adolf Trendelenburg" -> "Rudolf Christoph Eucken";
@@ -1206,7 +1206,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Max Stirner" -> "Carl Schmitt";
 "Max Stirner" -> "Enrico Arrigoni";
 "Max Stirner" -> "Gustav Landauer";
-"Max Stirner" -> "Ernst Jünger";
+"Max Stirner" -> "Ernst Junger";
 "Max Stirner" -> "Emma Goldman";
 "Max Stirner" -> "Friedrich Engels";
 "Max Stirner" -> "Friedrich Nietzsche";
@@ -1215,8 +1215,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Max Stirner" -> "Wolfi Landstreicher";
 "Max Stirner" -> "Albert Camus";
 "Max Stirner" -> "Wilhelm Reich";
-"Max Stirner" -> "Émile Armand";
-"Max Stirner" -> "Miguel Giménez Igualada";
+"Max Stirner" -> "Emile Armand";
+"Max Stirner" -> "Miguel Gimenez Igualada";
 "John Stuart Mill" -> "Paul Feyerabend";
 "John Stuart Mill" -> "Robert Nozick";
 "John Stuart Mill" -> "Karl Popper";
@@ -1249,12 +1249,12 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Bruno Bauer" -> "Karl Marx";
 "Pierre-Joseph Proudhon" -> "Mikhail Bakunin";
 "Pierre-Joseph Proudhon" -> "Silvio Gesell";
-"Pierre-Joseph Proudhon" -> "Mário Ferreira dos Santos";
+"Pierre-Joseph Proudhon" -> "Mario Ferreira dos Santos";
 "Pierre-Joseph Proudhon" -> "Georges Sorel";
 "Pierre-Joseph Proudhon" -> "Benjamin Tucker";
 "Pierre-Joseph Proudhon" -> "Kevin Carson";
 "Pierre-Joseph Proudhon" -> "Karl Marx";
-"Pierre-Joseph Proudhon" -> "Joseph Déjacque";
+"Pierre-Joseph Proudhon" -> "Joseph Dejacque";
 "Alexander Herzen" -> "Jean-Paul Sartre";
 "Alexander Herzen" -> "Mao Zedong";
 "Alexander Herzen" -> "Vladimir Lenin";
@@ -1314,8 +1314,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Karl Marx" -> "Category:Marxists";
 "Friedrich Engels" -> "Category:Marxists";
 "Herbert Spencer" -> "Murray Rothbard";
-"Herbert Spencer" -> "Roderick T. Long";
-"Herbert Spencer" -> "Émile Durkheim";
+"Herbert Spencer" -> "RodErick T. Long";
+"Herbert Spencer" -> "Emile Durkheim";
 "Herbert Spencer" -> "Ayn Rand";
 "Herbert Spencer" -> "Charles Darwin";
 "Herbert Spencer" -> "Henri Bergson";
@@ -1349,7 +1349,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Wilhelm Dilthey" -> "Rudolf Steiner";
 "Wilhelm Dilthey" -> "Georg Simmel";
 "Wilhelm Dilthey" -> "Karl Jaspers";
-"Wilhelm Dilthey" -> "Jürgen Habermas";
+"Wilhelm Dilthey" -> "Jurgen Habermas";
 "Thomas Hill Green" -> "F. H. Bradley";
 "Thomas Hill Green" -> "Leonard Trelawny Hobhouse";
 "Thomas Hill Green" -> "John Dewey";
@@ -1358,8 +1358,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "African Spir" -> "Rudolf Steiner";
 "African Spir" -> "Hans Vaihinger";
 "African Spir" -> "Hans Vaihinger";
-"African Spir" -> "Max Müller";
-"African Spir" -> "Max Müller";
+"African Spir" -> "Max Muller";
+"African Spir" -> "Max Muller";
 "African Spir" -> "Friedrich Nietzsche";
 "African Spir" -> "Friedrich Nietzsche";
 "African Spir" -> "Leo Tolstoy";
@@ -1377,7 +1377,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Franz Brentano" -> "Christian von Ehrenfels";
 "Franz Brentano" -> "Alexius Meinong";
 "Franz Brentano" -> "Kazimierz Twardowski";
-"Franz Brentano" -> "Tomáš Garrigue Masaryk";
+"Franz Brentano" -> "Tomas Garrigue Masaryk";
 "Franz Brentano" -> "Sigmund Freud";
 "Henry Sidgwick" -> "Alfred Marshall";
 "Henry Sidgwick" -> "Mordecai Kaplan";
@@ -1402,7 +1402,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "William James" -> "Edwin Holt";
 "William James" -> "F. C. S. Schiller";
 "William James" -> "Richard Rorty";
-"William James" -> "Émile Durkheim";
+"William James" -> "Emile Durkheim";
 "William James" -> "Bertrand Russell";
 "William James" -> "George Santayana";
 "William James" -> "Henri Bergson";
@@ -1437,7 +1437,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Wilhelm Windelband" -> "Ernst Troeltsch";
 "Carl Stumpf" -> "Kurt Lewin";
 "Carl Stumpf" -> "Kurt Koffka";
-"Carl Stumpf" -> "Wolfgang Köhler";
+"Carl Stumpf" -> "Wolfgang Kohler";
 "Hans Vaihinger" -> "George Kelly  psychologist ";
 "Hans Vaihinger" -> "Alfred Adler";
 "Hans Vaihinger" -> "Hans Kelsen";
@@ -1446,13 +1446,13 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Mitrofan Lodyzhensky" -> "P. D. Ouspensky";
 "Alexius Meinong" -> "Edward N. Zalta";
 "Alexius Meinong" -> "Ernst Mally";
-"Alexius Meinong" -> "Roderick Chisholm";
+"Alexius Meinong" -> "RodErick Chisholm";
 "Alexius Meinong" -> "Terence Parsons";
 "Alexius Meinong" -> "Panayot Butchvarov";
 "Alexius Meinong" -> "Graham Priest";
 "Alexius Meinong" -> "Bertrand Russell";
-"Alexius Meinong" -> "Richard Hönigswald";
-"Alexius Meinong" -> "Héctor-Neri Castañeda";
+"Alexius Meinong" -> "Richard Honigswald";
+"Alexius Meinong" -> "Hector-Neri Castaneda";
 "Vladimir Solovyov  philosopher " -> "Nikolai Berdyaev";
 "Vladimir Solovyov  philosopher " -> "Pavel Florensky";
 "Vladimir Solovyov  philosopher " -> "Alexander Blok";
@@ -1501,13 +1501,13 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Ferdinand de Saussure" -> "Sebastian Shaumyan";
 "Ferdinand de Saussure" -> "William Labov";
 "Ferdinand de Saussure" -> "Louis Althusser";
-"Ferdinand de Saussure" -> "Claude Lévi-Strauss";
+"Ferdinand de Saussure" -> "Claude Levi-Strauss";
 "Ferdinand de Saussure" -> "Antoine Meillet";
 "Ferdinand de Saussure" -> "Jacques Derrida";
 "Ferdinand de Saussure" -> "Michel Foucault";
-"Ferdinand de Saussure" -> "Émile Benveniste";
+"Ferdinand de Saussure" -> "Emile Benveniste";
 "Ferdinand de Saussure" -> "Jan Mukarovský";
-"Georg Simmel" -> "György Lukács";
+"Georg Simmel" -> "Gyorgy Lukacs";
 "Georg Simmel" -> "Lewis A. Coser";
 "Georg Simmel" -> "Harrison White";
 "Georg Simmel" -> "Barry Wellman";
@@ -1519,7 +1519,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Edmund Husserl" -> "Emmanuel Levinas";
 "Edmund Husserl" -> "Rudolf Carnap";
 "Edmund Husserl" -> "Jean-Paul Sartre";
-"Edmund Husserl" -> "Kurt Gödel";
+"Edmund Husserl" -> "Kurt Godel";
 "Edmund Husserl" -> "Edith Stein";
 "Edmund Husserl" -> "Martin Heidegger";
 "Edmund Husserl" -> "Maurice Merleau-Ponty";
@@ -1536,9 +1536,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Edmund Husserl" -> "Marvin Farber";
 "Edmund Husserl" -> "Roman Ingarden";
 "Edmund Husserl" -> "Shaun Gallagher";
-"Edmund Husserl" -> "José Ortega y Gasset";
+"Edmund Husserl" -> "Jose Ortega y Gasset";
 "Edmund Husserl" -> "Leszek Kolakowski";
-"Edmund Husserl" -> "Hans Köchler";
+"Edmund Husserl" -> "Hans Kochler";
 "Edmund Husserl" -> "Dallas Willard";
 "Edmund Husserl" -> "Max Scheler";
 "Edmund Husserl" -> "Jacques Derrida";
@@ -1550,8 +1550,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "John Dewey" -> "Thorstein Veblen";
 "Alejandro Korn" -> "Francisco Romero  philosopher ";
 "Alejandro Korn" -> "Luis Aznar";
-"Alejandro Korn" -> "Juan José Arévalo";
-"Alejandro Korn" -> "Pedro Henríquez Ureña";
+"Alejandro Korn" -> "Juan Jose Arevalo";
+"Alejandro Korn" -> "Pedro Henriquez Urena";
 "Alejandro Korn" -> "Ángel Vasallo";
 "Alejandro Korn" -> "Risieri Frondizi";
 "Rudolf Steiner" -> "Albert Schweitzer";
@@ -1574,13 +1574,13 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Rudolf Steiner" -> "Valentin Tomberg";
 "Rudolf Steiner" -> "Wassily Kandinsky";
 "Rudolf Steiner" -> "Wassily Kandinsky";
-"Rudolf Steiner" -> "Édouard Schuré";
-"Rudolf Steiner" -> "Édouard Schuré";
+"Rudolf Steiner" -> "edouard Schure";
+"Rudolf Steiner" -> "edouard Schure";
 "Han Ryner" -> "Iniciales";
 "Han Ryner" -> "Michel Onfray";
 "Han Ryner" -> "Maria Lacerda de Moura";
 "Han Ryner" -> "La Revista Blanca";
-"Pierre Duhem" -> "Émile Jouguet";
+"Pierre Duhem" -> "Emile Jouguet";
 "Pierre Duhem" -> "Thomas Kuhn";
 "Pierre Duhem" -> "John Worrall  philosopher ";
 "Pierre Duhem" -> "Stephen Menn";
@@ -1643,7 +1643,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Alfred North Whitehead" -> "Charles Hartshorne";
 "Alfred North Whitehead" -> "Dorothy Emmet";
 "Alfred North Whitehead" -> "Milic Capek";
-"Alfred North Whitehead" -> "Ervin László";
+"Alfred North Whitehead" -> "Ervin Laszlo";
 "Alfred North Whitehead" -> "Jean Ladrière";
 "Georges Palante" -> "Renzo Novatore";
 "Georges Palante" -> "Michel Onfray";
@@ -1651,7 +1651,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Georges Palante" -> "Albert Camus";
 "Georges Palante" -> "Jean Grenier";
 "George Herbert Mead" -> "Herbert Blumer";
-"George Herbert Mead" -> "Jürgen Habermas";
+"George Herbert Mead" -> "Jurgen Habermas";
 "George Herbert Mead" -> "John Dewey";
 "Heinrich Rickert" -> "George Vernadsky";
 "Heinrich Rickert" -> "Martin Heidegger";
@@ -1663,8 +1663,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Charles Cooley" -> "Herbert Blumer";
 "F. C. S. Schiller" -> "Larry Laudan";
 "F. C. S. Schiller" -> "William James";
-"Abdulhakim Arvasi" -> "Necip Fazil Kisakürek";
-"Abdulhakim Arvasi" -> "Hüseyin Hilmi Isik";
+"Abdulhakim Arvasi" -> "Necip Fazil Kisakurek";
+"Abdulhakim Arvasi" -> "Huseyin Hilmi Isik";
 "George Gurdjieff" -> "Colin Wilson";
 "George Gurdjieff" -> "Frank Lloyd Wright";
 "George Gurdjieff" -> "Jean Toomer";
@@ -1689,17 +1689,17 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "George Gurdjieff" -> "Maurice Nicoll";
 "George Gurdjieff" -> "P. D. Ouspensky";
 "George Gurdjieff" -> "Thomas de Hartmann";
-"George Gurdjieff" -> "Moshé Feldenkrais";
-"George Gurdjieff" -> "René Daumal";
+"George Gurdjieff" -> "Moshe Feldenkrais";
+"George Gurdjieff" -> "Rene Daumal";
 "J. M. E. McTaggart" -> "Michael Dummett";
 "J. M. E. McTaggart" -> "Peter Geach";
 "Lev Shestov" -> "D. H. Lawrence";
 "Benedetto Croce" -> "Antonio Gramsci";
 "Benedetto Croce" -> "R. G. Collingwood";
 "Benedetto Croce" -> "Giovanni Gentile";
-"Benedetto Croce" -> "José Carlos Mariátegui";
+"Benedetto Croce" -> "Jose Carlos Mariategui";
 "Charles Maurras" -> "Charles de Gaulle";
-"Edward Abramowski" -> "Augustyn Wróblewski";
+"Edward Abramowski" -> "Augustyn Wroblewski";
 "Henri Bourassa" -> "Lionel Groulx";
 "Henri Bourassa" -> "Ernest Lapointe";
 "Emma Goldman" -> "Margaret Sanger";
@@ -1714,17 +1714,17 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Nikolai Berdyaev" -> "Richard Kroner";
 "Nikolai Berdyaev" -> "Jacques Ellul";
 "Nikolai Berdyaev" -> "Aldous Huxley";
-"Nikolai Berdyaev" -> "Davor Džalto";
+"Nikolai Berdyaev" -> "Davor Dzalto";
 "Ernst Cassirer" -> "Leo Strauss";
 "Ernst Cassirer" -> "Susanne Langer";
 "Ernst Cassirer" -> "Wilbur Marshall Urban";
 "Max Scheler" -> "Martin Heidegger";
 "Max Scheler" -> "Martin Buber";
-"Max Scheler" -> "José Ortega y Gasset";
+"Max Scheler" -> "Jose Ortega y Gasset";
 "Giovanni Gentile" -> "Benito Mussolini";
 "Giovanni Gentile" -> "Benedetto Croce";
 "Giovanni Gentile" -> "Ugo Spirito";
-"Emil Lask" -> "György Lukács";
+"Emil Lask" -> "Gyorgy Lukacs";
 "Emil Lask" -> "Martin Heidegger";
 "Emil Lask" -> "Lucien Goldmann";
 "Emil Lask" -> "Eugen Herrigel";
@@ -1770,11 +1770,11 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Ion Dragoumis" -> "Eleftherios Venizelos";
 "Ion Dragoumis" -> "Odysseas Elytis";
 "Ion Dragoumis" -> "Odysseas Elytis";
-"Helena Roerich" -> "Yuli Vorontsov";
-"Helena Roerich" -> "Alexey Okladnikov";
-"Helena Roerich" -> "A. L. Janshin";
-"Helena Roerich" -> "Lyudmila Zhivkova";
-"Helena Roerich" -> "Ivan Yefremov";
+"Helena RoErich" -> "Yuli Vorontsov";
+"Helena RoErich" -> "Alexey Okladnikov";
+"Helena RoErich" -> "A. L. Janshin";
+"Helena RoErich" -> "Lyudmila Zhivkova";
+"Helena RoErich" -> "Ivan Yefremov";
 "Muhammad Sirajuddin Naqshbandi" -> "Muhammad Tahir";
 "Muhammad Sirajuddin Naqshbandi" -> "Fazal Ali Qureshi";
 "Husain Ahmad Madani" -> "Jamiat Ulema-e-Hind";
@@ -1797,7 +1797,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jacques Maritain" -> "John F. X. Knasas";
 "Nicolai Hartmann" -> "Jitendra Nath Mohanty";
 "Nicolai Hartmann" -> "Max Scheler";
-"Moritz Schlick" -> "Kurt Gödel";
+"Moritz Schlick" -> "Kurt Godel";
 "Moritz Schlick" -> "Herbert Feigl";
 "Moritz Schlick" -> "Vienna Circle";
 "Moritz Schlick" -> "Albert Blumberg";
@@ -1807,26 +1807,26 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Karl Jaspers" -> "Martin Heidegger";
 "Karl Jaspers" -> "Paul Ricœur";
 "Clarence Irving Lewis" -> "Willard Van Orman Quine";
-"Clarence Irving Lewis" -> "Roderick Chisholm";
+"Clarence Irving Lewis" -> "RodErick Chisholm";
 "Clarence Irving Lewis" -> "Nelson Goodman";
 "Clarence Irving Lewis" -> "Robert Paul Wolff";
-"Clarence Irving Lewis" -> "Roderick Firth";
+"Clarence Irving Lewis" -> "RodErick Firth";
 "Clarence Irving Lewis" -> "William Frankena";
 "Jun Tsuji" -> "Noe Ito";
 "Jun Tsuji" -> "Eisuke Yoshiyuki";
 "Gaston Bachelard" -> "Don Ihde";
 "Gaston Bachelard" -> "Thomas Kuhn";
-"Gaston Bachelard" -> "Alexandre Koyré";
+"Gaston Bachelard" -> "Alexandre Koyre";
 "Gaston Bachelard" -> "Georges Canguilhem";
 "Gaston Bachelard" -> "Louis Althusser";
 "Gaston Bachelard" -> "Cornelius Castoriadis";
 "Gaston Bachelard" -> "Michel Serres";
 "Gaston Bachelard" -> "Michel Foucault";
 "Gaston Bachelard" -> "Dominique Lecourt";
-"Gaston Bachelard" -> "François Dagognet";
+"Gaston Bachelard" -> "Francois Dagognet";
 "Zechariah Chafee" -> "Oliver Wendell Holmes, Jr.";
 "Ernst Bloch" -> "Ernesto Balducci";
-"Ernst Bloch" -> "Jürgen Moltmann";
+"Ernst Bloch" -> "Jurgen Moltmann";
 "Wilfred Talbot Smith" -> "Jack Parsons  rocket engineer ";
 "Karl Korsch" -> "Bertolt Brecht";
 "Karl Korsch" -> "New Left";
@@ -1849,7 +1849,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Taha Hussein" -> "Tahar Ben Jelloun";
 "Gabriel Marcel" -> "Pierre Boutang";
 "Tetsuro Watsuji" -> "Yasuo Yuasa";
-"Xavier Zubiri" -> "Ignacio Ellacuría";
+"Xavier Zubiri" -> "Ignacio Ellacuria";
 "Ludwig Wittgenstein" -> "Rudolf Carnap";
 "Ludwig Wittgenstein" -> "Saul Kripke";
 "Ludwig Wittgenstein" -> "Alan Turing";
@@ -1868,17 +1868,17 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Ludwig Wittgenstein" -> "Anthony Kenny";
 "Ludwig Wittgenstein" -> "Bertrand Russell";
 "Ludwig Wittgenstein" -> "John Searle";
-"Hans Lipps" -> "Knud Ejler Løgstrup";
+"Hans Lipps" -> "Knud Ejler Logstrup";
 "Renzo Novatore" -> "Bruno Filippi";
 "Renzo Novatore" -> "Wolfi Landstreicher";
 "Renzo Novatore" -> "Severino Di Giovanni";
-"Rudolf Carnap" -> "Kurt Gödel";
+"Rudolf Carnap" -> "Kurt Godel";
 "Rudolf Carnap" -> "Willard Van Orman Quine";
 "Rudolf Carnap" -> "Thomas Kuhn";
 "Rudolf Carnap" -> "Nelson Goodman";
 "Hans Reichenbach" -> "Vienna Circle";
 "Hans Reichenbach" -> "Berlin Circle";
-"Edwin Arthur Burtt" -> "Alexandre Koyré";
+"Edwin Arthur Burtt" -> "Alexandre Koyre";
 "Walter Benjamin" -> "Theodor W. Adorno";
 "Muhammad Husayn Tabataba'i" -> "Abdollah Javadi-Amoli";
 "Muhammad Husayn Tabataba'i" -> "Hossein Nasr";
@@ -1895,7 +1895,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Muhammad Husayn Tabataba'i" -> "Musa al-Sadr";
 "Roman Ingarden" -> "Wolfgang Iser";
 "Roman Ingarden" -> "Anna-Teresa Tymieniecka";
-"Roman Ingarden" -> "René Wellek";
+"Roman Ingarden" -> "Rene Wellek";
 "John Anderson  philosopher " -> "Eugene Kamenka";
 "John Anderson  philosopher " -> "David Stove";
 "John Anderson  philosopher " -> "John Passmore";
@@ -1913,7 +1913,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Max Horkheimer" -> "Theodor W. Adorno";
 "Max Horkheimer" -> "Erich Fromm";
 "Max Horkheimer" -> "Herbert Marcuse";
-"Max Horkheimer" -> "Jürgen Habermas";
+"Max Horkheimer" -> "Jurgen Habermas";
 "Max Horkheimer" -> "Walter Benjamin";
 "Mikhail Bakhtin" -> "Tzvetan Todorov";
 "Mikhail Bakhtin" -> "Julia Kristeva";
@@ -1931,7 +1931,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Roman Jakobson" -> "Giorgio Agamben";
 "Roman Jakobson" -> "Morris Halle";
 "Roman Jakobson" -> "Nicolas Ruwet";
-"Roman Jakobson" -> "Claude Lévi-Strauss";
+"Roman Jakobson" -> "Claude Levi-Strauss";
 "Roman Jakobson" -> "Dell Hymes";
 "Tan Malaka" -> "Adam Malik";
 "Tan Malaka" -> "Chairul Saleh";
@@ -1950,15 +1950,15 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Herbert Marcuse" -> "Peter Lamborn Wilson";
 "Herbert Marcuse" -> "Norman O. Brown";
 "Herbert Marcuse" -> "Douglas Kellner";
-"Herbert Marcuse" -> "Jürgen Habermas";
-"Xavier Zubiri" -> "Ignacio Ellacuría";
+"Herbert Marcuse" -> "Jurgen Habermas";
+"Xavier Zubiri" -> "Ignacio Ellacuria";
 "Peter Wessel Zapffe" -> "Thomas Ligotti";
 "Leo Strauss" -> "Peter Berkowitz";
 "Zaki al-Arsuzi" -> "Hafez al-Assad";
 "Zaki al-Arsuzi" -> "Salah Jadid";
 "Zaki al-Arsuzi" -> "Salah al-Din al-Bitar";
 "Zaki al-Arsuzi" -> "Michel Aflaq";
-"Hans-Georg Gadamer" -> "Jürgen Habermas";
+"Hans-Georg Gadamer" -> "Jurgen Habermas";
 "Herbert Blumer" -> "Anselm Strauss";
 "Herbert Blumer" -> "Erving Goffman";
 "Muhammad Asad" -> "Constitution of Pakistan";
@@ -1983,16 +1983,16 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gilbert Ryle" -> "John Searle";
 "Gilbert Ryle" -> "R. M. Hare";
 "Gilbert Ryle" -> "Richard Webster  British author ";
-"Jacques Lacan" -> "Slavoj Žižek";
+"Jacques Lacan" -> "Slavoj Zizek";
 "Jacques Lacan" -> "Julia Kristeva";
-"Jacques Lacan" -> "Éric Laurent";
+"Jacques Lacan" -> "Eric Laurent";
 "Jacques Lacan" -> "Alain Badiou";
 "Jacques Lacan" -> "Jacques-Alain Miller";
 "Jacques Lacan" -> "Lacanian movement";
 "Jacques Lacan" -> "Ljubljana school of psychoanalysis";
 "Jacques Lacan" -> "Luce Irigaray";
 "Jacques Lacan" -> "Louis Althusser";
-"Jacques Lacan" -> "Élisabeth Roudinesco";
+"Jacques Lacan" -> "Elisabeth Roudinesco";
 "Ernest Nagel" -> "Douglas Hofstadter";
 "Ernest Nagel" -> "Mario Bunge";
 "Ernest Nagel" -> "Patrick Suppes";
@@ -2017,14 +2017,14 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gordon Clark" -> "Robert L. Reymond";
 "Gordon Clark" -> "Carl F. H. Henry";
 "Lon L. Fuller" -> "Ronald Dworkin";
-"Lon L. Fuller" -> "Ian Roderick Macneil";
-"Theodor W. Adorno" -> "Jürgen Habermas";
+"Lon L. Fuller" -> "Ian RodErick Macneil";
+"Theodor W. Adorno" -> "Jurgen Habermas";
 "Frank P. Ramsey" -> "Susan Haack";
 "Frank P. Ramsey" -> "Ludwig Wittgenstein";
-"Frank P. Ramsey" -> "Iván Werning";
+"Frank P. Ramsey" -> "Ivan Werning";
 "Hans Jonas" -> "Hannah Arendt";
 "Hans Jonas" -> "Murray Bookchin";
-"Hans Jonas" -> "Vittorio Hösle";
+"Hans Jonas" -> "Vittorio Hosle";
 "Hans Jonas" -> "Harold Bloom";
 "Hans Jonas" -> "Leon Kass";
 "Hans Jonas" -> "Eric Voegelin";
@@ -2055,7 +2055,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Georges Canguilhem" -> "Pierre Bourdieu";
 "Georges Canguilhem" -> "Dominique Lecourt";
 "Georges Canguilhem" -> "Arnold Davidson";
-"Georges Canguilhem" -> "François Dagognet";
+"Georges Canguilhem" -> "Francois Dagognet";
 "Amin Ahsan Islahi" -> "Al-Ghamdi";
 "Amin Ahsan Islahi" -> "Khalid Masud";
 "Antoun Saadeh" -> "Hafez al-Assad";
@@ -2075,7 +2075,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Raymond Aron" -> "Zbigniew Brzezinski";
 "Raymond Aron" -> "Henry Kissinger";
 "Raymond Aron" -> "Jean-Claude Casanova";
-"Raymond Aron" -> "André Glucksmann";
+"Raymond Aron" -> "Andre Glucksmann";
 "Jean Gebser" -> "Ralph Abraham";
 "Jean Gebser" -> "Rudolf Bahro";
 "Jean Gebser" -> "Georg Feuerstein";
@@ -2087,7 +2087,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Jean Gebser" -> "Ken Wilber";
 "Emmanuel Levinas" -> "Avital Ronell";
 "Emmanuel Levinas" -> "Jean-Paul Sartre";
-"Emmanuel Levinas" -> "André Glucksmann";
+"Emmanuel Levinas" -> "Andre Glucksmann";
 "Hannah Arendt" -> "Mario Kopic";
 "Hannah Arendt" -> "Julia Kristeva";
 "Hannah Arendt" -> "Elisabeth Young-Bruehl";
@@ -2118,7 +2118,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Willard Van Orman Quine" -> "Gilbert Harman";
 "Willard Van Orman Quine" -> "Roger F. Gibson, Jr.";
 "Willard Van Orman Quine" -> "Hao Wang  academic ";
-"Willard Van Orman Quine" -> "Dagfinn Føllesdal";
+"Willard Van Orman Quine" -> "Dagfinn Follesdal";
 "Hamka" -> "Muhammadiyah";
 "Simone Weil" -> "Anne Carson";
 "Simone Weil" -> "Flannery O'Connor";
@@ -2131,9 +2131,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Simone Weil" -> "Albert Camus";
 "Simone Weil" -> "Iris Murdoch";
 "Simone Weil" -> "Cornel West";
-"Simone Weil" -> "János Pilinszky";
+"Simone Weil" -> "Janos Pilinszky";
 "Isaiah Berlin" -> "Joxe Azurmendi";
-"Norberto Bobbio" -> "José Guilherme Merquior";
+"Norberto Bobbio" -> "Jose Guilherme Merquior";
 "A. J. Ayer" -> "R. M. Hare";
 "Marshall McLuhan" -> "Abbie Hoffman";
 "Marshall McLuhan" -> "Wired  magazine ";
@@ -2195,7 +2195,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Peter Geach" -> "Alasdair MacIntyre";
 "Peter Geach" -> "G. E. M. Anscombe";
 "Peter Geach" -> "Anthony Kenny";
-"Roderick Chisholm" -> "Richard Taylor  philosopher ";
+"RodErick Chisholm" -> "Richard Taylor  philosopher ";
 "J. L. Mackie" -> "Colin MacLeod  philosopher ";
 "J. L. Mackie" -> "Richard Joyce  philosopher ";
 "J. L. Mackie" -> "Michael Martin  philosopher ";
@@ -2220,7 +2220,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "P. F. Strawson" -> "Joshua Knobe";
 "P. F. Strawson" -> "David Lewis  philosopher ";
 "P. F. Strawson" -> "Colin McGinn";
-"P. F. Strawson" -> "Ted Honderich";
+"P. F. Strawson" -> "Ted HondErich";
 "P. F. Strawson" -> "Ramchandra Gandhi";
 "P. F. Strawson" -> "Robert Hanna  philosopher ";
 "P. F. Strawson" -> "Martin Hollis  philosopher ";
@@ -2255,7 +2255,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Imre Lakatos" -> "Nancey Murphy";
 "Imre Lakatos" -> "John Worrall  philosopher ";
 "Thomas Kuhn" -> "Philosophy of science";
-"Karl-Otto Apel" -> "Vittorio Hösle";
+"Karl-Otto Apel" -> "Vittorio Hosle";
 "Karl-Otto Apel" -> "Hans-Hermann Hoppe";
 "Pierre Hadot" -> "Arnold Davidson";
 "Cornelius Castoriadis" -> "Francisco Varela";
@@ -2295,18 +2295,18 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Cornelius Castoriadis" -> "Jonathan Nitzan";
 "Cornelius Castoriadis" -> "Shimshon Bichler";
 "Cornelius Castoriadis" -> "Jacques Le Goff";
-"Cornelius Castoriadis" -> "René Lourau";
+"Cornelius Castoriadis" -> "Rene Lourau";
 "Cornelius Castoriadis" -> "Laurent Van Eynde";
 "Cornelius Castoriadis" -> "Sophie Klimis";
 "Cornelius Castoriadis" -> "Vincent de Gaulejac";
 "Cornelius Castoriadis" -> "Danilo Martuccelli";
 "Cornelius Castoriadis" -> "Frieder Otto Wolf";
-"Cornelius Castoriadis" -> "François Roustang";
-"Cornelius Castoriadis" -> "Jean-Claude Michéa";
-"Cornelius Castoriadis" -> "Johann Pál Arnason";
-"Cornelius Castoriadis" -> "Raphaël Gély";
+"Cornelius Castoriadis" -> "Francois Roustang";
+"Cornelius Castoriadis" -> "Jean-Claude Michea";
+"Cornelius Castoriadis" -> "Johann Pal Arnason";
+"Cornelius Castoriadis" -> "Raphael Gely";
 "Patrick Suppes" -> "Wolfgang Balzer";
-"Sheldon Wolin" -> "Frederick M. Dolan";
+"Sheldon Wolin" -> "FredErick M. Dolan";
 "Sheldon Wolin" -> "Chris Hedges";
 "Sheldon Wolin" -> "Michael Lerner  rabbi ";
 "Sheldon Wolin" -> "John Schaar";
@@ -2333,7 +2333,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Kostas Axelos" -> "Henri Lefebvre";
 "Kostas Axelos" -> "Jacques Derrida";
 "Arthur Danto" -> "George Dickie  philosopher ";
-"Arthur Danto" -> "Noël Carroll";
+"Arthur Danto" -> "Noel Carroll";
 "Michael Dummett" -> "Gareth Evans  philosopher ";
 "Gilles Deleuze" -> "Antonio Negri";
 "Gilles Deleuze" -> "Bernard Stiegler";
@@ -2348,11 +2348,11 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gilles Deleuze" -> "Pierre Klossowski";
 "Gilles Deleuze" -> "William E. Connolly";
 "Gilles Deleuze" -> "Michael Hardt";
-"Gilles Deleuze" -> "Félix Guattari";
+"Gilles Deleuze" -> "Felix Guattari";
 "Gilles Deleuze" -> "Michel Foucault";
 "Ernest Gellner" -> "John A. Hall";
 "Ernest Gellner" -> "Anthony D. Smith";
-"Ernest Gellner" -> "José Guilherme Merquior";
+"Ernest Gellner" -> "Jose Guilherme Merquior";
 "John B. Cobb" -> "Bruce G. Epperly";
 "John B. Cobb" -> "Monica Coleman";
 "John B. Cobb" -> "Roland Faber";
@@ -2379,7 +2379,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Ivan Illich" -> "John Zerzan";
 "Ivan Illich" -> "Kevin Carson";
 "Ivan Illich" -> "Everett Reimer";
-"Ivan Illich" -> "André Gorz";
+"Ivan Illich" -> "Andre Gorz";
 "Ivan Illich" -> "Lee Felsenstein";
 "Stanley Cavell" -> "Hilary Putnam";
 "Stanley Cavell" -> "Terrence Malick";
@@ -2438,7 +2438,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Noam Chomsky" -> "Morris Halle";
 "Noam Chomsky" -> "Niels Kaj Jerne";
 "Noam Chomsky" -> "Edward Said";
-"Noam Chomsky" -> "Hugo Chávez";
+"Noam Chomsky" -> "Hugo Chavez";
 "Noam Chomsky" -> "Aaron Swartz";
 "Noam Chomsky" -> "Amy Goodman";
 "Noam Chomsky" -> "John Searle";
@@ -2456,8 +2456,8 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Alasdair MacIntyre" -> "Postliberal theology";
 "Bernard Williams" -> "Martha Nussbaum";
 "Jean Baudrillard" -> "Giannina Braschi";
-"Roy Johnston" -> "Sinn Féin";
-"Roy Johnston" -> "Tomás Mac Giolla";
+"Roy Johnston" -> "Sinn Fein";
+"Roy Johnston" -> "Tomas Mac Giolla";
 "Harry Frankfurt" -> "J. David Velleman";
 "Harry Frankfurt" -> "Susan R. Wolf";
 "Hubert Dreyfus" -> "Richard Rorty";
@@ -2471,8 +2471,6 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Allan Bloom" -> "Francis Fukuyama";
 "Allan Bloom" -> "Thomas Pangle";
 "Allan Bloom" -> "Harvey Mansfield";
-"Allan Bloom" -> "http://www.bc.edu/schools/cas/polisci/facstaff/manent/";
-"Allan Bloom" -> "http://www.claremont.org/scholars/id.397/scholar.asp";
 "Allan Bloom" -> "Alan Keyes";
 "Luce Irigaray" -> "Judith Butler";
 "Luce Irigaray" -> "Catherine Malabou";
@@ -2485,9 +2483,9 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Michel Serres" -> "Isabelle Stengers";
 "Michel Serres" -> "Ilya Prigogine";
 "Michel Serres" -> "Steven Connor";
-"Michel Serres" -> "Pierre Lévy";
+"Michel Serres" -> "Pierre Levy";
 "Jacques Derrida" -> "Gayatri Chakravorty Spivak";
-"Pierre Bourdieu" -> "Loïc Wacquant";
+"Pierre Bourdieu" -> "Loic Wacquant";
 "Frithjof Bergmann" -> "Anthony Weston";
 "Frithjof Bergmann" -> "Robert C. Solomon";
 "Guy Debord" -> "May 1968 events in France";
@@ -2532,7 +2530,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Antonio Negri" -> "Michael Hardt";
 "Don Ihde" -> "Lucas Introna";
 "Pierre Clastres" -> "Gilles Deleuze";
-"Fredric Jameson" -> "Slavoj Žižek";
+"Fredric Jameson" -> "Slavoj Zizek";
 "Evandro Agazzi" -> "Carlo Penco";
 "Raoul Vaneigem" -> "May 1968 events in France";
 "Raoul Vaneigem" -> "Post-left anarchy";
@@ -2545,7 +2543,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Michael Walzer" -> "Michael W. Doyle";
 "Michael Walzer" -> "Amy Gutmann";
 "Michael Walzer" -> "Jean Bethke Elshtain";
-"Ernesto Laclau" -> "Slavoj Žižek";
+"Ernesto Laclau" -> "Slavoj Zizek";
 "Edward Said" -> "Robert Fisk";
 "Edward Said" -> "Homi K. Bhabha";
 "Edward Said" -> "Gayatri Chakravorty Spivak";
@@ -2561,7 +2559,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Gianni Vattimo" -> "Richard Rorty";
 "Gianni Vattimo" -> "Lorenzo Ferrero";
 "Gianni Vattimo" -> "Stefan Lorenz Sorgner";
-"Alain Badiou" -> "Slavoj Žižek";
+"Alain Badiou" -> "Slavoj Zizek";
 "Alain Badiou" -> "Oliver Feltham";
 "Alain Badiou" -> "Bruno Bosteels";
 "Alain Badiou" -> "Simon Critchley";
@@ -2575,7 +2573,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Alain Badiou" -> "Ray Brassier";
 "Alain Badiou" -> "Justin Clemens";
 "Arthur Fine" -> "Nancy Cartwright  philosopher ";
-"Robert Nozick" -> "Roderick T. Long";
+"Robert Nozick" -> "RodErick T. Long";
 "David B. Zilberman" -> "Alexander Piatigorsky";
 "Joseph Raz" -> "John Gardner  lawyer ";
 "Kendall Walton" -> "Stephen Yablo";
@@ -2639,7 +2637,7 @@ node [shape=plaintext, fontsize=29.6610169491526];{
 "Predrag Finci" -> "Rainer Maria Rilke";
 "Gillian Rose" -> "John Milbank";
 "Gillian Rose" -> "Rowan Williams";
-"Gillian Rose" -> "Slavoj Žižek";
+"Gillian Rose" -> "Slavoj Zizek";
 "Gillian Rose" -> "Geoffrey Hill";
 "Peter Sloterdijk" -> "Bruno Latour";
 "Peter Sloterdijk" -> "Marc Jongen";

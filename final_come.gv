@@ -326,7 +326,7 @@ node [shape=plaintext, fontsize=24.6666666666667];{
 "Lewis Black" -> "Ralph Garman";
 "Lewis Black" -> "Jimmy Fallon";
 "Lewis Black" -> "That Guy with the Glasses";
-"Lewis Black" -> "Dara Ó Briain";
+"Lewis Black" -> "Dara O Briain";
 "John Belushi" -> "Chris Farley";
 "John Belushi" -> "Horatio Sanz";
 "John Belushi" -> "Artie Lange";
@@ -375,7 +375,7 @@ node [shape=plaintext, fontsize=24.6666666666667];{
 "Paul Merton" -> "Sean Lock";
 "Paul Merton" -> "Ricky Gervais";
 "Paul Merton" -> "Neil Mullarkey";
-"Paul Merton" -> "Dara Ó Briain";
+"Paul Merton" -> "Dara O Briain";
 "Rik Mayall" -> "Simon Pegg";
 "Rik Mayall" -> "Kevin Bridges";
 "Rik Mayall" -> "Jason Manford";
@@ -420,7 +420,7 @@ node [shape=plaintext, fontsize=24.6666666666667];{
 "Eddie Izzard" -> "Sean Lock";
 "Eddie Izzard" -> "Hal Sparks";
 "Eddie Izzard" -> "Harry Hill";
-"Eddie Izzard" -> "Dara Ó Briain";
+"Eddie Izzard" -> "Dara O Briain";
 "Armando Iannucci" -> "Iain Morris";
 "Armando Iannucci" -> "John Oliver ";
 "Armando Iannucci" -> "Steve Coogan";
