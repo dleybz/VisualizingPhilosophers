@@ -1,8 +1,8 @@
 ###This program converts a slightly-modified JSON file obtained from sparql (a Wikipedia database query tool) to a .dot file, with formatting obtained from page 17 of http://www.graphviz.org/pdf/dotguide.pdf
 
 setwd("C:/Users/Daniel/Documents/GitHub/VisualizingPhilosophers")
-in_file = 'comedians.json'
-out_file = 'final_come.gv'
+in_file = 'philosophers.json'
+out_file = 'final_philo.gv'
 font_size=40
 
 ##Packages:
