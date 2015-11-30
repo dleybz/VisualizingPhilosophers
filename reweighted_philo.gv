@@ -10,7 +10,7 @@ node [shape=plaintext, fontsize=16];
  node [shape=plaintext, fontsize=1.77777777777778];{
 "Thales"; "Democritus"; "Aristippus"; "Speusippus"; "Arcesilaus"; "Carneades"; "Panaetius"; "Leucippus"; "Epictetus"; "Porphyry  philosopher "; "Iamblichus"; "Boethius"; "Al-Kindi"; "Bayazid Bastami"; "Dawud al-Zahiri"; "Cheng Yi  philosopher "; "Peter Abelard"; "Meister Eckhart"; "John Wycliffe"; "John Colet"; "Mulla Sadra"; "Gabriel Wagner"; "Bernard Mandeville"; "Alexander Gottlieb Baumgarten"; "Immanuel Kant"; "Moses Mendelssohn"; "Hong Dae-yong"; "Johannes Nikolaus Tetens"; "Ghulam Ali Dihlawi"; "Johann Gottfried Herder"; "Jeremy Bentham"; "Joseph de Maistre"; "Christian Jakob Kraus"; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; "Maine de Biran"; "Georg Wilhelm Friedrich Hegel"; "James Mill"; "Josiah Warren"; "Johann Gustav Droysen"; "Victor Prosper Considerant"; "Charles Bernard Renouvier"; "George Boole"; "August Schleicher"; "Kuno Fischer"; "Friedrich Albert Lange"; "Joseph Dietzgen"; "August Leskien"; "George Sylvester Morris"; "Richard Avenarius"; "Antonio Labriola"; "Friedrich Nietzsche"; "Carl Stumpf"; "Hans Vaihinger"; "Vladimir Solovyov  philosopher "; "Shibli Nomani"; "Henri Bergson"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Georges Palante"; "George Santayana"; "F. C. S. Schiller"; "Benedetto Croce"; "Nikolay Lossky"; "Bertrand Russell"; "G. E. Moore"; "Nikolai Berdyaev"; "Ernst Cassirer"; "Giovanni Gentile"; "Emil Lask"; "W. D. Ross"; "Othmar Spann"; "Muhammad Sirajuddin Naqshbandi"; "Oswald Spengler"; "Otto Weininger"; "Jacques Maritain"; "Nicolai Hartmann"; "Kurt Koffka"; "Franz Rosenzweig"; "C. D. Broad"; "Carl Schmitt"; "Martin Heidegger"; "Walter Benjamin"; "Georges Bataille"; "Norbert Elias"; "Charles Hartshorne"; "Qalandar Baba Auliya"; "Ernest Nagel"; "Henri Lefebvre"; "Lon L. Fuller"; "Emmanuel Levinas"; "Hannah Arendt"; "Simone de Beauvoir"; "A. J. Ayer"; "Marshall McLuhan"; "Roland Barthes"; "Georg Henrik von Wright"; "Peter Geach"; "Donald Davidson  philosopher "; "Louis Althusser"; "P. F. Strawson"; "Philippa Foot"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Imre Lakatos"; "Paul Feyerabend"; "Michel Foucault"; "Dieter Henrich"; "Burton Dreben"; "Nicholas Wolterstorff"; "Pierre Clastres"; "Richard Swinburne"; "Michael Walzer"; "Gianni Vattimo"; "Alain Badiou"; "David Lewis  philosopher "; "Bas van Fraassen"; "Robert B. Pippin"; }
 node [shape=plaintext, fontsize=3.55555555555555];{
-"Anaximander"; "Confucius"; "Empedocles"; "Gorgias"; "Johannes Scotus Eriugena"; "Ibn Hazm"; "Zhou Dunyi"; "Averroes"; "William of Ockham"; "Giovanni Pico della Mirandola"; "Jean Bodin"; "Baron dHolbach"; "Edmund Burke"; "Thomas Paine"; "Friedrich Wilhelm Joseph Schelling"; "Sir William Hamilton, 9th Baronet"; "John Austin  legal philosopher "; "Giacomo Leopardi"; "Alexis de Tocqueville"; "Mikhail Bakunin"; "Henry David Thoreau"; "Herbert Spencer"; "Thomas Hill Green"; "Karl Robert Eduard von Hartmann"; "Alexius Meinong"; "Samuel Alexander"; "George Herbert Mead"; "Charles Cooley"; "J. M. E. McTaggart"; "Max Scheler"; "Martin Buber"; "Morris Raphael Cohen"; "Hans Kelsen"; "Muhammad Husayn Tabatabai"; "John Anderson  philosopher "; "Herbert Marcuse"; "Richard McKeon"; "Frank P. Ramsey"; "Hans Jonas"; "J. L. Austin"; "R. M. Hare"; "Jacob Taubes"; "Gilbert Simondon"; "Kostas Axelos"; "Ivan Illich"; "Nicholas Rescher"; "Hubert Dreyfus"; "Luce Irigaray"; "Richard Rorty"; "Alvin Plantinga"; "John D. Caputo"; }
+"Anaximander"; "Confucius"; "Empedocles"; "Gorgias"; "Johannes Scotus Eriugena"; "Ibn Hazm"; "Zhou Dunyi"; "Averroes"; "William of Ockham"; "Giovanni Pico della Mirandola"; "Jean Bodin"; "Baron d'Holbach"; "Edmund Burke"; "Thomas Paine"; "Friedrich Wilhelm Joseph Schelling"; "Sir William Hamilton, 9th Baronet"; "John Austin  legal philosopher "; "Giacomo Leopardi"; "Alexis de Tocqueville"; "Mikhail Bakunin"; "Henry David Thoreau"; "Herbert Spencer"; "Thomas Hill Green"; "Karl Robert Eduard von Hartmann"; "Alexius Meinong"; "Samuel Alexander"; "George Herbert Mead"; "Charles Cooley"; "J. M. E. McTaggart"; "Max Scheler"; "Martin Buber"; "Morris Raphael Cohen"; "Hans Kelsen"; "Muhammad Husayn Tabataba'i"; "John Anderson  philosopher "; "Herbert Marcuse"; "Richard McKeon"; "Frank P. Ramsey"; "Hans Jonas"; "J. L. Austin"; "R. M. Hare"; "Jacob Taubes"; "Gilbert Simondon"; "Kostas Axelos"; "Ivan Illich"; "Nicholas Rescher"; "Hubert Dreyfus"; "Luce Irigaray"; "Richard Rorty"; "Alvin Plantinga"; "John D. Caputo"; }
 node [shape=plaintext, fontsize=16];{
 "Heraclitus"; "Ferdinand de Saussure"; }
 node [shape=plaintext, fontsize=10.6666666666667];{
@@ -41,57 +41,92 @@ node [shape=plaintext, fontsize=21.3333333333333];{
  node [shape=plaintext, fontsize= 1.77777777777778 ]; 
   { rank = same; -624; "Thales"; }
  { rank = same; -610; "Anaximander"; }
+ { rank = same; -570; "Pythagoras"; }
  { rank = same; -551; "Confucius"; }
  { rank = same; -535; "Heraclitus"; }
  { rank = same; -515; "Parmenides"; }
+ { rank = same; -500; "Anaxagoras"; }
  { rank = same; -490; "Empedocles"; "Protagoras"; "Zeno of Elea"; }
  { rank = same; -487; "Gorgias"; }
- { rank = same; -470; "Socrates"; }
+ { rank = same; -470; "Socrates"; "Mozi"; }
  { rank = same; -460; "Democritus"; }
+ { rank = same; -445; "Antisthenes"; }
  { rank = same; -435; "Aristippus"; }
+ { rank = same; -428; "Plato"; "Archytas"; }
  { rank = same; -408; "Speusippus"; }
+ { rank = same; -396; "Xenocrates"; }
+ { rank = same; -372; "Mencius"; }
+ { rank = same; -369; "Zhuang Zhou"; }
  { rank = same; -360; "Pyrrho"; }
  { rank = same; -341; "Epicurus"; }
  { rank = same; -334; "Zeno of Citium"; }
+ { rank = same; -330; "Cleanthes"; }
  { rank = same; -316; "Arcesilaus"; }
  { rank = same; -214; "Carneades"; }
  { rank = same; -185; "Panaetius"; }
- { rank = same; 5; "Leucippus"; }
+ { rank = same; -135; "Posidonius"; }
+ { rank = same; -110; "Philodemus"; }
+ { rank = same; 5; "Pseudo-Dionysius the Areopagite"; "Leucippus"; }
+ { rank = same; 8; "Homer"; }
  { rank = same; 55; "Epictetus"; }
  { rank = same; 160; "Sextus Empiricus"; }
  { rank = same; 204; "Plotinus"; }
+ { rank = same; 210; "Theognostus of Alexandria"; }
  { rank = same; 234; "Porphyry  philosopher "; }
  { rank = same; 245; "Iamblichus"; }
+ { rank = same; 351; "Hypatia"; }
+ { rank = same; 412; "Proclus"; }
  { rank = same; 480; "Boethius"; }
+ { rank = same; 667; "Hisham ibn Urwah"; }
+ { rank = same; 776; "Al-Jahiz"; }
+ { rank = same; 778; "Ali ibn al-Madini"; }
  { rank = same; 801; "Al-Kindi"; }
  { rank = same; 804; "Bayazid Bastami"; }
  { rank = same; 815; "Johannes Scotus Eriugena"; "Dawud al-Zahiri"; }
+ { rank = same; 850; "Abu Zayd al-Balkhi"; }
+ { rank = same; 915; "Al-Mutanabbi"; }
  { rank = same; 994; "Ibn Hazm"; }
  { rank = same; 1017; "Zhou Dunyi"; }
  { rank = same; 1033; "Cheng Yi  philosopher "; }
  { rank = same; 1079; "Peter Abelard"; }
  { rank = same; 1126; "Averroes"; }
+ { rank = same; 1130; "Zhu Xi"; }
  { rank = same; 1137; "Maimonides"; }
+ { rank = same; 1256; "Yusuf ibn Abd al-Rahman al-Mizzi"; }
  { rank = same; 1260; "Meister Eckhart"; }
  { rank = same; 1266; "Duns Scotus"; }
+ { rank = same; 1274; "Al-Dhahabi"; }
  { rank = same; 1287; "William of Ockham"; }
+ { rank = same; 1292; "Ibn Qayyim Al-Jawziyya"; }
  { rank = same; 1320; "John Wycliffe"; }
+ { rank = same; 1355; "Gemistus Pletho"; }
+ { rank = same; 1369; "Jan Hus"; }
+ { rank = same; 1372; "Ibn Hajar al-Asqalani"; }
  { rank = same; 1401; "Nicholas of Cusa"; }
+ { rank = same; 1455; "Johann Reuchlin"; }
  { rank = same; 1463; "Giovanni Pico della Mirandola"; }
+ { rank = same; 1466; "Desiderius Erasmus"; }
  { rank = same; 1467; "John Colet"; }
+ { rank = same; 1493; "Paracelsus"; }
+ { rank = same; 1511; "Jakob Schegk"; }
  { rank = same; 1530; "Jean Bodin"; }
  { rank = same; 1533; "Michel de Montaigne"; }
  { rank = same; 1548; "Giordano Bruno"; }
+ { rank = same; 1550; "Cesare Cremonini  philosopher "; }
+ { rank = same; 1564; "Ahmad Sirhindi"; }
  { rank = same; 1571; "Mulla Sadra"; }
  { rank = same; 1583; "Hugo Grotius"; }
  { rank = same; 1584; "John Selden"; }
+ { rank = same; 1585; "Lucilio Vanini"; }
+ { rank = same; 1588; "Thomas Hobbes"; }
  { rank = same; 1592; "Pierre Gassendi"; }
- { rank = same; 1623; "William Petty"; }
+ { rank = same; 1619; "Yamazaki Ansai"; }
+ { rank = same; 1623; "Blaise Pascal"; "William Petty"; }
  { rank = same; 1632; "Baruch Spinoza"; "John Locke"; }
  { rank = same; 1638; "Nicolas Malebranche"; }
  { rank = same; 1646; "Gottfried Wilhelm Leibniz"; }
  { rank = same; 1647; "Pierre Bayle"; }
- { rank = same; 1659; "Damaris Cudworth Masham"; }
+ { rank = same; 1659; "Damaris Cudworth Masham"; "William Wollaston"; }
  { rank = same; 1660; "Gabriel Wagner"; }
  { rank = same; 1670; "Bernard Mandeville"; }
  { rank = same; 1679; "Christian Wolff  philosopher "; }
@@ -99,23 +134,27 @@ node [shape=plaintext, fontsize=21.3333333333333];{
  { rank = same; 1689; "Montesquieu"; }
  { rank = same; 1694; "Francis Hutcheson  philosopher "; }
  { rank = same; 1705; "David Hartley  philosopher "; }
+ { rank = same; 1709; "Julien Offray de La Mettrie"; }
  { rank = same; 1710; "Thomas Reid"; }
  { rank = same; 1711; "David Hume"; }
  { rank = same; 1712; "Jean-Jacques Rousseau"; }
- { rank = same; 1714; "Alexander Gottlieb Baumgarten"; }
- { rank = same; 1723; "Baron dHolbach"; }
+ { rank = same; 1713; "Denis Diderot"; }
+ { rank = same; 1714; "Emer de Vattel"; "Alexander Gottlieb Baumgarten"; }
+ { rank = same; 1719; "George Campbell  minister "; "William Cleghorn"; }
+ { rank = same; 1723; "Adam Smith"; "Baron d'Holbach"; "Miura Baien"; }
  { rank = same; 1724; "Immanuel Kant"; }
- { rank = same; 1729; "Moses Mendelssohn"; "Edmund Burke"; }
+ { rank = same; 1729; "Anders Chydenius"; "Moses Mendelssohn"; "Edmund Burke"; }
  { rank = same; 1730; "Johann Georg Hamann"; }
  { rank = same; 1731; "Hong Dae-yong"; }
  { rank = same; 1736; "Johannes Nikolaus Tetens"; }
- { rank = same; 1737; "Thomas Paine"; }
+ { rank = same; 1737; "Park Ji-won"; "Thomas Paine"; }
  { rank = same; 1743; "Ghulam Ali Dihlawi"; "Friedrich Heinrich Jacobi"; }
  { rank = same; 1744; "Johann Gottfried Herder"; }
- { rank = same; 1748; "Jeremy Bentham"; }
+ { rank = same; 1748; "Jeremy Bentham"; "Adam Weishaupt"; "Adamantios Korais"; }
  { rank = same; 1753; "Joseph de Maistre"; "Christian Jakob Kraus"; }
  { rank = same; 1754; "Louis Gabriel Ambroise de Bonald"; "Salomon Maimon"; }
  { rank = same; 1757; "Karl Leonhard Reinhold"; }
+ { rank = same; 1759; "Muhammad ash-Shawkani"; }
  { rank = same; 1760; "Claude Henri de Rouvroy, comte de Saint-Simon"; }
  { rank = same; 1762; "Johann Gottlieb Fichte"; }
  { rank = same; 1766; "Maine de Biran"; }
@@ -126,107 +165,152 @@ node [shape=plaintext, fontsize=21.3333333333333];{
  { rank = same; 1773; "James Mill"; }
  { rank = same; 1775; "Friedrich Wilhelm Joseph Schelling"; }
  { rank = same; 1776; "Johann Friedrich Herbart"; }
+ { rank = same; 1779; "Friedrich Carl von Savigny"; }
  { rank = same; 1781; "Bernard Bolzano"; }
- { rank = same; 1788; "Sir William Hamilton, 9th Baronet"; }
+ { rank = same; 1788; "Sir William Hamilton, 9th Baronet"; "Arthur Schopenhauer"; }
  { rank = same; 1790; "John Austin  legal philosopher "; }
+ { rank = same; 1791; "Franz Bopp"; }
  { rank = same; 1798; "Giacomo Leopardi"; "Auguste Comte"; "Josiah Warren"; }
- { rank = same; 1802; "Friedrich Adolf Trendelenburg"; }
+ { rank = same; 1802; "Rudolf Sutermeister"; "Friedrich Adolf Trendelenburg"; }
  { rank = same; 1803; "Ralph Waldo Emerson"; }
  { rank = same; 1804; "Ludwig Feuerbach"; }
  { rank = same; 1805; "Alexis de Tocqueville"; }
- { rank = same; 1806; "Max Stirner"; "John Stuart Mill"; }
+ { rank = same; 1806; "Max Stirner"; "John Stuart Mill"; "Hermann Ulrici"; }
  { rank = same; 1808; "Johann Gustav Droysen"; "Victor Prosper Considerant"; }
  { rank = same; 1809; "Bruno Bauer"; "Pierre-Joseph Proudhon"; }
  { rank = same; 1812; "Alexander Herzen"; }
  { rank = same; 1814; "Mikhail Bakunin"; "Jules Lequier"; }
  { rank = same; 1815; "Charles Bernard Renouvier"; "George Boole"; }
- { rank = same; 1817; "Hermann Lotze"; "Henry David Thoreau"; }
- { rank = same; 1820; "Herbert Spencer"; }
+ { rank = same; 1817; "Hermann Lotze"; "Syed Ahmad Khan"; "Henry David Thoreau"; }
+ { rank = same; 1818; "Rudolf von Jhering"; "Karl Marx"; }
+ { rank = same; 1820; "Friedrich Engels"; "Herbert Spencer"; }
  { rank = same; 1821; "August Schleicher"; }
  { rank = same; 1824; "Kuno Fischer"; }
+ { rank = same; 1827; "Jyotirao Phule"; }
  { rank = same; 1828; "Friedrich Albert Lange"; "Joseph Dietzgen"; }
  { rank = same; 1830; "Christoph von Sigwart"; }
- { rank = same; 1833; "Wilhelm Dilthey"; }
+ { rank = same; 1833; "Vasile Pogor"; "Wilhelm Dilthey"; }
  { rank = same; 1836; "Thomas Hill Green"; }
- { rank = same; 1837; "African Spir"; }
+ { rank = same; 1837; "African Spir"; "Victoria, Lady Welby"; }
  { rank = same; 1838; "Franz Brentano"; "Henry Sidgwick"; }
  { rank = same; 1840; "August Leskien"; "George Sylvester Morris"; }
- { rank = same; 1842; "Karl Robert Eduard von Hartmann"; "William James"; }
+ { rank = same; 1842; "Karl Robert Eduard von Hartmann"; "Josef Breuer"; "Peter Kropotkin"; "William James"; }
  { rank = same; 1843; "Richard Avenarius"; "Antonio Labriola"; }
  { rank = same; 1844; "Friedrich Nietzsche"; }
- { rank = same; 1848; "Gottlob Frege"; "Carl Stumpf"; }
- { rank = same; 1852; "Hans Vaihinger"; }
+ { rank = same; 1845; "Jan Baudouin de Courtenay"; }
+ { rank = same; 1846; "F. H. Bradley"; "Rudolf Christoph Eucken"; }
+ { rank = same; 1847; "Georges Sorel"; }
+ { rank = same; 1848; "Gottlob Frege"; "Wilhelm Windelband"; "Carl Stumpf"; }
+ { rank = same; 1852; "Hans Vaihinger"; "Mitrofan Lodyzhensky"; }
  { rank = same; 1853; "Alexius Meinong"; "Vladimir Solovyov  philosopher "; }
+ { rank = same; 1854; "Karl Kautsky"; }
  { rank = same; 1855; "Josiah Royce"; }
+ { rank = same; 1856; "A. D. Gordon"; }
  { rank = same; 1857; "Shibli Nomani"; "Ferdinand de Saussure"; }
- { rank = same; 1859; "Edmund Husserl"; "Samuel Alexander"; "Henri Bergson"; }
- { rank = same; 1861; "Rudolf Steiner"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Alfred North Whitehead"; }
+ { rank = same; 1858; "Georg Simmel"; "Gaetano Mosca"; }
+ { rank = same; 1859; "Edmund Husserl"; "Christian von Ehrenfels"; "Samuel Alexander"; "Henri Bergson"; "John Dewey"; }
+ { rank = same; 1860; "Alejandro Korn"; }
+ { rank = same; 1861; "Rudolf Steiner"; "Han Ryner"; "Pierre Duhem"; "Tajuddin Muhammad Badruddin"; "Alfred North Whitehead"; }
  { rank = same; 1862; "Georges Palante"; }
  { rank = same; 1863; "George Herbert Mead"; "Heinrich Rickert"; "George Santayana"; }
  { rank = same; 1864; "Charles Cooley"; "F. C. S. Schiller"; }
- { rank = same; 1866; "J. M. E. McTaggart"; "Benedetto Croce"; }
- { rank = same; 1870; "Nikolay Lossky"; }
+ { rank = same; 1865; "Abdulhakim Arvasi"; }
+ { rank = same; 1866; "George Gurdjieff"; "J. M. E. McTaggart"; "Lev Shestov"; "Benedetto Croce"; }
+ { rank = same; 1868; "Charles Maurras"; "Edward Abramowski"; "Henri Bourassa"; }
+ { rank = same; 1869; "Emma Goldman"; }
+ { rank = same; 1870; "Upasni Maharaj"; "Kitaro Nishida"; "Nikolay Lossky"; }
+ { rank = same; 1871; "Harold Arthur Prichard"; }
  { rank = same; 1872; "Bertrand Russell"; }
  { rank = same; 1873; "G. E. Moore"; }
  { rank = same; 1874; "Nikolai Berdyaev"; "Ernst Cassirer"; "Max Scheler"; }
  { rank = same; 1875; "Giovanni Gentile"; "Emil Lask"; }
- { rank = same; 1877; "W. D. Ross"; }
- { rank = same; 1878; "Martin Buber"; "Othmar Spann"; }
- { rank = same; 1879; "Muhammad Sirajuddin Naqshbandi"; }
+ { rank = same; 1876; "Ghulam Bhik Nairang"; "Muhammad ibn al-Habib"; }
+ { rank = same; 1877; "W. D. Ross"; "Muhammad Iqbal"; "Maurice Halbwachs"; }
+ { rank = same; 1878; "Martin Buber"; "Othmar Spann"; "Ion Dragoumis"; }
+ { rank = same; 1879; "Helena Roerich"; "Muhammad Sirajuddin Naqshbandi"; "Husain Ahmad Madani"; }
  { rank = same; 1880; "Oswald Spengler"; "Otto Weininger"; "Morris Raphael Cohen"; }
  { rank = same; 1881; "Hans Kelsen"; }
- { rank = same; 1882; "Jacques Maritain"; "Nicolai Hartmann"; }
+ { rank = same; 1882; "Otto Neurath"; "Jacques Maritain"; "Nicolai Hartmann"; "Moritz Schlick"; }
  { rank = same; 1883; "Karl Jaspers"; "Clarence Irving Lewis"; }
- { rank = same; 1884; "Gaston Bachelard"; }
- { rank = same; 1886; "Kurt Koffka"; "Franz Rosenzweig"; }
- { rank = same; 1887; "C. D. Broad"; }
+ { rank = same; 1884; "Jun Tsuji"; "Gaston Bachelard"; }
+ { rank = same; 1885; "Zechariah Chafee"; "Ernst Bloch"; "Wilfred Talbot Smith"; }
+ { rank = same; 1886; "Karl Korsch"; "Kurt Grelling"; "Kurt Koffka"; "Franz Rosenzweig"; }
+ { rank = same; 1887; "Richard Thomas Alexander"; "C. D. Broad"; }
  { rank = same; 1888; "Carl Schmitt"; }
- { rank = same; 1889; "Martin Heidegger"; "Ludwig Wittgenstein"; }
- { rank = same; 1891; "Rudolf Carnap"; }
- { rank = same; 1892; "Walter Benjamin"; "Muhammad Husayn Tabatabai"; }
- { rank = same; 1893; "John Anderson  philosopher "; }
- { rank = same; 1895; "Max Horkheimer"; }
+ { rank = same; 1889; "Martin Heidegger"; "Taha Hussein"; "Gabriel Marcel"; "Tetsuro Watsuji"; "Xavier Zubiri"; "Ludwig Wittgenstein"; "Hans Lipps"; }
+ { rank = same; 1890; "Renzo Novatore"; }
+ { rank = same; 1891; "Rudolf Carnap"; "Hans Reichenbach"; }
+ { rank = same; 1892; "Edwin Arthur Burtt"; "Walter Benjamin"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1893; "Roman Ingarden"; "John Anderson  philosopher "; }
+ { rank = same; 1894; "Suzanne Briet"; }
+ { rank = same; 1895; "Louis Arnaud Reid"; "Max Horkheimer"; "Mikhail Bakhtin"; "Cornelius Van Til"; }
  { rank = same; 1896; "Roman Jakobson"; }
- { rank = same; 1897; "Georges Bataille"; "Norbert Elias"; "Charles Hartshorne"; }
- { rank = same; 1898; "Qalandar Baba Auliya"; "Herbert Marcuse"; }
- { rank = same; 1900; "Richard McKeon"; "Gilbert Ryle"; }
- { rank = same; 1901; "Jacques Lacan"; "Ernest Nagel"; "Henri Lefebvre"; }
- { rank = same; 1902; "Lon L. Fuller"; }
- { rank = same; 1903; "Frank P. Ramsey"; "Hans Jonas"; "Muhammad Husayn Tabatabai"; }
- { rank = same; 1904; "Georges Canguilhem"; }
- { rank = same; 1905; "Jean-Paul Sartre"; }
+ { rank = same; 1897; "Tan Malaka"; "Georges Bataille"; "Muhammad Taqi-ud-Din al-Hilali"; "Norbert Elias"; "Charles Hartshorne"; }
+ { rank = same; 1898; "Qalandar Baba Auliya"; "Herbert Marcuse"; "Xavier Zubiri"; }
+ { rank = same; 1899; "Peter Wessel Zapffe"; "Leo Strauss"; "Zaki al-Arsuzi"; }
+ { rank = same; 1900; "Hans-Georg Gadamer"; "Herbert Blumer"; "Muhammad Asad"; "Richard McKeon"; "Gilbert Ryle"; }
+ { rank = same; 1901; "Jacques Lacan"; "Ernest Nagel"; "Michael Oakeshott"; "Henri Lefebvre"; "Eric Voegelin"; }
+ { rank = same; 1902; "Karl Popper"; "Sidney Hook"; "Gordon Clark"; "Lon L. Fuller"; }
+ { rank = same; 1903; "Theodor W. Adorno"; "Frank P. Ramsey"; "Hans Jonas"; "Henry Corbin"; "Muhammad Husayn Tabataba'i"; }
+ { rank = same; 1904; "Josef Pieper"; "Karl Rahner"; "Georges Canguilhem"; "Amin Ahsan Islahi"; "Antoun Saadeh"; }
+ { rank = same; 1905; "Jean-Paul Sartre"; "Carl Gustav Hempel"; "Raymond Aron"; "Jean Gebser"; }
  { rank = same; 1906; "Emmanuel Levinas"; "Hannah Arendt"; "Nelson Goodman"; }
- { rank = same; 1907; "H. L. A. Hart"; }
- { rank = same; 1908; "Simone de Beauvoir"; "Willard Van Orman Quine"; }
+ { rank = same; 1907; "Maurice Blanchot"; "H. L. A. Hart"; }
+ { rank = same; 1908; "Simone de Beauvoir"; "Muhammad Hamidullah"; "Maurice Merleau-Ponty"; "Willard Van Orman Quine"; "Hamka"; }
+ { rank = same; 1909; "Simone Weil"; "Isaiah Berlin"; "Norberto Bobbio"; }
  { rank = same; 1910; "A. J. Ayer"; }
- { rank = same; 1911; "Marshall McLuhan"; "J. L. Austin"; }
- { rank = same; 1912; "Jacques Ellul"; "Wilfrid Sellars"; }
- { rank = same; 1915; "Roland Barthes"; }
- { rank = same; 1916; "Georg Henrik von Wright"; "Peter Geach"; }
- { rank = same; 1917; "Donald Davidson  philosopher "; }
- { rank = same; 1918; "Louis Althusser"; }
- { rank = same; 1919; "P. F. Strawson"; "R. M. Hare"; }
- { rank = same; 1920; "Philippa Foot"; }
- { rank = same; 1921; "Raymond Williams"; "Walter Kaufmann  philosopher "; }
- { rank = same; 1922; "Imre Lakatos"; "Cornelius Castoriadis"; }
- { rank = same; 1923; "Jacob Taubes"; }
- { rank = same; 1924; "Paul Feyerabend"; "Gilbert Simondon"; "Kostas Axelos"; }
- { rank = same; 1925; "Gilles Deleuze"; }
- { rank = same; 1926; "Hilary Putnam"; "Ivan Illich"; "Stanley Cavell"; "Michel Foucault"; }
- { rank = same; 1927; "Dieter Henrich"; "Burton Dreben"; }
- { rank = same; 1928; "Noam Chomsky"; "Nicholas Rescher"; }
- { rank = same; 1929; "Hubert Dreyfus"; }
- { rank = same; 1930; "Luce Irigaray"; }
- { rank = same; 1931; "Richard Rorty"; "Charles Taylor  philosopher "; }
- { rank = same; 1932; "Alvin Plantinga"; "Luce Irigaray"; "Nicholas Wolterstorff"; }
- { rank = same; 1934; "Pierre Clastres"; "Richard Swinburne"; }
- { rank = same; 1935; "Michael Walzer"; }
- { rank = same; 1936; "Gianni Vattimo"; }
- { rank = same; 1937; "Alain Badiou"; }
- { rank = same; 1940; "John D. Caputo"; }
- { rank = same; 1941; "David Lewis  philosopher "; "Bas van Fraassen"; }
- { rank = same; 1946; "Predrag Finci"; }
+ { rank = same; 1911; "Marshall McLuhan"; "J. L. Austin"; "Norman Malcolm"; }
+ { rank = same; 1912; "Northrop Frye"; "Jacques Ellul"; "Wilfrid Sellars"; }
+ { rank = same; 1913; "Paul Grice"; "George Hourani"; }
+ { rank = same; 1914; "Arthur Prior"; "Justus Buchler"; }
+ { rank = same; 1915; "Ahamed Mohiyudheen Noorishah Jeelani"; "Roland Barthes"; "Alan Watts"; }
+ { rank = same; 1916; "Georg Henrik von Wright"; "Peter Geach"; "Roderick Chisholm"; }
+ { rank = same; 1917; "J. L. Mackie"; "Donald Davidson  philosopher "; }
+ { rank = same; 1918; "George Grant  philosopher "; "Louis Althusser"; }
+ { rank = same; 1919; "William A. Earle"; "P. F. Strawson"; "R. M. Hare"; }
+ { rank = same; 1920; "Philippa Foot"; "Jules Vuillemin"; }
+ { rank = same; 1921; "John Rawls"; "Raymond Williams"; "Walter Kaufmann  philosopher "; "Milan Komar"; }
+ { rank = same; 1922; "Imre Lakatos"; "Thomas Kuhn"; "Karl-Otto Apel"; "Pierre Hadot"; "Cornelius Castoriadis"; "Patrick Suppes"; "Sheldon Wolin"; }
+ { rank = same; 1923; "Jacob Taubes"; "Richard Popkin"; }
+ { rank = same; 1924; "Paul Feyerabend"; "Evald Ilyenkov"; "Gilbert Simondon"; "Kenneth Waltz"; "Kostas Axelos"; "Arthur Danto"; }
+ { rank = same; 1925; "Michael Dummett"; "Gilles Deleuze"; "Ernest Gellner"; "John B. Cobb"; }
+ { rank = same; 1926; "Hilary Putnam"; "Pino Rauti"; "Ivan Illich"; "Stanley Cavell"; "Peter G. Ossorio"; "Michel Foucault"; "Herbert McCabe"; }
+ { rank = same; 1927; "David Stove"; "Dieter Henrich"; "Khwaja Shamsuddin Azeemi"; "Burton Dreben"; }
+ { rank = same; 1928; "Noam Chomsky"; "Odo Marquard"; "Nicholas Rescher"; "Mary Daly"; }
+ { rank = same; 1929; "Alasdair MacIntyre"; "Bernard Williams"; "Jean Baudrillard"; "Roy Johnston"; "Harry Frankfurt"; "Hubert Dreyfus"; }
+ { rank = same; 1930; "Allan Bloom"; "Luce Irigaray"; "Wolfgang Smith"; "T. K. Seung"; "Michel Serres"; "Jacques Derrida"; "Pierre Bourdieu"; "Frithjof Bergmann"; }
+ { rank = same; 1931; "Guy Debord"; "Ronald Dworkin"; "Richard Rorty"; "Charles Taylor  philosopher "; }
+ { rank = same; 1932; "Alvin Plantinga"; "Richard J. Bernstein"; "Luce Irigaray"; "Nicholas Wolterstorff"; "Sayyid Ghulam Hussain Shah Bukhari"; "Israr Ahmed"; "Norman Geisler"; }
+ { rank = same; 1933; "Antonio Negri"; }
+ { rank = same; 1934; "Don Ihde"; "Pierre Clastres"; "Fredric Jameson"; "Evandro Agazzi"; "Raoul Vaneigem"; "Bernard Gert"; "Richard Swinburne"; }
+ { rank = same; 1935; "Michael Walzer"; "Ernesto Laclau"; "Edward Said"; "Jerry Fodor"; "Peter Achinstein"; }
+ { rank = same; 1936; "Nicos Poulantzas"; "Gianni Vattimo"; }
+ { rank = same; 1937; "Alain Badiou"; "Arthur Fine"; }
+ { rank = same; 1938; "Robert Nozick"; "David B. Zilberman"; }
+ { rank = same; 1939; "Joseph Raz"; "Kendall Walton"; }
+ { rank = same; 1940; "Saul Kripke"; "John D. Caputo"; "Hans Kamp"; "John Grinder"; }
+ { rank = same; 1941; "Syed Shujaat Ali Qadri"; "David Lewis  philosopher "; "Bas van Fraassen"; "Gerald Cohen"; }
+ { rank = same; 1942; "Daniel Dennett"; "Chris Harman"; "Crispin Wright"; "Giorgio Agamben"; "Abu Abd al-Rahman Ibn Aqil al-Zahiri"; "Derek Parfit"; "Duncan Kennedy  legal philosopher "; }
+ { rank = same; 1943; "Martha Albertson Fineman"; "Costanzo Preve"; "John Zerzan"; }
+ { rank = same; 1945; "Peter Lamborn Wilson"; "Manfred Frank"; "Susan Haack"; }
+ { rank = same; 1946; "Peter Singer"; "Claude Vorilhon"; "Predrag Finci"; }
+ { rank = same; 1947; "Gillian Rose"; "Peter Sloterdijk"; }
  { rank = same; 1948; "Robert B. Pippin"; }
+ { rank = same; 1949; "Axel Honneth"; "R. Radhakrishnan"; "William Lane Craig"; }
+ { rank = same; 1950; "Paul Thagard"; "Richard Tarnas"; "Robert Brandom"; }
+ { rank = same; 1951; "Bob Black"; }
+ { rank = same; 1952; "Bernard Stiegler"; "Christine Korsgaard"; "Amina Wadud"; }
+ { rank = same; 1953; "Sergei Starostin"; "Michael J. Sandel"; }
+ { rank = same; 1955; "Timothy Williamson"; "David Schmidtz"; }
+ { rank = same; 1956; "Judith Butler"; }
+ { rank = same; 1957; "Peter Ludlow"; }
+ { rank = same; 1958; "Mahmoud Mehrmohammadi"; }
+ { rank = same; 1962; "Muhammad Tahir"; "Nick Land"; }
+ { rank = same; 1963; "Mark Bevir"; }
+ { rank = same; 1966; "Phillip Blond"; "David Chalmers"; }
+ { rank = same; 1967; "Quentin Meillassoux"; }
+ { rank = same; 1968; "Graham Harman"; }
+ { rank = same; 1973; "Alexander Pruss"; "Peter Rollins"; }
  
  "Thales" -> "Pythagoras";
 "Anaximander" -> "Democritus";
@@ -350,7 +434,7 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "Giordano Bruno" -> "Gottfried Wilhelm Leibniz";
 "Giordano Bruno" -> "Arthur Schopenhauer";
 "Giordano Bruno" -> "Baruch Spinoza";
-"Mulla Sadra" -> "Muhammad Husayn Tabatabai";
+"Mulla Sadra" -> "Muhammad Husayn Tabataba'i";
 "Hugo Grotius" -> "Emer de Vattel";
 "Hugo Grotius" -> "Pierre-Joseph Proudhon";
 "Hugo Grotius" -> "Immanuel Kant";
@@ -477,7 +561,7 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "David Hume" -> "J. L. Mackie";
 "David Hume" -> "Jerry Fodor";
 "David Hume" -> "Arthur Schopenhauer";
-"David Hume" -> "Baron dHolbach";
+"David Hume" -> "Baron d'Holbach";
 "David Hume" -> "Bertrand Russell";
 "David Hume" -> "Immanuel Kant";
 "David Hume" -> "John Stuart Mill";
@@ -501,8 +585,8 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "Jean-Jacques Rousseau" -> "Thomas Paine";
 "Jean-Jacques Rousseau" -> "Jacques Derrida";
 "Alexander Gottlieb Baumgarten" -> "Immanuel Kant";
-"Baron dHolbach" -> "Adam Weishaupt";
-"Baron dHolbach" -> "Karl Marx";
+"Baron d'Holbach" -> "Adam Weishaupt";
+"Baron d'Holbach" -> "Karl Marx";
 "Immanuel Kant" -> "Johann Gottlieb Fichte";
 "Moses Mendelssohn" -> "Salomon Maimon";
 "Edmund Burke" -> "Hannah Arendt";
@@ -805,7 +889,7 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "Rudolf Carnap" -> "Thomas Kuhn";
 "Rudolf Carnap" -> "Nelson Goodman";
 "Walter Benjamin" -> "Theodor W. Adorno";
-"Muhammad Husayn Tabatabai" -> "Henry Corbin";
+"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
 "John Anderson  philosopher " -> "David Stove";
 "John Anderson  philosopher " -> "J. L. Mackie";
 "Max Horkheimer" -> "Theodor W. Adorno";
@@ -838,7 +922,7 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "Frank P. Ramsey" -> "Ludwig Wittgenstein";
 "Hans Jonas" -> "Hannah Arendt";
 "Hans Jonas" -> "Eric Voegelin";
-"Muhammad Husayn Tabatabai" -> "Henry Corbin";
+"Muhammad Husayn Tabataba'i" -> "Henry Corbin";
 "Georges Canguilhem" -> "Gilles Deleuze";
 "Georges Canguilhem" -> "Louis Althusser";
 "Georges Canguilhem" -> "Michel Foucault";
@@ -948,4 +1032,5 @@ node [shape=plaintext, fontsize=21.3333333333333];{
 "Predrag Finci" -> "Ludwig Wittgenstein";
 "Predrag Finci" -> "Plato";
 "Robert B. Pippin" -> "Robert Brandom";
+ 
 }

@@ -1,5 +1,5 @@
 digraph timeline { 
- ranksep=.75; splines=polyline; nodesep=.01; fixedsize=false; size = "1000,200";
+ ranksep=1; splines=polyline; nodesep=.01; fixedsize=false; size = "1000,200";
 
  { 
 node [shape=plaintext, fontsize=16];
@@ -8,7 +8,7 @@ node [shape=plaintext, fontsize=16];
 }
 
  node [shape=plaintext, fontsize=4];{
-"Will Hay"; "Groucho Marx"; "Henny Youngman"; "Phil Silvers"; "Irwin Corey"; "Johnny Carson"; "Charlie Callas"; "Flip Wilson"; "Grady Nutt"; "Paul Mooney  comedian "; "Robert Klein"; "Jay Leno"; "Rowan Atkinson"; "Vic Reeves"; "Jon Stewart"; "Eddie Izzard"; "Harry Hill"; "Ji Suk-jin"; "Jeong Hyeong-don"; }
+"Will Hay"; "Groucho Marx"; "Henny Youngman"; "Phil Silvers"; "Irwin Corey"; "Johnny Carson"; "Charlie Callas"; "Flip Wilson"; "Grady Nutt"; "Paul Mooney "; "Robert Klein"; "Jay Leno"; "Rowan Atkinson"; "Vic Reeves"; "Jon Stewart"; "Eddie Izzard"; "Harry Hill"; "Ji Suk-jin"; "Jeong Hyeong-don"; }
 node [shape=plaintext, fontsize=16];{
 "Moms Mabley"; "Don Rickles"; "Mort Sahl"; "Bob Newhart"; }
 node [shape=plaintext, fontsize=20];{
@@ -23,38 +23,60 @@ node [shape=plaintext, fontsize=28];{
 "Richard Pryor"; }
  
  node [shape=plaintext, fontsize= 4 ]; 
-  { rank = same; 1888; "Will Hay"; }
+  { rank = same; 1886; "Ed Wynn"; }
+ { rank = same; 1888; "Will Hay"; }
  { rank = same; 1890; "Groucho Marx"; }
+ { rank = same; 1893; "Harold Lloyd"; }
  { rank = same; 1894; "Moms Mabley"; }
  { rank = same; 1906; "Henny Youngman"; }
- { rank = same; 1911; "Phil Silvers"; }
+ { rank = same; 1910; "Charlie Cairoli"; }
+ { rank = same; 1911; "Belle Barth"; "Phil Silvers"; "Wim Kan"; }
  { rank = same; 1914; "Irwin Corey"; }
- { rank = same; 1918; "Jack Paar"; }
+ { rank = same; 1918; "Spike Milligan"; "Jack Paar"; "Nipsey Russell"; }
  { rank = same; 1921; "Rodney Dangerfield"; }
  { rank = same; 1925; "Lenny Bruce"; "Johnny Carson"; "Jonathan Winters"; }
- { rank = same; 1926; "Don Rickles"; }
+ { rank = same; 1926; "Jerry Clower"; "Soupy Sales"; "Don Rickles"; }
  { rank = same; 1927; "Charlie Callas"; "Ken Dodd"; "Mort Sahl"; }
  { rank = same; 1929; "Bob Newhart"; }
  { rank = same; 1933; "Flip Wilson"; }
- { rank = same; 1934; "Grady Nutt"; }
+ { rank = same; 1934; "Grady Nutt"; "Rip Taylor"; }
  { rank = same; 1936; "David Brenner"; }
+ { rank = same; 1937; "Cardis Cardell Willis"; "Bill Saluga"; }
  { rank = same; 1940; "Richard Pryor"; }
- { rank = same; 1941; "Paul Mooney  comedian "; }
- { rank = same; 1942; "Robert Klein"; "Billy Connolly"; }
- { rank = same; 1947; "David Letterman"; "Larry David"; }
- { rank = same; 1949; "Garry Shandling"; }
+ { rank = same; 1941; "Paul Mooney "; }
+ { rank = same; 1942; "Robert Klein"; "Billy Connolly"; "Chevy Chase"; }
+ { rank = same; 1943; "Chevy Chase"; }
+ { rank = same; 1944; "Kenny Everett"; }
+ { rank = same; 1946; "Blake Clark"; "Chris Rush"; }
+ { rank = same; 1947; "David Letterman"; "Ronnie Shakes"; "Larry David"; "Richard Lewis "; }
+ { rank = same; 1948; "Lewis Black"; }
+ { rank = same; 1949; "John Belushi"; "Garry Shandling"; }
  { rank = same; 1950; "Jay Leno"; }
- { rank = same; 1955; "Rowan Atkinson"; }
- { rank = same; 1957; "Frank Skinner"; }
- { rank = same; 1959; "Vic Reeves"; }
- { rank = same; 1961; "Jerry Sadowitz"; }
- { rank = same; 1962; "Jon Stewart"; "Eddie Izzard"; }
- { rank = same; 1964; "Harry Hill"; }
+ { rank = same; 1951; "Ian Macpherson "; "Peter Richardson  English director "; }
+ { rank = same; 1952; "Tom Davis "; "Alexei Sayle"; }
+ { rank = same; 1953; "Dennis Miller"; }
+ { rank = same; 1955; "Dana Carvey"; "Rowan Atkinson"; }
+ { rank = same; 1956; "Emo Philips"; }
+ { rank = same; 1957; "Frank Skinner"; "Paul Merton"; }
+ { rank = same; 1958; "Rik Mayall"; }
+ { rank = same; 1959; "Jim Krenn"; "Vic Reeves"; }
+ { rank = same; 1960; "Brad Stine"; "Kathy Griffin"; }
+ { rank = same; 1961; "Eddie Murphy"; "Harry Enfield"; "Jack Dee"; "Jerry Sadowitz"; }
+ { rank = same; 1962; "Jack Dee"; "Jon Stewart"; "Shaun Micallef"; "Ted Chippington"; "Eddie Izzard"; }
+ { rank = same; 1963; "Armando Iannucci"; "Conan O'Brien"; "Larry the Cable Guy"; }
+ { rank = same; 1964; "David Baddiel"; "Stephen Colbert"; "Harry Hill"; }
+ { rank = same; 1965; "Andreu Buenafuente"; "Martin Lawrence"; }
  { rank = same; 1966; "Ji Suk-jin"; }
- { rank = same; 1970; "Park Myeong-su"; }
- { rank = same; 1971; "Jeong Jun-ha"; }
- { rank = same; 1972; "Yoo Jae-suk"; }
+ { rank = same; 1967; "Doug Stanhope"; "Louis C.K."; }
+ { rank = same; 1968; "Eddie Griffin"; "Al Murray"; }
+ { rank = same; 1970; "Sarah Silverman"; "Adam Hills"; "Park Myeong-su"; }
+ { rank = same; 1971; "Stephen Lynch  musician "; "Jeong Jun-ha"; }
+ { rank = same; 1972; "Vernon Chatman"; "Yoo Jae-suk"; }
+ { rank = same; 1973; "Peter Kay"; }
+ { rank = same; 1974; "Kim Min-kyo"; "Steve Byrne"; }
  { rank = same; 1978; "Jeong Hyeong-don"; }
+ { rank = same; 1979; "Noh Hong-chul"; }
+ { rank = same; 1980; "Chris D'Elia"; }
  
  "Will Hay" -> "Ken Dodd";
 "Groucho Marx" -> "Johnny Carson";
@@ -70,7 +92,7 @@ node [shape=plaintext, fontsize=28];{
 "Jack Paar" -> "Robert Klein";
 "Jack Paar" -> "Don Rickles";
 "Jack Paar" -> "Johnny Carson";
-"Rodney Dangerfield" -> "Conan OBrien";
+"Rodney Dangerfield" -> "Conan O'Brien";
 "Rodney Dangerfield" -> "Robert Klein";
 "Lenny Bruce" -> "John Belushi";
 "Lenny Bruce" -> "Cardis Cardell Willis";
@@ -81,8 +103,8 @@ node [shape=plaintext, fontsize=28];{
 "Lenny Bruce" -> "Lewis Black";
 "Lenny Bruce" -> "Richard Pryor";
 "Johnny Carson" -> "David Letterman";
-"Jonathan Winters" -> "Conan OBrien";
-"Jonathan Winters" -> "Richard Lewis  comedian ";
+"Jonathan Winters" -> "Conan O'Brien";
+"Jonathan Winters" -> "Richard Lewis ";
 "Jonathan Winters" -> "Lewis Black";
 "Don Rickles" -> "David Letterman";
 "Don Rickles" -> "Jay Leno";
@@ -96,26 +118,26 @@ node [shape=plaintext, fontsize=28];{
 "Mort Sahl" -> "Cardis Cardell Willis";
 "Mort Sahl" -> "Jon Stewart";
 "Bob Newhart" -> "Jay Leno";
-"Bob Newhart" -> "Conan OBrien";
+"Bob Newhart" -> "Conan O'Brien";
 "Bob Newhart" -> "Chris Rush";
 "Bob Newhart" -> "Lewis Black";
-"Flip Wilson" -> "Paul Mooney  comedian ";
+"Flip Wilson" -> "Paul Mooney ";
 "Grady Nutt" -> "Jerry Clower";
 "David Brenner" -> "David Letterman";
 "David Brenner" -> "Jay Leno";
-"David Brenner" -> "Richard Lewis  comedian ";
+"David Brenner" -> "Richard Lewis ";
 "Richard Pryor" -> "Eddie Murphy";
 "Richard Pryor" -> "Martin Lawrence";
 "Richard Pryor" -> "Jon Stewart";
-"Richard Pryor" -> "Richard Lewis  comedian ";
+"Richard Pryor" -> "Richard Lewis ";
 "Richard Pryor" -> "Louis C.K.";
 "Richard Pryor" -> "Eddie Izzard";
 "Richard Pryor" -> "Lewis Black";
-"Paul Mooney  comedian " -> "Eddie Griffin";
+"Paul Mooney " -> "Eddie Griffin";
 "Robert Klein" -> "Jay Leno";
 "Billy Connolly" -> "Eddie Izzard";
 "Billy Connolly" -> "Peter Kay";
-"David Letterman" -> "Conan OBrien";
+"David Letterman" -> "Conan O'Brien";
 "David Letterman" -> "Jon Stewart";
 "David Letterman" -> "Stephen Colbert";
 "Larry David" -> "Sarah Silverman";
@@ -141,4 +163,5 @@ node [shape=plaintext, fontsize=28];{
 "Yoo Jae-suk" -> "Noh Hong-chul";
 "Yoo Jae-suk" -> "Jeong Hyeong-don";
 "Jeong Hyeong-don" -> "Noh Hong-chul";
+ 
 }
